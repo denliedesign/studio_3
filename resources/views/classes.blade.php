@@ -15,9 +15,9 @@
         <p>
             Studio 3 takes pride in creating a learning experience that is positive and rewarding for dancers of all ages & levels. We offer a diverse schedule of dance classes for children ages 24 months and up year round. Our main dance season runs from mid August through the end of May. To get the most out of your dance year, enrollment at the beginning of our season is best.
         </p>
-        <div class="row">
+        <div class="row m-0 p-0">
             <div class="col-sm">
-                <div class="rotated-bg-blue mx-5 mt-5 mb-3 rounded">
+                <div class="rotated-bg-blue mt-5 mb-3 rounded">
                     <div class="text-center pt-4 stand-out">Children's Classes</div>
                     <a href="/images/childrens-classes.png" target="_blank"><img src="/images/childrens-classes.png" alt="childrens classes" class="px-5 pb-5 rerotate img-fluid"></a>
                 </div>
@@ -28,7 +28,7 @@
                 </div>
             </div>
             <div class="col-sm">
-                <div class="rotated-bg-red mx-5 mt-5 mb-3 rounded">
+                <div class="rotated-bg-red mt-5 mb-3 rounded">
                     <div class="text-center pt-4 stand-out text-white">Leveled Classes</div>
                     <a href="/images/leveled-classes.png" target="_blank"><img src="/images/leveled-classes.png" alt="leveled classes" class="px-5 pb-5 rerotate img-fluid"></a>
                 </div>

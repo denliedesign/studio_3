@@ -14,8 +14,8 @@
             <br><br>
             Our goal is to make the recital an organized, exciting experience for everyone involved.
         </p>
-        <div class="row rounded rotated-bg-red">
-            <div class="rerotate col-sm m-3 p-3 shadow rounded" style="background: white;">
+        <div class="row rounded rotated-bg-red p-0 m-0">
+            <div class="rerotate col-sm p-3 mx-sm-3 my-3 shadow rounded" style="background: white;">
                 <strong>Financial Commitment for Spring Recital 2021</strong>
                 <p>
                     11/15/20 - 1/2 Costume Fee
@@ -24,7 +24,7 @@
                 </p>
                 <img src="/images/recital-ballet.jpg" alt="recital ballerinas" class="img-fluid">
             </div>
-            <div class="rerotate col-sm m-3 p-3 shadow rounded" style="background: white;">
+            <div class="rerotate col-sm p-3 mx-sm-3 my-3 shadow rounded" style="background: white;">
                 <strong>Recital Fee and Date</strong>
                 <p>
                     The Recital Fee is the fee charged each dancer for participation in our Spring Recital.  The Recital Fee is a NON-REFUNDABLE fee confirming your commitment to be a part of our performance. The recital fee is due in January.  It is $85 for the first child in the family and $45 for each additional child in the same family.  This fee does not include tickets to the performance.
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="row" style="padding: 20px 0;">
-            <div class="col-sm m-3 p-3 shadow rounded">
+            <div class="col-sm mx-sm-3 my-3 p-3 shadow rounded">
                 <strong>Costumes</strong>
                 <p>
                     The staff at Studio 3 spends many hours selecting costumes for each class. They are always age-appropriate and of the highest quality possible.  Students will need one costume for each subject they train in. All classes participate in the recital except Stretch and Flex, Technique and Mommy & Me. Combo classes only perform one dance.  <u>Costume prices include tax, shipping and handling, as well as all accessories (tights, hats, gloves, etc.).</u>
@@ -57,19 +57,19 @@
             </div>
         </div>
         <div class="row rounded rotated-bg-blue">
-            <div class="rerotate col-sm m-3 p-3 shadow rounded" style="background: white;">
+            <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded" style="background: white;">
                 <strong>Sizing</strong>
                 <p>
                     Measuring for costumes is during October and early November during scheduled class times. Each child will be measured in order to determine his or her proper costume size(s). We always add 1-2 inches to allow for growth.  If you wish to check the costume size being ordered for your dancer, please check at the front desk in early December.
                 </p>
             </div>
-            <div class="rerotate col-sm m-3 p-3 shadow rounded" style="background: white;">
+            <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded" style="background: white;">
                 <strong>Alterations</strong>
                 <p>
                     Although rare, minor alterations are sometimes needed after the costumes have been distributed and are the responsibility of the student’s parent or guardian.
                 </p>
             </div>
-            <div class="rerotate col-sm m-3 p-3 shadow rounded" style="background: white;">
+            <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded" style="background: white;">
                 <strong>Distribution</strong>
                 <p>
                     Costumes will be distributed the week of May 3, 2021. All accounts must have a zero balance to receive costumes.
@@ -81,19 +81,19 @@
             </div>
         </div>
         <div class="row rotated-bg-white">
-            <div class="rerotate col-sm m-3 p-3 shadow rounded">
+            <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded">
                 <strong>Withdrawal</strong>
                 <p>
                     No refunds will be made if a parent or guardian withdraws a child from Studio 3 after costumes have been ordered.  Parents or guardians may pick up purchased costumes at Studio 3 after June 8, 2021.  Costumes not picked up will be donated to charity after June 30, 2021.
                 </p>
             </div>
-            <div class="rerotate col-sm m-3 p-3 shadow rounded">
+            <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded">
                 <strong>Updates</strong>
                 <p>
                     As the season progresses, additional recital information or updates will be emailed, posted on the Studio 3 Dance website, studio3dance.com, in monthly emailed newsletters, and on the studio bulletin board. Make it your responsibility to keep abreast of this important information. Our goal is to make the Recital an organized, exciting experience for everyone involved.It’s a team effort; students, parents, teachers, and the director are all key players in the show’s success.
                 </p>
             </div>
-            <div class="rerotate col-sm m-3 p-3 shadow rounded">
+            <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded">
                 <strong>Tickets</strong>
                 <p>
                     Performance tickets will be sold through the Eisemann ticket center in early May. Ticket prices will be available in early April 2021.

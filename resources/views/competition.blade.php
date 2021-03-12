@@ -23,7 +23,7 @@
                         </div>
                     </div>
                     <div class="col-sm-5 d-flex align-items-center justify-content-center p-0">
-                        <img src="/storage/performance-1.JPG" alt="performance team" class="img-fluid rounded">
+                        <img src="/images/performance-1.JPG" alt="performance team" class="img-fluid rounded">
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@
         <div class="my-5 py-5">
             <div class="row">
                 <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/storage/sparkle-squad-logo.jpg" alt="sparkle squad logo" class="img-fluid" style="max-height: 100px;">
+                    <img src="/images/sparkle-squad-logo.jpg" alt="sparkle squad logo" class="img-fluid" style="max-height: 100px;">
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
@@ -49,7 +49,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/storage/sparkle-squad-logo.jpg" alt="sparkle squad logo" class="img-fluid" style="max-height: 100px;">
+                    <img src="/images/sparkle-squad-logo.jpg" alt="sparkle squad logo" class="img-fluid" style="max-height: 100px;">
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
@@ -66,7 +66,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/storage/show-stars-logo.png" alt="show stars logo" class="img-fluid" style="max-height: 100px;">
+                    <img src="/images/show-stars-logo.png" alt="show stars logo" class="img-fluid" style="max-height: 100px;">
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
@@ -83,7 +83,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/storage/show-stars-logo.png" alt="show stars logo" class="img-fluid" style="max-height: 100px;">
+                    <img src="/images/show-stars-logo.png" alt="show stars logo" class="img-fluid" style="max-height: 100px;">
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
@@ -100,7 +100,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/storage/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">
+                    <img src="/images/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
@@ -117,7 +117,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/storage/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">
+                    <img src="/images/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
@@ -161,7 +161,7 @@
                         </div>
                     </div>
                     <div class="col-sm-5 d-flex align-items-center justify-content-center p-0">
-                        <img src="/storage/competitive-1.jpg" alt="competitive team" class="img-fluid rounded">
+                        <img src="/images/competitive-1.jpg" alt="competitive team" class="img-fluid rounded">
                     </div>
                 </div>
             </div>

@@ -1,7 +1,7 @@
 <x-app-layout>
 
     <video width="100%" height="auto" controls>
-        <source src="/storage/spring-recital.mp4" type="video/mp4">
+        <source src="/images/spring-recital.mp4" type="video/mp4">
     </video>
 
     <div class="container mt-5" id="performances">
@@ -22,7 +22,7 @@
                     <br>12/15/20 - Costume Balance
                     <br>1/15/21 - Spring Recital Fee $85($45 for additional children)
                 </p>
-                <img src="/storage/recital-ballet.jpg" alt="recital ballerinas" class="img-fluid">
+                <img src="/images/recital-ballet.jpg" alt="recital ballerinas" class="img-fluid">
             </div>
             <div class="rerotate col-sm m-3 p-3 shadow rounded" style="background: white;">
                 <strong>Recital Fee and Date</strong>
@@ -34,7 +34,7 @@
                     <em>We will have details on specific recital times for each individual class after our production meeting with the Eisemann in early March.</em>
                     <br><br>
                     The recital is not mandatory for any dancer, but more than 98% of our dancers in recital classes do make the choice to participate. If you'd like to opt your dancer out of recital, please print and fill out
-                    <a href="/storage/spring-recital-form.png" target="_blank">this form.</a>
+                    <a href="/images/spring-recital-form.png" target="_blank">this form.</a>
                 </p>
             </div>
         </div>
@@ -102,46 +102,46 @@
         </div>
         <span class="stand-out">Plano Christmas Parade</span>
         <div class="row d-flex justify-content-center mb-5 rotated-bg-red rounded">
-            <div class="rerotate col-sm"><img src="/storage/plano-christmas-parade.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
-            <div class="rerotate col-sm"><img src="/storage/plano-christmas-parade-2.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
-            <div class="rerotate col-sm"><img src="/storage/plano-christmas-parade-3.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
+            <div class="rerotate col-sm"><img src="/images/plano-christmas-parade.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
+            <div class="rerotate col-sm"><img src="/images/plano-christmas-parade-2.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
+            <div class="rerotate col-sm"><img src="/images/plano-christmas-parade-3.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
         </div>
         <span class="stand-out">Snow Queen</span>
         <p>We present our winter ballet, Snow Queen every other year. Our next ballet will be winter 2021.</p>
         <div class="row d-flex justify-content-center">
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">
-                    <source src="/storage/snow-queen-2017.mp4" type="video/mp4">
+                    <source src="/images/snow-queen-2017.mp4" type="video/mp4">
                 </video>
                 <p class="text-center">Snow Queen 2017</p>
             </div>
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">
-                    <source src="/storage/snow-queen-1.mp4" type="video/mp4">
+                    <source src="/images/snow-queen-1.mp4" type="video/mp4">
                 </video>
                 <p class="text-center">Snow Queen 1</p>
             </div>
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">
-                    <source src="/storage/snow-queen-2.mp4" type="video/mp4">
+                    <source src="/images/snow-queen-2.mp4" type="video/mp4">
                 </video>
                 <p class="text-center">Snow Queen 2</p>
             </div>
         </div>
         <div class="row d-flex justify-content-center">
             <div class="col-sm">
-                <img src="/storage/snow-queen-1.jpg" alt="snow queen ballet performance" class="img-fluid mb-3">
+                <img src="/images/snow-queen-1.jpg" alt="snow queen ballet performance" class="img-fluid mb-3">
             </div>
             <div class="col-sm">
-                <img src="/storage/snow-queen-2.jpg" alt="snow queen ballet performance" class="img-fluid mb-3">
+                <img src="/images/snow-queen-2.jpg" alt="snow queen ballet performance" class="img-fluid mb-3">
             </div>
         </div>
         <div class="row d-flex justify-content-center">
             <div class="col-sm">
-                <img src="/storage/snow-queen-3.jpg" alt="snow queen ballet performance" class="img-fluid mb-3">
+                <img src="/images/snow-queen-3.jpg" alt="snow queen ballet performance" class="img-fluid mb-3">
             </div>
             <div class="col-sm">
-                <img src="/storage/snow-queen-4.jpg" alt="snow queen ballet performance" class="img-fluid">
+                <img src="/images/snow-queen-4.jpg" alt="snow queen ballet performance" class="img-fluid">
             </div>
         </div>
     </div>

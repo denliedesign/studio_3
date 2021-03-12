@@ -1,7 +1,7 @@
 <div class="container my-5" id="footer">
     <div class="row">
         <div class="col-sm">
-            <img src="/storage/studio-3-dance-logo.png" alt="studio 3 dance logo" class="img-fluid">
+            <img src="/images/studio-3-dance-logo.png" alt="studio 3 dance logo" class="img-fluid">
             <p style="color: #747474; font-size: .7em;" class="text-center">
                 Dance Studio Websites by Denlie Design.
                 <br>Copyright © 2021 Studio 3 Dance.

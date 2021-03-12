@@ -40,7 +40,7 @@
 
     <x-app-layout>
 
-        <img src="/storage/main.jpg" alt="ballet girls in tutus" class="img-fluid">
+        <img src="/images/main.jpg" alt="ballet girls in tutus" class="img-fluid">
 
         <section id="vision" class="container my-5">
             <div class="d-flex align-items-center justify-content-center">
@@ -53,7 +53,7 @@
                         </div>
                     </div>
                     <div class="col-sm d-flex align-items-center">
-                        <img src="/storage/main-2.jpg" alt="little ballet girls in tutus" style="max-height: 350px; width: auto;" class="img-fluid rounded">
+                        <img src="/images/main-2.jpg" alt="little ballet girls in tutus" style="max-height: 350px; width: auto;" class="img-fluid rounded">
                     </div>
                 </div>
             </div>
@@ -90,19 +90,19 @@
         <section id="age-groups" class="my-5 py-5 mx-4">
             <div class="row">
                 <div class="col-sm">
-                    <a href="/classes"><img src="/storage/main-preschool-1.jpg" alt="preschool girl" class="img-fluid shadow"></a>
+                    <a href="/classes"><img src="/images/main-preschool-1.jpg" alt="preschool girl" class="img-fluid shadow"></a>
                     <h3 class="text-center fw-bold">Preschool</h3>
                 </div>
                 <div class="col-sm">
-                    <a href="/classes"><img src="/storage/main-kinder-1.jpg" alt="kindergarten girl" class="img-fluid shadow"></a>
+                    <a href="/classes"><img src="/images/main-kinder-1.jpg" alt="kindergarten girl" class="img-fluid shadow"></a>
                     <h3 class="text-center fw-bold">Kindergarten</h3>
                 </div>
                 <div class="col-sm">
-                    <a href="/classes"><img src="/storage/main-elementary-1.jpg" alt="elementary school girl" class="img-fluid shadow"></a>
+                    <a href="/classes"><img src="/images/main-elementary-1.jpg" alt="elementary school girl" class="img-fluid shadow"></a>
                     <h3 class="text-center fw-bold">Elementary</h3>
                 </div>
                 <div class="col-sm">
-                    <a href="/classes"><img src="/storage/main-leveled-1.jpg" alt="advanced girl" class="img-fluid shadow"></a>
+                    <a href="/classes"><img src="/images/main-leveled-1.jpg" alt="advanced girl" class="img-fluid shadow"></a>
                     <h3 class="text-center fw-bold">Leveled</h3>
                 </div>
             </div>
@@ -114,7 +114,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front rounded shadow">
                             <p class="fw-bold" style="font-size: 1.5em;">Studio <span class="font-red">3</span> Dance is a...</p>
-                            <img src="/storage/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">
+                            <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">
                             <div class="d-flex justify-content-end">
                                 <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
                             </div>
@@ -129,7 +129,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front rounded shadow">
                             <p class="fw-bold" style="font-size: 1.5em;">Studio <span class="font-red">3</span> Dance is a...</p>
-                            <img src="/storage/safer-studio-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">
+                            <img src="/images/safer-studio-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">
                             <div class="d-flex justify-content-end">
                                 <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
                             </div>
@@ -153,7 +153,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front rounded shadow">
                             <p class="fw-bold" style="font-size: 1.5em;">Studio <span class="font-red">3</span> Dance is a...</p>
-                            <img src="/storage/tech-enabled-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">
+                            <img src="/images/tech-enabled-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">
                             <div class="d-flex justify-content-end">
                                 <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
                             </div>
@@ -168,7 +168,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front rounded shadow">
                             <p class="fw-bold" style="font-size: 1.5em;">Studio <span class="font-red">3</span> Dance is a...</p>
-                            <img src="/storage/ypad-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">
+                            <img src="/images/ypad-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">
                             <div class="d-flex justify-content-end">
                                 <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
                             </div>
@@ -192,7 +192,7 @@
                         </div>
                     </div>
                     <div class="col-sm d-flex align-items-center">
-                        <img src="/storage/acrobatic-arts-logo.png" alt="ballet" style="max-height: 350px; width: auto;" class="img-fluid rounded">
+                        <img src="/images/acrobatic-arts-logo.png" alt="ballet" style="max-height: 350px; width: auto;" class="img-fluid rounded">
                     </div>
                 </div>
             </div>

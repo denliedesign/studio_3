@@ -33,7 +33,7 @@
                         <br>Studio Passphrase: Studio3Dance
                     </p>
                     <div class="d-flex justify-content-center">
-                        <img src="/storage/curtain-call.jpg" alt="curtain call" class="img-fluid">
+                        <img src="/images/curtain-call.jpg" alt="curtain call" class="img-fluid">
                     </div>
                 </div>
             </div>

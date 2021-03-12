@@ -20,11 +20,11 @@ body {
 }
 
 .banner {
-    background-image: url(/storage/banner-3.jpg);
+    background-image: url(/images/banner-3.jpg);
 }
 
 .comp-banner {
-    background-image: url("/storage/competition-studio-3-dance.jpg");
+    background-image: url("/images/competition-studio-3-dance.jpg");
 }
 
 #vision, #enrollment, #acroarts {

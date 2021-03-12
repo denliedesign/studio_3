@@ -1,0 +1,248 @@
+body {
+    font-family: Inter, sans-serif;
+}
+
+.banner-wrap {
+    height: 225px;
+}
+
+.comp-banner-wrap {
+    height: 300px;
+}
+
+.banner,
+.comp-banner {
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner {
+    background-image: url(/storage/banner-3.jpg);
+}
+
+.comp-banner {
+    background-image: url("/storage/competition-studio-3-dance.jpg");
+}
+
+#vision, #enrollment, #acroarts {
+    position: relative;
+    height: 100%;
+}
+
+.gradient-turq,
+.gradient-turq-l {
+    background: linear-gradient(to top, #7bcad1, #a2faee);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+
+.gradient-turq {
+    transform: rotate(-2deg);
+}
+
+.gradient-turq-l {
+    transform: rotate(2deg);
+}
+
+.stand-out {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.bg-danger {
+    background: #e11b22 !important;
+}
+
+.btn-danger {
+    background: #e11b22 !important;
+    border: 3px solid black;
+}
+
+.btn-danger:hover {
+    background: #d01120 !important;
+    border: 3px solid black;
+}
+
+#footer .list-group-item {
+    border-bottom: none;
+    padding: 3px;
+}
+
+#footer a {
+    color: #747474;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    filter: brightness(33%);
+}
+
+.font-red {
+    color: #e11b22;
+}
+
+.pop-bg-blue {
+    background: linear-gradient(to left, #7bcad1, #a2faee) !important;
+}
+
+
+.roundit-top {
+    border-radius: 5px 5px 0 0;
+}
+
+.roundit-bottom {
+    border-radius: 0 0 5px 5px;
+}
+
+.info-icon {
+    font-size: 1.5em;
+    padding: 10px;
+    color: #747474;
+}
+
+
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-card {
+    background-color: transparent;
+    height: 250px;
+    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+}
+
+/* Style the back side */
+.flip-card-back {
+    transform: rotateY(180deg);
+}
+
+#age-groups,
+#staff h1,
+.staff-name,
+#teams h1,
+#performances h1,
+#general-section h1 {
+    font-family: Sansita Swashed, cursive;
+}
+
+.styled-font {
+    font-family: "Sansita Swashed", cursive;
+    font-size: 1.5em;
+}
+
+#age-groups img,
+#staff img {
+    border-radius: 50%;
+    box-shadow: .3rem .6rem .1rem #e11b22 !important;
+    transition: transform 0.4s ease;
+}
+
+#age-groups img:hover {
+    transform: rotate(1deg);
+}
+
+#age-groups h3 {
+    color: #747474;
+}
+
+#staff h1,
+#teams h1,
+#performances h1,
+#general-section h1 {
+    text-align: center;
+    text-shadow: 2px 2px 4px #747474;
+}
+
+#staff img {
+    max-height: 300px;
+    max-width: 300px;
+}
+
+.turq-dash {
+    width: 80%;
+    height: 2px;
+    background: linear-gradient(to left, #7bcad1, white);
+}
+
+.turq-dash-flip {
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(to right, #7bcad1, white);
+}
+
+.turq-dash-flip-radial {
+    width: 100%;
+    height: 2px;
+    background: radial-gradient(#7bcad1, white);
+}
+
+.badge {
+    font-size: 0.9em !important;
+}
+
+.rotated-bg-red,
+.rotated-bg-blue,
+.rotated-bg-white {
+    transform: rotate(-1deg);
+    padding: 20px 0;
+}
+
+.rerotate {
+    transform: rotate(1deg);
+}
+
+.rotated-bg-red {
+    background: linear-gradient(to bottom, #e11b22, #d01120);
+}
+
+.rotated-bg-blue {
+    background: linear-gradient(to top, #7bcad1, #a2faee);
+}
+
+.bg-blue {
+    background: linear-gradient(to left, #7bcad1, #a2faee);
+}
+
+.de-link {
+    color: initial;
+    text-decoration: none;
+}
+
+.de-link:hover {
+    color: initial;
+}
+
+.news-box {
+    transition: transform 0.4s ease;
+}
+
+.news-box:hover {
+    transform: rotate(1deg);
+}

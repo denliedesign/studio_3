@@ -21,7 +21,7 @@ body {
 }
 
 .banner {
-    background-image: url(/images/banner-3.jpg);
+    background-image: url(/images/banner-new.jpg);
 }
 
 .comp-banner {
@@ -35,7 +35,8 @@ body {
 
 .gradient-turq,
 .gradient-turq-l {
-    background: linear-gradient(to top, #7bcad1, #a2faee);
+    /*background: linear-gradient(to top, #7bcad1, #a2faee);*/
+    background: linear-gradient(to top, #b4a4c9, #CDC5D9);
     height: 100%;
     width: 100%;
     position: absolute;
@@ -90,7 +91,7 @@ body {
 }
 
 .pop-bg-blue {
-    background: linear-gradient(to left, #7bcad1, #a2faee) !important;
+    background: linear-gradient(to right, #CDC5D9, #b4a4c9) !important;
 }
 
 
@@ -189,19 +190,19 @@ body {
 .turq-dash {
     width: 80%;
     height: 2px;
-    background: linear-gradient(to left, #7bcad1, white);
+    background: linear-gradient(to left, #b4a4c9, white);
 }
 
 .turq-dash-flip {
     width: 100%;
     height: 2px;
-    background: linear-gradient(to right, #7bcad1, white);
+    background: linear-gradient(to right, #b4a4c9, white);
 }
 
 .turq-dash-flip-radial {
     width: 100%;
     height: 2px;
-    background: radial-gradient(#7bcad1, white);
+    background: radial-gradient(#b4a4c9, white);
 }
 
 .badge {
@@ -224,11 +225,11 @@ body {
 }
 
 .rotated-bg-blue {
-    background: linear-gradient(to top, #7bcad1, #a2faee);
+    background: linear-gradient(to bottom, #CDC5D9, #b4a4c9);
 }
 
 .bg-blue {
-    background: linear-gradient(to left, #7bcad1, #a2faee);
+    background: linear-gradient(to right, #CDC5D9, #b4a4c9);
 }
 
 .de-link {
@@ -246,4 +247,11 @@ body {
 
 .news-box:hover {
     transform: rotate(1deg);
+}
+
+.purple-txt {
+    color: #b4a4c9;
+    background: black;
+    padding: 2px 4px;
+    border-radius: 2px;
 }

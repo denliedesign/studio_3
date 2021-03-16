@@ -64,12 +64,10 @@
                 <div class="text-left" style="font-size: 1.25em;">
                     <div class="row">
                         <div class="col-sm-7">
-                            <span class="stand-out">2020-2021 Classes Still Open For Enrollment</span>
+                            <span class="stand-out">2020-2021 Classes Open For Enrollment This Spring</span>
                             <br>Tippy Toes for ages 2 1/2+
                             <br>Select Tumbling and Technique classes
                             <br>Spring Mini-Mester (6 week Ballet/Tap Combo for ages 5 1/2+ starting March 23)
-                            <br>Summer 1 Day Princess Camps, 3 Day Themed Pre-School & Elementary Camps
-                            <br>3-Week Sessions (June 7 - 24 & July 5 - 22)
                             <br><br>
                             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
@@ -77,10 +75,12 @@
                         </div>
                         <div class="col-sm-5" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
-                            <br>March 15 - Summer Registration Begins
-                            <br>June - Summer Dance Intensives
-                            <br>July - Snow Queen Auditions & Workshops
-                            <br>August 9 - Fall Classes Begin
+                            <br><span class="purple-txt">March 15</span> Summer Registration Begins
+                            <br><span class="purple-txt">June</span> Summer Dance Intensives
+                            <br><span class="purple-txt">June & July</span> Summer 1 Day Princess Camps, 3 Day Themed Pre-School & Elementary Camps
+                            <br><span class="purple-txt">July 7-24 & July 5-22</span> 3-Week Sessions
+                            <br><span class="purple-txt">July</span> Snow Queen Auditions & Workshops
+                            <br><span class="purple-txt">August 9</span> Fall Classes Begin
                         </div>
                     </div>
                 </div>
@@ -88,22 +88,28 @@
         </section>
 
         <section id="age-groups" class="my-5 py-5 mx-4">
-            <div class="row">
-                <div class="col-sm">
-                    <a href="/classes"><img src="/images/main-preschool-1.jpg" alt="preschool girl" class="img-fluid shadow"></a>
-                    <h3 class="text-center fw-bold">Preschool</h3>
-                </div>
-                <div class="col-sm">
-                    <a href="/classes"><img src="/images/main-kinder-1.jpg" alt="kindergarten girl" class="img-fluid shadow"></a>
-                    <h3 class="text-center fw-bold">Kindergarten</h3>
-                </div>
-                <div class="col-sm">
-                    <a href="/classes"><img src="/images/main-elementary-1.jpg" alt="elementary school girl" class="img-fluid shadow"></a>
-                    <h3 class="text-center fw-bold">Elementary</h3>
-                </div>
-                <div class="col-sm">
-                    <a href="/classes"><img src="/images/main-leveled-1.jpg" alt="advanced girl" class="img-fluid shadow"></a>
-                    <h3 class="text-center fw-bold">Leveled</h3>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm mx-2">
+                        <a href="/classes"><img src="/images/main-kinder-1.jpg" alt="preschool girl" class="img-fluid shadow"></a>
+                        <h3 class="text-center fw-bold">Ages 2-5</h3>
+                    </div>
+                    <div class="col-sm mx-2">
+                        <a href="/classes"><img src="/images/main-elementary-2.jpg" alt="elementary school girl" class="img-fluid shadow"></a>
+                        <h3 class="text-center fw-bold">K-2nd Grade</h3>
+                    </div>
+                    <div class="col-sm mx-2">
+                        <a href="/classes"><img src="/images/main-leveled-1.jpg" alt="advanced girl" class="img-fluid shadow"></a>
+                        <h3 class="text-center fw-bold">3rd Grade & Up</h3>
+                    </div>
+                    <div class="col-sm mx-2">
+                        <a href="/performances"><img src="/images/main-performances-1.jpg" alt="snow queen performance" class="img-fluid shadow"></a>
+                        <h3 class="text-center fw-bold">Performances</h3>
+                    </div>
+                    <div class="col-sm mx-2">
+                        <a href="/competition"><img src="/images/main-teams-1.jpg" alt="competitive teams" class="img-fluid shadow"></a>
+                        <h3 class="text-center fw-bold">Teams</h3>
+                    </div>
                 </div>
             </div>
         </section>

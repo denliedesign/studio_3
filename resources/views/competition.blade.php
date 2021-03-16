@@ -1,7 +1,7 @@
 <x-app-layout>
 
-<div class="comp-banner-wrap">
-    <div class="comp-banner"></div>
+<div class="banner-wrap">
+    <div class="banner"></div>
 </div>
 
     <div id="teams" class="container mt-5">
@@ -23,7 +23,7 @@
                         </div>
                     </div>
                     <div class="col-sm-5 d-flex align-items-center justify-content-center p-0">
-                        <img src="/images/performance-1.JPG" alt="performance team" class="img-fluid rounded">
+                        <img src="/images/pre-teen-lyrical.jpg" alt="performance team" class="img-fluid rounded">
                     </div>
                 </div>
             </div>

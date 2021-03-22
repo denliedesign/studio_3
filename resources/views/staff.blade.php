@@ -163,7 +163,7 @@
         <div class="teacher-single my-5">
             <div class="row">
                 <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/images/danyelle.png" alt="dance teacher" class="img-fluid shadow">
+                    <img src="/images/danyelle.jpg" alt="dance teacher" class="img-fluid shadow">
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p class="mx-5 p-3">

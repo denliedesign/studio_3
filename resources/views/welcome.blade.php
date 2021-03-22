@@ -91,15 +91,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm mx-2">
-                        <a href="/classes"><img src="/images/main-kinder-1.jpg" alt="preschool girl" class="img-fluid shadow"></a>
+                        <a href="/classes"><img src="/images/main-kinder-3.jpg" alt="preschool girl" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">Ages 2-5</h3>
                     </div>
                     <div class="col-sm mx-2">
-                        <a href="/classes"><img src="/images/main-elementary-2.jpg" alt="elementary school girl" class="img-fluid shadow"></a>
+                        <a href="/classes"><img src="/images/main-elementary-3.jpg" alt="elementary school girl" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">K-2nd Grade</h3>
                     </div>
                     <div class="col-sm mx-2">
-                        <a href="/classes"><img src="/images/main-leveled-1.jpg" alt="advanced girl" class="img-fluid shadow"></a>
+                        <a href="/classes"><img src="/images/main-leveled-3.jpg" alt="advanced girl" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">3rd Grade & Up</h3>
                     </div>
                     <div class="col-sm mx-2">
@@ -107,7 +107,7 @@
                         <h3 class="text-center fw-bold">Performances</h3>
                     </div>
                     <div class="col-sm mx-2">
-                        <a href="/competition"><img src="/images/main-teams-1.jpg" alt="competitive teams" class="img-fluid shadow"></a>
+                        <a href="/competition"><img src="/images/main-teams-2.jpg" alt="competitive teams" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">Teams</h3>
                     </div>
                 </div>

@@ -37,7 +37,8 @@
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
                         Ages 5+ <strong>SPARKLE SQUAD I</strong> - 1 hour Class
-                        <br>This class is all that is required.  Each class will include 30 minutes of ballet and 30 minutes of jazz.
+                        <br>Tap and Acro classes are recommended.
+                        <br>Each class will include 30 minutes of ballet and 30 minutes of jazz.
                     </p>
                 </div>
             </div>
@@ -54,7 +55,9 @@
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
                         Ages 7+ <strong>SPARKLE SQUAD II</strong> - 1 hour Class
-                        <br>This class is all that is required.  Each class will include 30 minutes of ballet and 30 minutes of jazz.
+                        <br>45 minute Jazz and 45 minute or one hour ballet class required
+                        <br>Tap, Acro and Intro to Technique are recommended.
+                        <br>Each class will include 30 minutes of ballet and 30 minutes of jazz.
                     </p>
                 </div>
             </div>
@@ -71,7 +74,9 @@
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
                         Ages 8 1/2+ <strong>SHOW STARS I</strong> - 1 hour class
-                        <br>The Show Stars class is the jazz/performance class. Must also be enrolled in Ballet and Technique class.
+                        <br>The Show Stars class is the jazz/performance class.
+                        <br>Must also be enrolled in Ballet and Technique class.
+                        <br>Tap, Acro, and Lyrical recommended.
                     </p>
                 </div>
             </div>
@@ -88,7 +93,9 @@
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
                         Ages 12+ <strong>SHOW STOPPERS II</strong> - 1 hour class
-                        <br>The Show Stoppers class is the jazz/performance class. Must also be enrolled in Ballet and Technique classes.
+                        <br>The Show Stoppers class is the jazz/performance class.
+                        <br>Must also be enrolled in Ballet and Technique classes.
+                        <br>Tap, Acro, Modern and Lyrical recommended.
                     </p>
                 </div>
             </div>
@@ -98,40 +105,40 @@
                     <div class="turq-dash mx-5"></div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/images/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">
-                </div>
-                <div class="col-sm-9 d-flex align-items-center">
-                    <p>
-                        Ages 6+ <strong>HIP HOP STARS I</strong> - 45 minute class
-                        <br>The Hip Hop Stars class is the hip/hop performance class. Must also be enrolled in Ballet and Technique class.
-                    </p>
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-sm-3"></div>
-                <div class="col-sm-9">
-                    <div class="turq-dash mx-5"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/images/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">
-                </div>
-                <div class="col-sm-9 d-flex align-items-center">
-                    <p>
-                        Ages 12+  <strong>HIP HOP STARS II</strong> -  1 hour class
-                        <br>The Hip Hop Stars class is the hip/hop performance class.  Must also be enrolled in a Hip Hop class.
-                    </p>
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-sm-3"></div>
-                <div class="col-sm-9">
-                    <div class="turq-dash mx-5"></div>
-                </div>
-            </div>
+{{--            <div class="row">--}}
+{{--                <div class="col-sm-3 d-flex justify-content-center">--}}
+{{--                    <img src="/images/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-9 d-flex align-items-center">--}}
+{{--                    <p>--}}
+{{--                        Ages 6+ <strong>HIP HOP STARS I</strong> - 45 minute class--}}
+{{--                        <br>The Hip Hop Stars class is the hip/hop performance class. Must also be enrolled in Ballet and Technique class.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="row mb-3">--}}
+{{--                <div class="col-sm-3"></div>--}}
+{{--                <div class="col-sm-9">--}}
+{{--                    <div class="turq-dash mx-5"></div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-sm-3 d-flex justify-content-center">--}}
+{{--                    <img src="/images/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-9 d-flex align-items-center">--}}
+{{--                    <p>--}}
+{{--                        Ages 12+  <strong>HIP HOP STARS II</strong> -  1 hour class--}}
+{{--                        <br>The Hip Hop Stars class is the hip/hop performance class.  Must also be enrolled in a Hip Hop class.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="row mb-3">--}}
+{{--                <div class="col-sm-3"></div>--}}
+{{--                <div class="col-sm-9">--}}
+{{--                    <div class="turq-dash mx-5"></div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
 
         <section id="vision" class="container my-5">
@@ -147,17 +154,18 @@
                             <br>
                             <strong>BALLET/POINTE, TAP, JAZZ, LYRICAL/CONTEMPORARY, MUSICAL THEATER, MODERN, ACRO TEAMS</strong>
                             <br>
-                            REQUIRED: Eight 2-hour dance sessions June - July ($45 each) and OKLA Workshop on August 2, 2020 ($95).  Competition teams will attend 3-4 Regional competitions February – May 2021 in the Dallas/Fort Worth area and 1 National Competition Summer 2021. All competitive dancers are required to attend one convention in the fall of 2020.
+                            REQUIRED: Dance Intensive June 28th - July 1st from 10:00am - 4:00pm.  Studio 3 staff will teach classes June 28th - 30th with placement on June 30th.  Thursday classes will be taught by guest instructor Lisa Woods and OKLA staff.
+                            <br><br>
+                            Competition teams will attend 3-4 Regional competitions February – May 2022 in the Dallas/Fort Worth area and 1 National Competition Summer 2022. All competitive dancers are required to attend one convention in the fall of 2021.
                             <br><br>
                             All competition dancers middle school-aged and younger must first participate in a Line before being placed in a small or large group dance.
                             <br><br>
                             All competitive dancers are required to take Ballet, Technique, Musical Theater or Jazz in addition to the Line. Other small and or large groups will be formed based on ability and interest in Ballet/Pointe, Tap, Jazz, Lyrical/Contemporary, Musical Theatre, ACRO, and Modern.
-                            <br><br>
-                            <div class="badge bg-danger">Ages 6 & up</div>
-                            <br>
-                            <strong>HIP HOP TEAM</strong>
-                            <br>
-                            REQUIRED: Competition teams will attend 3 – 4 Regional competitions Feb – May, 2021 in the Dallas/Fort Worth area and 1 National Competition summer 2021.
+                            {{--                            <div class="badge bg-danger">Ages 6 & up</div>--}}
+{{--                            <br>--}}
+{{--                            <strong>HIP HOP TEAM</strong>--}}
+{{--                            <br>--}}
+{{--                            REQUIRED: Competition teams will attend 3 – 4 Regional competitions Feb – May, 2021 in the Dallas/Fort Worth area and 1 National Competition summer 2021.--}}
                         </div>
                     </div>
                     <div class="col-sm-5 d-flex align-items-center justify-content-center p-0">

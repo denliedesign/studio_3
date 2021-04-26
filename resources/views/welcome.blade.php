@@ -64,10 +64,8 @@
                 <div class="text-left" style="font-size: 1.25em;">
                     <div class="row">
                         <div class="col-sm-7">
-                            <span class="stand-out">2020-2021 Classes Open For Enrollment This Spring</span>
-                            <br>Tippy Toes for ages 2 1/2+
-                            <br>Select Tumbling and Technique classes
-                            <br>Spring Mini-Mester (6 week Ballet/Tap Combo for ages 5 1/2+ starting March 23)
+                            <span class="stand-out">Register NOW for Summer!</span>
+                            <br>Early registration discounts end May 15th
                             <br><br>
                             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
@@ -76,10 +74,13 @@
                         <div class="col-sm-5" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
                             <br><span class="purple-txt">March 15</span> Summer Registration Begins
-                            <br><span class="purple-txt">June</span> Summer Dance Intensives
-                            <br><span class="purple-txt">June & July</span> Summer 1 Day Princess Camps, 3 Day Themed Pre-School & Elementary Camps
-                            <br><span class="purple-txt">July 7-24 & July 5-22</span> 3-Week Sessions
-                            <br><span class="purple-txt">July</span> Snow Queen Auditions & Workshops
+                            <br><span class="purple-txt">May 20-23</span> Spring Recitals
+                            <br><span class="purple-txt">May 24-25</span> Recital Portraits
+                            <br><span class="purple-txt">May 26-27</span> Student Appreciation Days
+                            <br><span class="purple-txt">June</span> 3 week Summer Session I, Princess Camps, 3 day camps, Dance Intensive
+                            <br><span class="purple-txt">July</span> 3 week Summer Session II, Princess Camps, 3 day camps, Snow Queen Workshop & auditions
+{{--                            <br><span class="purple-txt">July 7-24 & July 5-22</span> 3-Week Sessions--}}
+{{--                            <br><span class="purple-txt">July</span> Snow Queen Auditions & Workshops--}}
                             <br><span class="purple-txt">August 9</span> Fall Classes Begin
                         </div>
                     </div>

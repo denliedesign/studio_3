@@ -1,6 +1,6 @@
 <x-app-layout>
 
-    <video width="100%" height="auto" controls>
+    <video width="100%" height="auto" poster="/images/recital.jpg" controls>
         <source src="/images/spring-recital.mp4" type="video/mp4">
     </video>
 

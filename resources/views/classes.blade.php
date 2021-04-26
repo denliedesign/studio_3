@@ -58,15 +58,15 @@
                     </p>
                 </div>
             </div>
-            <div class="d-flex align-items-center" style="border: 1px solid #747474;">
-                <div class="col text-center">
-                    <img src="/images/child-3.png" alt="childrens class logo" class="img-fluid m-2">
-                    <small class="text-muted d-block">ages 2 1/2+</small>
-                    <p>
-                        Introduces the young dancer to basic ballet and tumbling skills.
-                    </p>
-                </div>
-            </div>
+{{--            <div class="d-flex align-items-center" style="border: 1px solid #747474;">--}}
+{{--                <div class="col text-center">--}}
+{{--                    <img src="/images/child-3.png" alt="childrens class logo" class="img-fluid m-2">--}}
+{{--                    <small class="text-muted d-block">ages 2 1/2+</small>--}}
+{{--                    <p>--}}
+{{--                        Introduces the young dancer to basic ballet and tumbling skills.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="d-flex align-items-center" style="border: 1px solid #747474;">
                 <div class="col text-center">
                     <img src="/images/child-4.png" alt="childrens class logo" class="img-fluid m-2">
@@ -113,14 +113,14 @@
                     </p>
                 </div>
             </div>
-            <div class="d-flex align-items-center" style="border: 1px solid #747474;">
-                <div class="col text-center">
-                    <img src="/images/child-9.png" alt="childrens class logo" class="img-fluid m-2">
-                    <small class="text-muted d-block">ages 4+</small>
-                    <p>
-                    </p>
-                </div>
-            </div>
+{{--            <div class="d-flex align-items-center" style="border: 1px solid #747474;">--}}
+{{--                <div class="col text-center">--}}
+{{--                    <img src="/images/child-9.png" alt="childrens class logo" class="img-fluid m-2">--}}
+{{--                    <small class="text-muted d-block">ages 4+</small>--}}
+{{--                    <p>--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="d-flex align-items-center" style="border: 1px solid #747474;">
                 <div class="col text-center">
                     <img src="/images/petite-1.png" alt="childrens class logo" class="img-fluid m-2">

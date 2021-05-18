@@ -3,7 +3,7 @@
         <div class="col-sm">
             <img src="/images/studio-3-dance-logo.png" alt="studio 3 dance logo" class="img-fluid">
             <p style="color: #747474; font-size: .7em;" class="text-center">
-                Dance Studio Websites by Denlie Design.
+                <a href="https://denliedesign.com" target="_blank" class="text-decoration-none" style="color: #747474;">Dance Website Design by Denlie Design.</a>
                 <br>Copyright © 2021 Studio 3 Dance.
                 <br>All rights reserved.
             </p>

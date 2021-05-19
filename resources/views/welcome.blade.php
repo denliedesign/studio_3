@@ -59,6 +59,8 @@
             </div>
         </section>
 
+        <iframe width="100%" height="638px" src="https://www.yumpu.com/en/embed/view/TtGsL1PIB3HnoUZr" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>
+
         <section id="enrollment" class="container my-5 py-5">
             <div class="d-flex align-items-center justify-content-center">
                 <div class="text-left" style="font-size: 1.25em;">

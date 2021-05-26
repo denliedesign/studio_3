@@ -61,8 +61,22 @@
 
         <iframe width="100%" height="638px" src="https://www.yumpu.com/en/embed/view/TtGsL1PIB3HnoUZr" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>
 
-        <section id="enrollment" class="container my-5 py-5">
-            <div class="d-flex align-items-center justify-content-center">
+
+        <section id="enrollment" class="container mb-5 pb-5">
+            <div id="mask-update" class="p-3 m-3 rotated-bg-blue rounded">
+                <p class="rounded shadow rerotate p-3 m-3" style="background: white;">
+                    Effective May 25, 2021, it is now <strong>optional</strong> to wear masks while at Studio 3 Dance.  Families can now choose for themselves whether or not they and their children will wear a mask to dance class and summer programs.  Studio 3 Dance staff will have the same mask optional option.  We know that some will choose to wear masks and others will not. All are welcome.
+                    <br><br>
+                    Our lobby is open for drop off and pick up for dancers ages 8 and under.  ALL dancers and parents will enter through the main entrance door #1.  We ask that you do not arrive more than 2-3 minutes before class and that you pick your dancer up and leave promptly.
+                    <br><br>
+                    Parents of older dancers with questions are welcome to come in as needed.
+                    <br><br>
+                    Parents will not be allowed to stay in the studio to observe class for now to avoid large crowds gathering in the hallways. However, they can watch for a few minutes at drop off and pick up.
+                    <br><br>
+                    Older dancers with a <strong><em>short break</em></strong> between classes will be allowed to wait inside the studio.
+                </p>
+            </div>
+            <div class="d-flex align-items-center justify-content-center mt-5">
                 <div class="text-left" style="font-size: 1.25em;">
                     <div class="row">
                         <div class="col-sm-7">

@@ -255,3 +255,7 @@ body {
     padding: 2px 4px;
     border-radius: 2px;
 }
+
+.text-purple {
+    color: darkviolet;
+}

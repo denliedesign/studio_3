@@ -13,12 +13,16 @@
                 <div class="row">
                     <div class="col-sm-7">
                         <div class="shadow p-5 my-5 rounded bg-white" style="max-width: 700px;">
-                            <span class="stand-out">Performance Teams</span>
-                            <br><span class="text-muted" style="font-size: 0.9em;">$100 yearly performance team fee</span>
+                            <span class="stand-out">S3D Performance Teams 2021 – 2022</span>
+                            <br>
+                            <span class="text-muted" style="font-size: 0.9em;">
+                                $100 Performance Team Fee + Tank Top required and Due Sept 1st
+                                <br>(S3D Backpack and Jackets are optional)
+                            </span>
                             <br><br>
-                            If you love to perform, consider the benefits of becoming a member of one of our S3D Performance Teams.  It's a great fit for focused dancers looking for an additional challenge and performance opportunities.
+                            If you love to perform, consider joining one of our performance teams.  It’s a great fit for focused dancers looking for an additional challenge and performance opportunities. There are 3 week prep classes in June for extra training and Dance Intensive in June for placement.
                             <br><br>
-                            RECOMMENDED: Dance Intensive for exposure to all dance genres. Performance teams will have 2-4 performances during the year and one Regional competition in April or May in the Dallas/Fort Worth area, if ready. In recent years, our Performance teams have danced at the Gaylord ICE exhibit, Memory Care and Assisted Living Homes, Side Kicks Soccer Half-time show, Allen American Hockey Intermissions, Willow Bend Mall Holiday Bash and Willow Bend Mall Day of Dance.
+{{--                            RECOMMENDED: Dance Intensive for exposure to all dance genres. Performance teams will have 2-4 performances during the year and one Regional competition in April or May in the Dallas/Fort Worth area, if ready. In recent years, our Performance teams have danced at the Gaylord ICE exhibit, Memory Care and Assisted Living Homes, Side Kicks Soccer Half-time show, Allen American Hockey Intermissions, Willow Bend Mall Holiday Bash and Willow Bend Mall Day of Dance.--}}
 
                         </div>
                     </div>
@@ -36,35 +40,21 @@
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
-                        Ages 5+ <strong>SPARKLE SQUAD I</strong> - 1 hour Class
-                        <br>Tap and Acro classes are recommended.
-                        <br>Each class will include 30 minutes of ballet and 30 minutes of jazz.
+                        <strong>Sparkle Squad I:  Ages 5-6 (Pink)</strong> is a one-hour combination Jazz and Ballet class. Tap and Acro are recommended for additional training.
+                        <br><small>(June prep classes and 2 day intensive are recommended)</small>
+                        <br><br>
+                        <strong>Sparkle Squad I: Ages 6-7 (Purple)</strong> is a 30 minute Ballet and 30 minute Jazz class that meet back to back. Tap and Acro are recommended for additional training.
+                        <br><small>(June prep classes and 2 day intensive are recommended)</small>
+                        <br><br>
+                        <strong>Sparkle Squad II:  Ages 7½ - 9 - Sparkle Squad II</strong> is a 45-minute jazz class and 45-minute or one hour ballet class. Intro to Technique, Tap and Acro are recommended for additional training.
+                        <br><small>(June prep classes and 2 day intensive are recommended)</small>
                     </p>
                 </div>
             </div>
             <div class="row mb-3">
                 <div class="col-sm-3"></div>
                 <div class="col-sm-9">
-                    <div class="turq-dash mx-5"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/images/sparkle-squad-logo.jpg" alt="sparkle squad logo" class="img-fluid" style="max-height: 100px;">
-                </div>
-                <div class="col-sm-9 d-flex align-items-center">
-                    <p>
-                        Ages 7+ <strong>SPARKLE SQUAD II</strong> - 1 hour Class
-                        <br>45 minute Jazz and 45 minute or one hour ballet class required
-                        <br>Tap, Acro and Intro to Technique are recommended.
-                        <br>Each class will include 30 minutes of ballet and 30 minutes of jazz.
-                    </p>
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-sm-3"></div>
-                <div class="col-sm-9">
-                    <div class="turq-dash mx-5"></div>
+                    <div class="turq-dash-flip mx-5"></div>
                 </div>
             </div>
             <div class="row">
@@ -73,72 +63,15 @@
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p>
-                        Ages 8 1/2+ <strong>SHOW STARS I</strong> - 1 hour class
-                        <br>The Show Stars class is the jazz/performance class.
-                        <br>Must also be enrolled in Ballet and Technique class.
-                        <br>Tap, Acro, and Lyrical recommended.
+                        <strong>Show Stars I:  Ages 9½ +</strong> Show Stars I is a one-hour weekly jazz class. Ballet and Technique classes are required.  Acro and Tap classes are recommended.
+                        <br><small>(June classes and 2 day intensive are recommended)</small>
+                        <br><br>
+                        <strong>Show Stars II:  Ages 11½ +</strong> Show Stars II is a one-hour weekly jazz class. Ballet and Technique classes are required. Tap and Acro are recommended.
+                        <br><small>(June classes and 4 day intensive recommended)</small>
                     </p>
                 </div>
             </div>
-            <div class="row mb-3">
-                <div class="col-sm-3"></div>
-                <div class="col-sm-9">
-                    <div class="turq-dash mx-5"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/images/show-stars-logo.png" alt="show stars logo" class="img-fluid" style="max-height: 100px;">
-                </div>
-                <div class="col-sm-9 d-flex align-items-center">
-                    <p>
-                        Ages 12+ <strong>SHOW STOPPERS II</strong> - 1 hour class
-                        <br>The Show Stoppers class is the jazz/performance class.
-                        <br>Must also be enrolled in Ballet and Technique classes.
-                        <br>Tap, Acro, Modern and Lyrical recommended.
-                    </p>
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-sm-3"></div>
-                <div class="col-sm-9">
-                    <div class="turq-dash mx-5"></div>
-                </div>
-            </div>
-{{--            <div class="row">--}}
-{{--                <div class="col-sm-3 d-flex justify-content-center">--}}
-{{--                    <img src="/images/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">--}}
-{{--                </div>--}}
-{{--                <div class="col-sm-9 d-flex align-items-center">--}}
-{{--                    <p>--}}
-{{--                        Ages 6+ <strong>HIP HOP STARS I</strong> - 45 minute class--}}
-{{--                        <br>The Hip Hop Stars class is the hip/hop performance class. Must also be enrolled in Ballet and Technique class.--}}
-{{--                    </p>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--            <div class="row mb-3">--}}
-{{--                <div class="col-sm-3"></div>--}}
-{{--                <div class="col-sm-9">--}}
-{{--                    <div class="turq-dash mx-5"></div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-sm-3 d-flex justify-content-center">--}}
-{{--                    <img src="/images/hip-hop-stars-logo.jpg" alt="hip hop stars logo" class="img-fluid" style="max-height: 100px;">--}}
-{{--                </div>--}}
-{{--                <div class="col-sm-9 d-flex align-items-center">--}}
-{{--                    <p>--}}
-{{--                        Ages 12+  <strong>HIP HOP STARS II</strong> -  1 hour class--}}
-{{--                        <br>The Hip Hop Stars class is the hip/hop performance class.  Must also be enrolled in a Hip Hop class.--}}
-{{--                    </p>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--            <div class="row mb-3">--}}
-{{--                <div class="col-sm-3"></div>--}}
-{{--                <div class="col-sm-9">--}}
-{{--                    <div class="turq-dash mx-5"></div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
+
         </div>
 
         <section id="vision" class="container my-5">

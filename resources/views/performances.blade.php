@@ -29,7 +29,7 @@
                 <p>
                     The Recital Fee is the fee charged each dancer for participation in our Spring Recital.  The Recital Fee is a NON-REFUNDABLE fee confirming your commitment to be a part of our performance. The recital fee is due in January.  It is $85 for the first child in the family and $65 for each additional child in the same family.  This fee does not include tickets to the performance.
                     <br><br>
-                    Tentative Recital Dates: June 2 - 5, 2022
+                    Recital Dates TBD
                     <br><br>
                     <em>We will have details on specific recital times for each individual class after our production meeting with the Eisemann in early March.</em>
                     <br><br>
@@ -107,7 +107,7 @@
             <div class="rerotate col-sm"><img src="/images/plano-christmas-parade-3.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
         </div>
         <span class="stand-out">Snow Queen</span>
-        <p>We present our winter ballet, Snow Queen every other year. Our next ballet will be at the Eisemann Bank of America Theatre November 13 -14, 2021</p>
+        <p>We present our winter ballet, Snow Queen every other year. Our next ballet will be this winter 2021. Dates TBD</p>
         <div class="row d-flex justify-content-center">
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">

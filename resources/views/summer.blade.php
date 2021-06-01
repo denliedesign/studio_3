@@ -79,7 +79,7 @@
         <div>
             <div class="row m-0 p-0">
                 <div class="col-sm">
-                    <img src="/images/summer-sign-up.jpg" alt="summer sign up" class="img-fluid shadow rounded mb-4">
+                    <img src="/images/summer-at-studio-3.jpg" alt="summer sign up" class="img-fluid shadow rounded mb-4">
                     <div class="d-flex justify-content-center">
                         <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                             <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>

@@ -46,67 +46,71 @@
                     <table class="table">
                         <tr>
                             <td>30 minutes</td>
-                            <td>$55</td>
+                            <td>$60</td>
                         </tr>
                         <tr>
                             <td>45 minutes</td>
-                            <td>$77</td>
+                            <td>$85</td>
                         </tr>
                         <tr>
-                            <td>55 min - 1 hr</td>
-                            <td>$88</td>
+                            <td>1 hr</td>
+                            <td>$95</td>
                         </tr>
                         <tr>
-                            <td>1 hr 5 - 1 hr 15</td>
-                            <td>$105</td>
+                            <td>1 hr 15</td>
+                            <td>$112</td>
                         </tr>
                         <tr>
-                            <td>1 hr 20 - 1 hr 35</td>
-                            <td>$121</td>
+                            <td>1 hr 30</td>
+                            <td>$130</td>
                         </tr>
                         <tr>
-                            <td>1 hr 40 - 2 hr 5</td>
-                            <td>$143</td>
+                            <td>1 hr 45 - 2 hr</td>
+                            <td>$155</td>
                         </tr>
                         <tr>
-                            <td>2 hr 10 - 2 hr 35</td>
-                            <td>$159</td>
+                            <td>2 hr 15 - 2 hr 30</td>
+                            <td>$175</td>
                         </tr>
                         <tr>
-                            <td>2 hr 40 - 3 hr 5</td>
-                            <td>$176</td>
+                            <td>2 hr 45 - 3 hr</td>
+                            <td>$215</td>
                         </tr>
                         <tr>
-                            <td>3 hr 10 - 3 hr 35</td>
-                            <td>$225</td>
+                            <td>3 hr 15 - 3 hr 30</td>
+                            <td>$248</td>
                         </tr>
                         <tr>
-                            <td>3 hr 40 - 4 hr 5</td>
-                            <td>$253</td>
-                        </tr>
-                        <tr>
-                            <td>4 hr 10 - 4 hr 30</td>
+                            <td>3 hr 45 - 4 hr</td>
                             <td>$275</td>
                         </tr>
                         <tr>
-                            <td>4 hr 35 - 5 hr 5</td>
-                            <td>$298</td>
+                            <td>4 hr 15 - 4 hr 30</td>
+                            <td>$300</td>
                         </tr>
                         <tr>
-                            <td>5 hr 10 - 5 hr 25</td>
-                            <td>$318</td>
+                            <td>4 hr 45 - 5 hr</td>
+                            <td>$325</td>
                         </tr>
                         <tr>
-                            <td>5 hr 30 - 6 hr 5</td>
-                            <td>$338</td>
+                            <td>5 hr 15 - 5 hr 30</td>
+                            <td>$350</td>
                         </tr>
                         <tr>
-                            <td>6 hr 10 - 6 hr 35</td>
-                            <td>$358</td>
+                            <td>5 hr 45 - 6 hr</td>
+                            <td>$370</td>
                         </tr>
                         <tr>
-                            <td>6 hr 40 - unlimited</td>
-                            <td>$378</td>
+                            <td>6 hr 15 - 6 hr 30</td>
+                            <td>$385</td>
+                        </tr>
+                        <tr>
+                            <td>6 hr 45 - 7 hr</td>
+                            <td>$395</td>
+                        </tr>
+                        <tr>
+                            <td>7 hr 15 - unlimited</td>
+                            <td>$405</td>
                         </tr>
                     </table>
                 </div>

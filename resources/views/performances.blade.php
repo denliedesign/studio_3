@@ -8,7 +8,7 @@
         <h1>Performances</h1>
         <span class="stand-out">Spring Recital</span>
         <p>
-            For the past 22 years, Studio 3 Dance has provided dancers with an exciting performance experience through its end of the year Recital. The performance offers our dancers a chance to shine in front of family and friends and it is truly the highlight of the dance school year. The Recital offers our students a professionally directed performance that allows them the opportunity to present the results of their year’s hard work, dedication, and progress.
+            For the past 23 years, Studio 3 Dance has provided dancers with an exciting performance experience through its end of the year Recital. The performance offers our dancers a chance to shine in front of family and friends and it is truly the highlight of the dance school year. The Recital offers our students a professionally directed performance that allows them the opportunity to present the results of their year’s hard work, dedication, and progress.
             <br><br>
             A big part of the dance training process includes learning through performance. The experience helps build self-esteem, self-assurance, and contributes to a sense of confidence. Although performance opportunities can help prepare some students for a possible career in dance, they also contribute to success in non-dance activities. That onstage experience can result in better in-school presentations and improved social skills. The rehearsal process helps develop retention skills, and by working with their classmates on a group performance, they learn the positive aspects of working as a team to create the best end result.  Recital commitment is the responsibility of both students and their parents.
             <br><br>
@@ -16,20 +16,20 @@
         </p>
         <div class="row rounded rotated-bg-red p-0 m-0">
             <div class="rerotate col-sm p-3 mx-sm-3 my-3 shadow rounded" style="background: white;">
-                <strong>Financial Commitment for Spring Recital 2021</strong>
+                <strong>Financial Commitment for Spring Recital 2022</strong>
                 <p>
-                    11/15/20 - 1/2 Costume Fee
-                    <br>12/15/20 - Costume Balance
-                    <br>1/15/21 - Spring Recital Fee $85($45 for additional children)
+                    11/15/21 - 1/2 Costume Fee
+                    <br>12/15/21 - Costume Balance
+                    <br>1/15/22 - Spring Recital Fee $85 ($65 for additional children)
                 </p>
                 <img src="/images/recital-ballet.jpg" alt="recital ballerinas" class="img-fluid">
             </div>
             <div class="rerotate col-sm p-3 mx-sm-3 my-3 shadow rounded" style="background: white;">
                 <strong>Recital Fee and Date</strong>
                 <p>
-                    The Recital Fee is the fee charged each dancer for participation in our Spring Recital.  The Recital Fee is a NON-REFUNDABLE fee confirming your commitment to be a part of our performance. The recital fee is due in January.  It is $85 for the first child in the family and $45 for each additional child in the same family.  This fee does not include tickets to the performance.
+                    The Recital Fee is the fee charged each dancer for participation in our Spring Recital.  The Recital Fee is a NON-REFUNDABLE fee confirming your commitment to be a part of our performance. The recital fee is due in January.  It is $85 for the first child in the family and $65 for each additional child in the same family.  This fee does not include tickets to the performance.
                     <br><br>
-                    Recitals will be held on Thursday, May 20, Friday, May 21 and Saturday, May 22.
+                    Tentative Recital Dates: June 2 - 5, 2022
                     <br><br>
                     <em>We will have details on specific recital times for each individual class after our production meeting with the Eisemann in early March.</em>
                     <br><br>
@@ -46,7 +46,7 @@
                     <br><br>
                     In an effort to ensure that costumes are delivered in time for an organized distribution to our students before portrait day, rehearsals, and performances, costume orders are placed during our Thanksgiving break.  <u>Costume manufacturers do not accept cancellations or offer refunds; therefore Studio 3 Dance does not refund costume deposits or payments.</u>
                     <br><br>
-                    Preschool & 30-minute Children’s Classes - $75.00 per costume
+                    Preschool & 30-minute Children’s Classes - $80.00 per costume
                     <br>Levels I-II -III Classes - $95.00 per costume
                     <br>Levels IV-VII and Pointe Classes - $105.00 per costume
                     <br><br>
@@ -72,7 +72,7 @@
             <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded" style="background: white;">
                 <strong>Distribution</strong>
                 <p>
-                    Costumes will be distributed the week of May 3, 2021. All accounts must have a zero balance to receive costumes.
+                    Costumes will be distributed the week of May 2, 2022. All accounts must have a zero balance to receive costumes.
                     <br><br>
                     <em>The deadline for all balances due for the dance season is April 10, 2021. April and May tuition are both due in April.</em>
                     <br><br>
@@ -84,7 +84,7 @@
             <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded">
                 <strong>Withdrawal</strong>
                 <p>
-                    No refunds will be made if a parent or guardian withdraws a child from Studio 3 after costumes have been ordered.  Parents or guardians may pick up purchased costumes at Studio 3 after June 8, 2021.  Costumes not picked up will be donated to charity after June 30, 2021.
+                    No refunds will be made if a parent or guardian withdraws a child from Studio 3 after costumes have been ordered.  Parents or guardians may pick up purchased costumes at Studio 3 after June 6, 2022.  Costumes not picked up will be donated to charity after June 30, 2022.
                 </p>
             </div>
             <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded">
@@ -107,7 +107,7 @@
             <div class="rerotate col-sm"><img src="/images/plano-christmas-parade-3.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
         </div>
         <span class="stand-out">Snow Queen</span>
-        <p>We present our winter ballet, Snow Queen every other year. Our next ballet will be winter 2021.</p>
+        <p>We present our winter ballet, Snow Queen every other year. Our next ballet will be at the Eisemann Bank of America Theatre November 13 -14, 2021</p>
         <div class="row d-flex justify-content-center">
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">

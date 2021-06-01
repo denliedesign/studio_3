@@ -81,7 +81,7 @@
                     <div class="row">
                         <div class="col-sm-7">
                             <span class="stand-out">Register NOW for Summer!</span>
-                            <br>Early registration discounts end May 15th
+                            <br>Summer Classes Start June 8
                             <br><br>
                             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
@@ -89,14 +89,13 @@
                         </div>
                         <div class="col-sm-5" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
-                            <br><span class="purple-txt">March 15</span> Summer Registration Begins
-                            <br><span class="purple-txt">May 20-23</span> Spring Recitals
-                            <br><span class="purple-txt">May 24-25</span> Recital Portraits
-                            <br><span class="purple-txt">May 26-27</span> Student Appreciation Days
-                            <br><span class="purple-txt">June</span> 3 week Summer Session I, Princess Camps, 3 day camps, Dance Intensive
-                            <br><span class="purple-txt">July</span> 3 week Summer Session II, Princess Camps, 3 day camps, Snow Queen Workshop & auditions
-{{--                            <br><span class="purple-txt">July 7-24 & July 5-22</span> 3-Week Sessions--}}
-{{--                            <br><span class="purple-txt">July</span> Snow Queen Auditions & Workshops--}}
+                            <br><span class="purple-txt">June 8-24</span> 3 week June Class Session and Princess Camps
+                            <br><span class="purple-txt">June 8-10</span>  Marquee Mix Up Broadway and Jazz Camp
+                            <br><span class="purple-txt">June 15-17</span> Boho Desert Bash Jazz and Acro Camp
+                            <br><span class="purple-txt">June 28 - July 1</span> Dance Intensive and Team Auditions/Placement
+                            <br><span class="purple-txt">July 6-22</span> 3 Week July Class Session and Princess Camps
+                            <br><span class="purple-txt">July 12-15</span> Snow Queen Workshops and Auditions/ The Snowflake Spectacular
+                            <br><span class="purple-txt">July 20-22</span> Pastel Pop Stars and Rainbow Rockers Jazz & Hip Hop Camp
                             <br><span class="purple-txt">August 9</span> Fall Classes Begin
                         </div>
                     </div>
@@ -106,24 +105,24 @@
 
         <section id="age-groups" class="my-5 py-5 mx-4">
             <div class="container">
-                <div class="row">
-                    <div class="col-sm mx-2">
+                <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-5">
+                    <div class="col px-2">
                         <a href="/classes"><img src="/images/main-kinder-3.jpg" alt="preschool girl" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">Ages 2-5</h3>
                     </div>
-                    <div class="col-sm mx-2">
+                    <div class="col px-2">
                         <a href="/classes"><img src="/images/main-elementary-3.jpg" alt="elementary school girl" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">K-2nd Grade</h3>
                     </div>
-                    <div class="col-sm mx-2">
+                    <div class="col px-2">
                         <a href="/classes"><img src="/images/main-leveled-3.jpg" alt="advanced girl" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">3rd Grade & Up</h3>
                     </div>
-                    <div class="col-sm mx-2">
+                    <div class="col px-2">
                         <a href="/performances"><img src="/images/main-performances-1.jpg" alt="snow queen performance" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">Performances</h3>
                     </div>
-                    <div class="col-sm mx-2">
+                    <div class="col px-2">
                         <a href="/competition"><img src="/images/main-teams-2.jpg" alt="competitive teams" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">Teams</h3>
                     </div>
@@ -131,7 +130,7 @@
             </div>
         </section>
 
-        <div class="my-5 py-5 container" style="min-height: 80vh;">
+        <div class="my-5 py-5 container">
             <div class="row my-2">
                 <div class="col-sm text-center m-1 flip-card">
                     <div class="flip-card-inner">
@@ -170,23 +169,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row my-2">
-                <div class="col-sm text-center m-1 flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front rounded shadow">
-                            <p class="fw-bold" style="font-size: 1.5em;">Studio <span class="font-red">3</span> Dance is a...</p>
-                            <img src="/images/tech-enabled-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">
-                            <div class="d-flex justify-content-end">
-                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
-                            </div>
-                        </div>
-                        <div class="pop-bg-blue flip-card-back rounded shadow p-3">
-                            <p class="fw-bold mb-0" style="font-size: 1.25em;">What does that mean?</p>
-                            <p class="mt-0">S3D is a tech-enabled studio with live streaming equipment for our dance rooms for students to participate in class via our distance learning format as well as the opportunity for parents to watch from their cars as our lobby is closed.</p>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-sm text-center m-1 flip-card">
                     <div class="flip-card-inner">
                         <div class="flip-card-front rounded shadow">
@@ -203,9 +185,27 @@
                     </div>
                 </div>
             </div>
+{{--            <div class="row my-2">--}}
+{{--                <div class="col-sm text-center m-1 flip-card">--}}
+{{--                    <div class="flip-card-inner">--}}
+{{--                        <div class="flip-card-front rounded shadow">--}}
+{{--                            <p class="fw-bold" style="font-size: 1.5em;">Studio <span class="font-red">3</span> Dance is a...</p>--}}
+{{--                            <img src="/images/tech-enabled-logo.png" alt="more than just great dancing logo" class="img-fluid" style="max-height: 150px;">--}}
+{{--                            <div class="d-flex justify-content-end">--}}
+{{--                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="pop-bg-blue flip-card-back rounded shadow p-3">--}}
+{{--                            <p class="fw-bold mb-0" style="font-size: 1.25em;">What does that mean?</p>--}}
+{{--                            <p class="mt-0">S3D is a tech-enabled studio with live streaming equipment for our dance rooms for students to participate in class via our distance learning format as well as the opportunity for parents to watch from their cars as our lobby is closed.</p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+
+{{--            </div>--}}
         </div>
 
-        <section id="acroarts" class="container my-5 py-5">
+        <section id="acroarts" class="container mb-5 pb-5">
             <div class="d-flex align-items-center justify-content-center">
                 <div class="gradient-turq rounded"></div>
                 <div class="row">

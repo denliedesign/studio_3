@@ -16,7 +16,7 @@
         </div>
         <div class="bg-blue py-4 rounded">
             <p class="text-center text-dark">
-                <a href="/images/waiver.pdf" target="_blank" class="text-dark">Studio 3 Dance COVID-19 Release Waiver Rules Procedures</a> (5.20.2020)
+                <a href="/images/waiver-2021.pdf" target="_blank" class="text-dark">Studio 3 Dance COVID-19 Release Waiver Rules Procedures</a> (2021)
             </p>
         </div>
     </div>

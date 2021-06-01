@@ -21,8 +21,8 @@
             <br><br>
             <strong>Hip-Hop:</strong> Loose fitting clothing - no jeans or skirts. Tennis shoes, converse or dance sneakers that are not worn outside.
             <br><br>
-            <strong>Tutus & Tumble:</strong> Regular ballet attire and ballet shoes.
-            <br><br>
+{{--            <strong>Tutus & Tumble:</strong> Regular ballet attire and ballet shoes.--}}
+{{--            <br><br>--}}
             <strong>Kids Tumble & ACRO:</strong> Leotard with leggings or jazz shorts over convertible or footless tights, bare feet. No baggy shirts.
         </p>
         <div class="rotated-bg-blue m-3 p-3">

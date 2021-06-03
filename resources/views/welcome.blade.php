@@ -40,7 +40,7 @@
 
     <x-app-layout>
 
-        <img src="/images/studio-3-head.jpg" alt="ballet girls on stage in tutus" class="img-fluid">
+        <img src="/images/studio-3-head.JPG" alt="ballet girls on stage in tutus" class="img-fluid">
 
         <section id="vision" class="container my-5">
             <div class="d-flex align-items-center justify-content-center">

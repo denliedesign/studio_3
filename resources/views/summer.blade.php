@@ -55,6 +55,8 @@
             Performance and Competition Team Placement will take place the afternoon of June 30th for those interested.
             <br>OKLA will do the Thursday camp classes - included in the week’s intensive tuition.
             <br><br>
+            <a href="/images/dance-intensive-ok-la.pdf" target="_blank"><img src="/images/dance-intensive-ok-la.jpg" alt="okla workshop info" class="img-fluid" style="max-width: 700px; width: 100%;"></a>
+            <br><br>
             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                 <button class="btn btn-danger shadow mb-4">Register Now</button>
             </a>

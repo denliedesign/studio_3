@@ -40,7 +40,7 @@
 
     <x-app-layout>
 
-        <img src="/images/main.jpg" alt="ballet girls in tutus" class="img-fluid">
+        <img src="/images/studio-3-head.jpg" alt="ballet girls on stage in tutus" class="img-fluid">
 
         <section id="vision" class="container my-5">
             <div class="d-flex align-items-center justify-content-center">
@@ -53,7 +53,7 @@
                         </div>
                     </div>
                     <div class="col-sm d-flex align-items-center">
-                        <img src="/images/main-2.jpg" alt="little ballet girls in tutus" style="max-height: 350px; width: auto;" class="img-fluid rounded">
+                        <img src="/images/studio-3-main.JPG" alt="dancers in costume with teacher" style="max-height: 350px; width: auto;" class="img-fluid rounded">
                     </div>
                 </div>
             </div>

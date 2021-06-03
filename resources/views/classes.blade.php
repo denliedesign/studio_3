@@ -44,7 +44,7 @@
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 my-5">
             <div class="d-flex align-items-center" style="border: 1px solid #747474;">
                 <div class="col text-center">
-                    <img src="/images/child-1.jpg" alt="childrens class logo" class="img-fluid m-2">
+                    <img src="/images/dance-with-me-logo.png" alt="childrens class logo" class="img-fluid m-2">
                     <small class="text-muted d-block">ages 24 months - 2 1/2</small>
                     <p>
                         Creative movement class for tiny dancers and moms/caregivers. Singing & dancing with props for our youngest imaginations.

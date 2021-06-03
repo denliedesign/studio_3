@@ -1,19 +1,26 @@
 <x-app-layout>
 
-    <video width="100%" height="auto" poster="/images/recital.jpg" controls>
+    <video width="100%" height="auto" poster="/images/video-pre-load.JPG" controls>
         <source src="/images/spring-recital.mp4" type="video/mp4">
     </video>
 
     <div class="container mt-5" id="performances">
         <h1>Performances</h1>
-        <span class="stand-out">Spring Recital</span>
-        <p>
-            For the past 23 years, Studio 3 Dance has provided dancers with an exciting performance experience through its end of the year Recital. The performance offers our dancers a chance to shine in front of family and friends and it is truly the highlight of the dance school year. The Recital offers our students a professionally directed performance that allows them the opportunity to present the results of their year’s hard work, dedication, and progress.
-            <br><br>
-            A big part of the dance training process includes learning through performance. The experience helps build self-esteem, self-assurance, and contributes to a sense of confidence. Although performance opportunities can help prepare some students for a possible career in dance, they also contribute to success in non-dance activities. That onstage experience can result in better in-school presentations and improved social skills. The rehearsal process helps develop retention skills, and by working with their classmates on a group performance, they learn the positive aspects of working as a team to create the best end result.  Recital commitment is the responsibility of both students and their parents.
-            <br><br>
-            Our goal is to make the recital an organized, exciting experience for everyone involved.
-        </p>
+        <div class="row my-5">
+            <div class="col-sm">
+                <span class="stand-out">Spring Recital</span>
+                <p>
+                    For the past 23 years, Studio 3 Dance has provided dancers with an exciting performance experience through its end of the year Recital. The performance offers our dancers a chance to shine in front of family and friends and it is truly the highlight of the dance school year. The Recital offers our students a professionally directed performance that allows them the opportunity to present the results of their year’s hard work, dedication, and progress.
+                    <br><br>
+                    A big part of the dance training process includes learning through performance. The experience helps build self-esteem, self-assurance, and contributes to a sense of confidence. Although performance opportunities can help prepare some students for a possible career in dance, they also contribute to success in non-dance activities. That onstage experience can result in better in-school presentations and improved social skills. The rehearsal process helps develop retention skills, and by working with their classmates on a group performance, they learn the positive aspects of working as a team to create the best end result.  Recital commitment is the responsibility of both students and their parents.
+                    <br><br>
+                    Our goal is to make the recital an organized, exciting experience for everyone involved.
+                </p>
+            </div>
+            <div class="col-sm">
+                <img src="/images/recital-1.jpg" alt="recital" class="img-fluid shadow rounded">
+            </div>
+        </div>
         <div class="row rounded rotated-bg-red p-0 m-0">
             <div class="rerotate col-sm p-3 mx-sm-3 my-3 shadow rounded" style="background: white;">
                 <strong>Financial Commitment for Spring Recital 2022</strong>
@@ -22,7 +29,7 @@
                     <br>12/15/21 - Costume Balance
                     <br>1/15/22 - Spring Recital Fee $85 ($65 for additional children)
                 </p>
-                <img src="/images/recital-ballet.jpg" alt="recital ballerinas" class="img-fluid">
+                <img src="/images/recital-hip-hop.JPG" alt="recital hip hop" class="img-fluid">
             </div>
             <div class="rerotate col-sm p-3 mx-sm-3 my-3 shadow rounded" style="background: white;">
                 <strong>Recital Fee and Date</strong>
@@ -55,6 +62,9 @@
                     Costumes are always age-appropriate and of the highest quality possible.
                 </p>
             </div>
+            <div class="col-sm">
+                <img src="/images/recital-2.jpg" alt="recital" class="img-fluid shadow rounded">
+            </div>
         </div>
         <div class="row rounded rotated-bg-blue">
             <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded" style="background: white;">
@@ -78,6 +88,19 @@
                     <br><br>
                     Students should not wear their costumes, accessories, or tights prior to portrait day, dress rehearsal, or performance.
                 </p>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/recital-3.JPG" alt="recital" class="img-fluid shadow rounded">
+                        <img src="/images/recital-5.JPG" alt="recital" class="img-fluid shadow rounded mt-5">
+                    </div>
+                    <div class="col-sm">
+                        <img src="/images/recital-4.JPG" alt="recital" class="img-fluid shadow rounded">
+                    </div>
+                </div>
             </div>
         </div>
         <div class="row rotated-bg-white">

@@ -34,44 +34,46 @@
         </section>
 
         <div class="my-5 py-5">
-            <div class="row">
-                <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/images/sparkle-squad-logo.jpg" alt="sparkle squad logo" class="img-fluid" style="max-height: 100px;">
-                </div>
-                <div class="col-sm-9 d-flex align-items-center">
-                    <p>
-                        <strong>Sparkle Squad I:  Ages 5-6 (Pink)</strong> is a one-hour combination Jazz and Ballet class. Tap and Acro are recommended for additional training.
-                        <br><small>(June prep classes and 2 day intensive are recommended)</small>
-                        <br><br>
-                        <strong>Sparkle Squad I: Ages 6-7 (Purple)</strong> is a 30 minute Ballet and 30 minute Jazz class that meet back to back. Tap and Acro are recommended for additional training.
-                        <br><small>(June prep classes and 2 day intensive are recommended)</small>
-                        <br><br>
-                        <strong>Sparkle Squad II:  Ages 7½ - 9 - Sparkle Squad II</strong> is a 45-minute jazz class and 45-minute or one hour ballet class. Intro to Technique, Tap and Acro are recommended for additional training.
-                        <br><small>(June prep classes and 2 day intensive are recommended)</small>
-                    </p>
-                </div>
+{{--            <div class="row">--}}
+{{--                <div class="col-sm-3 d-flex justify-content-center">--}}
+{{--                    <img src="/images/sparkle-squad-logo.jpg" alt="sparkle squad logo" class="img-fluid" style="max-height: 100px;">--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-9 d-flex align-items-center">--}}
+{{--                    <p>--}}
+{{--                        <strong>Sparkle Squad I:  Ages 5-6 (Pink)</strong> is a one-hour combination Jazz and Ballet class. Tap and Acro are recommended for additional training.--}}
+{{--                        <br><small>(June prep classes and 2 day intensive are recommended)</small>--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Sparkle Squad I: Ages 6-7 (Purple)</strong> is a 30 minute Ballet and 30 minute Jazz class that meet back to back. Tap and Acro are recommended for additional training.--}}
+{{--                        <br><small>(June prep classes and 2 day intensive are recommended)</small>--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Sparkle Squad II:  Ages 7½ - 9 - Sparkle Squad II</strong> is a 45-minute jazz class and 45-minute or one hour ballet class. Intro to Technique, Tap and Acro are recommended for additional training.--}}
+{{--                        <br><small>(June prep classes and 2 day intensive are recommended)</small>--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="row mb-3">--}}
+{{--                <div class="col-sm-3"></div>--}}
+{{--                <div class="col-sm-9">--}}
+{{--                    <div class="turq-dash-flip mx-5"></div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-sm-3 d-flex justify-content-center">--}}
+{{--                    <img src="/images/show-stars-logo.png" alt="show stars logo" class="img-fluid" style="max-height: 100px;">--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-9 d-flex align-items-center">--}}
+{{--                    <p>--}}
+{{--                        <strong>Show Stars I:  Ages 9½ +</strong> Show Stars I is a one-hour weekly jazz class. Ballet and Technique classes are required.  Acro and Tap classes are recommended.--}}
+{{--                        <br><small>(June classes and 2 day intensive are recommended)</small>--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Show Stars II:  Ages 11½ +</strong> Show Stars II is a one-hour weekly jazz class. Ballet and Technique classes are required. Tap and Acro are recommended.--}}
+{{--                        <br><small>(June classes and 4 day intensive recommended)</small>--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+            <div>
+                <a href="/images/performance-company-team-structure.pdf" target="_blank"><img src="/images/performance-company-team-structure.jpg" alt="performance company team structure" class="img-fluid"></a>
             </div>
-            <div class="row mb-3">
-                <div class="col-sm-3"></div>
-                <div class="col-sm-9">
-                    <div class="turq-dash-flip mx-5"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/images/show-stars-logo.png" alt="show stars logo" class="img-fluid" style="max-height: 100px;">
-                </div>
-                <div class="col-sm-9 d-flex align-items-center">
-                    <p>
-                        <strong>Show Stars I:  Ages 9½ +</strong> Show Stars I is a one-hour weekly jazz class. Ballet and Technique classes are required.  Acro and Tap classes are recommended.
-                        <br><small>(June classes and 2 day intensive are recommended)</small>
-                        <br><br>
-                        <strong>Show Stars II:  Ages 11½ +</strong> Show Stars II is a one-hour weekly jazz class. Ballet and Technique classes are required. Tap and Acro are recommended.
-                        <br><small>(June classes and 4 day intensive recommended)</small>
-                    </p>
-                </div>
-            </div>
-
         </div>
 
         <section id="vision" class="container my-5">

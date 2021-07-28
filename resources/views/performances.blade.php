@@ -10,7 +10,7 @@
             <div class="col-sm">
                 <span class="stand-out">Spring Recital</span>
                 <p>
-                    For the past 23 years, Studio 3 Dance has provided dancers with an exciting performance experience through its end of the year Recital. The performance offers our dancers a chance to shine in front of family and friends and it is truly the highlight of the dance school year. The Recital offers our students a professionally directed performance that allows them the opportunity to present the results of their year’s hard work, dedication, and progress.
+                    For the past 24 years, Studio 3 Dance has provided dancers with an exciting performance experience through its end of the year Recital. The performance offers our dancers a chance to shine in front of family and friends and it is truly the highlight of the dance school year. The Recital offers our students a professionally directed performance that allows them the opportunity to present the results of their year’s hard work, dedication, and progress.
                     <br><br>
                     A big part of the dance training process includes learning through performance. The experience helps build self-esteem, self-assurance, and contributes to a sense of confidence. Although performance opportunities can help prepare some students for a possible career in dance, they also contribute to success in non-dance activities. That onstage experience can result in better in-school presentations and improved social skills. The rehearsal process helps develop retention skills, and by working with their classmates on a group performance, they learn the positive aspects of working as a team to create the best end result.  Recital commitment is the responsibility of both students and their parents.
                     <br><br>
@@ -57,7 +57,7 @@
                     <br>Levels I-II -III Classes - $95.00 per costume
                     <br>Levels IV-VII and Pointe Classes - $105.00 per costume
                     <br><br>
-                    Costumes will not be ordered until Costumes fees are paid in full.  December 15, 2020 is the final day for payments to be made for our bulk costume order.   Parents or guardians accept full responsibility for all expenses, including surcharges and postage for costumes that are paid for and ordered after the December 15 deadline. The additional fee for late orders is $25.00 per costume. Studio 3 Dance does not accept responsibility if costumes are not received in time for the Recital due to late payments and add on orders placed after this deadline.
+                    Costumes will not be ordered until Costumes fees are paid in full.  December 15, 2021 is the final day for payments to be made for our bulk costume order.   Parents or guardians accept full responsibility for all expenses, including surcharges and postage for costumes that are paid for and ordered after the December 15 deadline. The additional fee for late orders is $25.00 per costume. Studio 3 Dance does not accept responsibility if costumes are not received in time for the Recital due to late payments and add on orders placed after this deadline.
                     <br><br>
                     Costumes are always age-appropriate and of the highest quality possible.
                 </p>
@@ -84,7 +84,7 @@
                 <p>
                     Costumes will be distributed the week of May 2, 2022. All accounts must have a zero balance to receive costumes.
                     <br><br>
-                    <em>The deadline for all balances due for the dance season is April 10, 2021. April and May tuition are both due in April.</em>
+                    <em>The deadline for tuition and other balances for the dance season is April 10, 2022.  April and May tuition are both due in April.</em>
                     <br><br>
                     Students should not wear their costumes, accessories, or tights prior to portrait day, dress rehearsal, or performance.
                 </p>
@@ -119,10 +119,13 @@
             <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded">
                 <strong>Tickets</strong>
                 <p>
-                    Performance tickets will be sold through the Eisemann ticket center in early May. Ticket prices will be available in early April 2021.
+                    Performance tickets will be sold through the Eisemann ticket center in early May. Ticket prices will be available in early April 2022.
                 </p>
             </div>
         </div>
+
+        <iframe width="100%" height="638px" src="https://www.yumpu.com/en/embed/view/TtGsL1PIB3HnoUZr" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>
+
         <span class="stand-out">Plano Christmas Parade</span>
         <div class="row d-flex justify-content-center mb-5 rotated-bg-red rounded">
             <div class="rerotate col-sm"><img src="/images/plano-christmas-parade.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
@@ -130,7 +133,9 @@
             <div class="rerotate col-sm"><img src="/images/plano-christmas-parade-3.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
         </div>
         <span class="stand-out">Snow Queen</span>
-        <p>We present our winter ballet, Snow Queen every other year. Our next ballet will be this winter 2021. Dates TBD</p>
+        <p>We present our winter ballet, Snow Queen every other year. Dates for our next ballet are November 13, 14, 2021. Auditions are August 14th at 1:00pm at the studio.
+{{--        <span class="text-capitalize">View The <a href="/images/snow-queen-rehearsal-schedule.pdf" target="_blank">Rehearsal schedule for the fall</a></span>--}}
+        </p>
         <div class="row d-flex justify-content-center">
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">

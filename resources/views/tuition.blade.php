@@ -139,88 +139,86 @@
 {{--                        </tr>--}}
 {{--                    </table>--}}
 {{--                </div>--}}
-            <div class="col-sm">
-                <div class="shadow rounded p-5">
-                    <p>
-                        <span class="stand-out">Summer Class Tuition</span>
-                        {{--                        <br>class sizes 7 - 10 depending on room size--}}
-                    </p>
-                    <table class="table">
-                        <thead>
-                            <tr>
-                                <th>Class Hours Weekly</th>
-                                <th>3 Week Tuition</th>
-                            </tr>
-                        </thead>
-                        <tr>
-                            <td>30 minute</td>
-                            <td>$41.25</td>
-                        </tr>
-                        <tr>
-                            <td>45 minute</td>
-                            <td>$57.75</td>
-                        </tr>
-                        <tr>
-                            <td>1 hour</td>
-                            <td>$66</td>
-                        </tr>
-                        <tr>
-                            <td>1 1/4 hours</td>
-                            <td>$78.75</td>
-                        </tr>
-                        <tr>
-                            <td>1 1/2 hours</td>
-                            <td>$90.75</td>
-                        </tr>
-                        <tr>
-                            <td>1 3/4 - 2 hours</td>
-                            <td>$107.25</td>
-                        </tr>
-                        <tr>
-                            <td>2 1/4 - 2 1/2 hours</td>
-                            <td>$119.25</td>
-                        </tr>
-                        <tr>
-                            <td>2 3/4 - 3 hours</td>
-                            <td>$132</td>
-                        </tr>
-                        <tr>
-                            <td>3 1/4 hours</td>
-                            <td>$168.75</td>
-                        </tr>
-                        <tr>
-                            <td>3 1/2 - 4 hours</td>
-                            <td>$189.75</td>
-                        </tr>
-                        <tr>
-                            <td>4 1/4 - 4 1/2 hours</td>
-                            <td>$206.25</td>
-                        </tr>
-                        <tr>
-                            <td>4 3/4 - 5 hours</td>
-                            <td>$223.5</td>
-                        </tr>
-                        <tr>
-                            <td>5 1/4 hours</td>
-                            <td>$238.5</td>
-                        </tr>
-                        <tr>
-                            <td>5 1/2 - 6 hours</td>
-                            <td>$253.5</td>
-                        </tr>
-                        <tr>
-                            <td>6 1/4 - 6 1/2 hours</td>
-                            <td>$268.5</td>
-                        </tr>
-                        <tr>
-                            <td>6 3/4+ </td>
-                            <td>$283.50</td>
-                        </tr>
-                    </table>
-                </div>
-            </div>
-        </div>
-        <div class="row">
+{{--            <div class="col-sm">--}}
+{{--                <div class="shadow rounded p-5">--}}
+{{--                    <p>--}}
+{{--                        <span class="stand-out">Summer Class Tuition</span>--}}
+{{--                        --}}{{--                        <br>class sizes 7 - 10 depending on room size--}}
+{{--                    </p>--}}
+{{--                    <table class="table">--}}
+{{--                        <thead>--}}
+{{--                            <tr>--}}
+{{--                                <th>Class Hours Weekly</th>--}}
+{{--                                <th>3 Week Tuition</th>--}}
+{{--                            </tr>--}}
+{{--                        </thead>--}}
+{{--                        <tr>--}}
+{{--                            <td>30 minute</td>--}}
+{{--                            <td>$41.25</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>45 minute</td>--}}
+{{--                            <td>$57.75</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>1 hour</td>--}}
+{{--                            <td>$66</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>1 1/4 hours</td>--}}
+{{--                            <td>$78.75</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>1 1/2 hours</td>--}}
+{{--                            <td>$90.75</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>1 3/4 - 2 hours</td>--}}
+{{--                            <td>$107.25</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>2 1/4 - 2 1/2 hours</td>--}}
+{{--                            <td>$119.25</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>2 3/4 - 3 hours</td>--}}
+{{--                            <td>$132</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>3 1/4 hours</td>--}}
+{{--                            <td>$168.75</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>3 1/2 - 4 hours</td>--}}
+{{--                            <td>$189.75</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>4 1/4 - 4 1/2 hours</td>--}}
+{{--                            <td>$206.25</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>4 3/4 - 5 hours</td>--}}
+{{--                            <td>$223.5</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>5 1/4 hours</td>--}}
+{{--                            <td>$238.5</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>5 1/2 - 6 hours</td>--}}
+{{--                            <td>$253.5</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>6 1/4 - 6 1/2 hours</td>--}}
+{{--                            <td>$268.5</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr>--}}
+{{--                            <td>6 3/4+ </td>--}}
+{{--                            <td>$283.50</td>--}}
+{{--                        </tr>--}}
+{{--                    </table>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="col-sm">
                 <div class="shadow rounded p-5">
                     <p>
@@ -231,6 +229,9 @@
                 </div>
             </div>
         </div>
+{{--        <div class="row">--}}
+
+{{--        </div>--}}
 
         <div class="rotated-bg-red rounded">
             <div class="shadow rounded p-3 m-3 rerotate" style="background: white;">
@@ -243,15 +244,16 @@
                     <div class="col-sm">
                         <p>
                             <strong>Recital Costumes/Accessories</strong>
-                            <br><small class="text-muted">Tights and shoes are not included</small>
-                            <br>$75 - Children’s classes ages 8 & under (30, 45 minute or 55 minute combo
-                            <br>$105 - Leveled classes 45 minutes and up
+                            <br><small class="text-muted">Tights included.  Dance shoes are not included</small>
+                            <br>$80 - Children's classes ages 8 & under (30 and 45 minute classes)
+                            <br>$95 - Levels I - III
+                            <br>$105 Levels IV - VI and pointe classes
                         </p>
                     </div>
                     <div class="col-sm">
                         <p>
                             <strong>Non-Refundable Recital Fee</strong>
-                            <br><small class="text-muted">Due January 15, 2021</small>
+                            <br><small class="text-muted">Due January 15, 2022</small>
                             <br>$85 - first child in family
                             <br>$45 - for each additional child in family
                         </p>

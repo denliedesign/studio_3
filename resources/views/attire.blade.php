@@ -13,7 +13,7 @@
             <br><br>
             <strong>Ballet:</strong> Black leotard with an optional black chiffon ballet skirt, pink tights, pink split sole ballet shoes (canvas preferred)
             <br><br>
-            <strong>Jazz, Pom, Drill Team Prep, Technique, & Musical Theater:</strong> Leotard, fitted camisole, or tank-top with dance shorts, capris, or pants over tights. No baggy t-shirts. Tan jazz shoes (caramel slip on preferred)
+            <strong>Jazz, Pom, Drill Team Prep, Technique, & Musical Theater:</strong> Leotard, fitted camisole, or tank-top with leggings, dance shorts, capris, or pants over tights. No baggy t-shirts. Tan jazz shoes (caramel slip on preferred)
             <br><br>
             <strong>Tap:</strong> Leotard, fitted camisole, or tank-top with jazz shorts, capris, or pants over tights. No baggy t-shirts. Black tap shoes (slip on preferred)
             <br><br>

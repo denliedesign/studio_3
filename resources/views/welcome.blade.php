@@ -59,9 +59,6 @@
             </div>
         </section>
 
-        <iframe width="100%" height="638px" src="https://www.yumpu.com/en/embed/view/TtGsL1PIB3HnoUZr" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>
-
-
         <section id="enrollment" class="container mb-5 pb-5">
             <div id="mask-update" class="p-3 m-3 rotated-bg-blue rounded">
                 <p class="rounded shadow rerotate p-3 m-3" style="background: white;">
@@ -80,8 +77,8 @@
                 <div class="text-left" style="font-size: 1.25em;">
                     <div class="row">
                         <div class="col-sm-7">
-                            <span class="stand-out">Register NOW for Summer!</span>
-                            <br>Summer Classes Start June 8
+                            <span class="stand-out">Register now for Fall 2021 - Spring 2022</span>
+                            <br>Fall classes begin August 9th
                             <br><br>
                             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
@@ -89,14 +86,12 @@
                         </div>
                         <div class="col-sm-5" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
-                            <br><span class="purple-txt">June 8-24</span> 3 week June Class Session and Princess Camps
-                            <br><span class="purple-txt">June 8-10</span>  Marquee Mix Up Broadway and Jazz Camp
-                            <br><span class="purple-txt">June 15-17</span> Boho Desert Bash Jazz and Acro Camp
-                            <br><span class="purple-txt">June 28 - July 1</span> Dance Intensive and Team Auditions/Placement
-                            <br><span class="purple-txt">July 6-22</span> 3 Week July Class Session and Princess Camps
-                            <br><span class="purple-txt">July 12-15</span> Snow Queen Workshops and Auditions/ The Snowflake Spectacular
-                            <br><span class="purple-txt">July 20-22</span> Pastel Pop Stars and Rainbow Rockers Jazz & Hip Hop Camp
-                            <br><span class="purple-txt">August 9</span> Fall Classes Begin
+                            <br>
+                            <span class="purple-txt">August 5th</span> "Back to Dance Night" 5:00 - 6:00 at the studio
+                            <br>
+                            <span class="purple-txt">August 9th</span> FIrst day of fall classes
+                            <br>
+                            <span class="purple-txt">August 14th</span> Snow Queen Auditions - 1:00pm
                         </div>
                     </div>
                 </div>

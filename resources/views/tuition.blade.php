@@ -255,7 +255,7 @@
                             <strong>Non-Refundable Recital Fee</strong>
                             <br><small class="text-muted">Due January 15, 2022</small>
                             <br>$85 - first child in family
-                            <br>$45 - for each additional child in family
+                            <br>$65 - for each additional child in family
                         </p>
                     </div>
                 </div>

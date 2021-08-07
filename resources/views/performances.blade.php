@@ -41,7 +41,7 @@
                     <em>We will have details on specific recital times for each individual class after our production meeting with the Eisemann in early March.</em>
                     <br><br>
                     The recital is not mandatory for any dancer, but more than 98% of our dancers in recital classes do make the choice to participate. If you'd like to opt your dancer out of recital, please print and fill out
-                    <a href="/images/spring-recital-form.png" target="_blank">this form.</a>
+                    <a href="/images/spring-recital-form.jpg" target="_blank">this form.</a>
                 </p>
             </div>
         </div>

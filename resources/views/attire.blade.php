@@ -25,19 +25,19 @@
 {{--            <br><br>--}}
             <strong>Kids Tumble & ACRO:</strong> Leotard with leggings or jazz shorts over convertible or footless tights, bare feet. No baggy shirts.
         </p>
-        <div class="rotated-bg-blue m-3 p-3">
-            <div class="d-flex justify-content-center rerotate">
-                <div class="shadow rounded p-3 m-3" style="max-width: 350px; background: white;">
-                    <p class="text-center">
-                        <a href="https://www.curtaincallforclass.com/my-studio/43526" target="_blank">Order your classwear essentials today!</a>
-                        <br>Studio Passphrase: Studio3Dance
-                    </p>
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/curtain-call.jpg" alt="curtain call" class="img-fluid">
-                    </div>
-                </div>
-            </div>
-        </div>
+{{--        <div class="rotated-bg-blue m-3 p-3">--}}
+{{--            <div class="d-flex justify-content-center rerotate">--}}
+{{--                <div class="shadow rounded p-3 m-3" style="max-width: 350px; background: white;">--}}
+{{--                    <p class="text-center">--}}
+{{--                        <a href="https://www.curtaincallforclass.com/my-studio/43526" target="_blank">Order your classwear essentials today!</a>--}}
+{{--                        <br>Studio Passphrase: Studio3Dance--}}
+{{--                    </p>--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/curtain-call.jpg" alt="curtain call" class="img-fluid">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
     </div>
 
 </x-app-layout>

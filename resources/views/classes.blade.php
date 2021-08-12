@@ -13,14 +13,14 @@
 {{--            If you don't see the class you are looking for, please call the studio and let us assist you.--}}
 {{--        </span>--}}
         <p>
-            Studio 3 takes pride in creating a learning experience that is positive and rewarding for dancers of all ages & levels. We offer a diverse schedule of dance classes for children ages 24 months and up year round. Our main dance season runs from mid August through the end of May. To get the most out of your dance year, enrollment at the beginning of our season is best. <strong>Fall classes begin August 9th.</strong>
+            Studio 3 takes pride in creating a learning experience that is positive and rewarding for dancers of all ages & levels. We offer a diverse schedule of dance classes for children ages 18 months and up year round. Our main dance season runs from mid August through the end of May. To get the most out of your dance year, enrollment at the beginning of our season is best. <strong>Fall classes begin August 9th.</strong>
         </p>
         <div class="row m-0 p-0">
             <div class="col-sm">
                 <div class="rotated-bg-blue mt-5 mb-3 rounded">
                     <div class="text-center pt-4 stand-out">Children's Classes</div>
 {{--                    <p class="text-center text-capitalize">coming soon</p>--}}
-                    <a href="/images/childrens-classes.pdf" target="_blank"><img src="/images/childrens-classes.jpg" alt="childrens classes" class="px-5 pb-5 rerotate img-fluid"></a>
+                    <a href="/images/childrens-aug-11.pdf" target="_blank"><img src="/images/childrens-aug-11.jpg" alt="childrens classes" class="px-5 pb-5 rerotate img-fluid"></a>
                 </div>
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
@@ -32,7 +32,7 @@
                 <div class="rotated-bg-red mt-5 mb-3 rounded">
                     <div class="text-center pt-4 stand-out text-white">Leveled Classes</div>
 {{--                    <p class="text-white text-center text-capitalize">coming soon</p>--}}
-                    <a href="/images/leveled-classes.pdf" target="_blank"><img src="/images/leveled-classes.jpg" alt="leveled classes" class="px-5 pb-5 rerotate img-fluid"></a>
+                    <a href="/images/leveled-aug-11.pdf" target="_blank"><img src="/images/leveled-aug-11.jpg" alt="leveled classes" class="px-5 pb-5 rerotate img-fluid"></a>
                 </div>
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
@@ -45,7 +45,7 @@
             <div class="d-flex align-items-center" style="border: 1px solid #747474;">
                 <div class="col text-center">
                     <img src="/images/dance-with-me-logo.png" alt="childrens class logo" class="img-fluid m-2">
-                    <small class="text-muted d-block">ages 24 months - 2 1/2</small>
+                    <small class="text-muted d-block">ages 18 months - 2 1/2</small>
                     <p>
                         Creative movement class for tiny dancers and moms/caregivers. Singing & dancing with props for our youngest imaginations.
                     </p>
@@ -84,6 +84,15 @@
                     <small class="text-muted d-block">Pink - 3+  |  Lilac - 4+  | Yellow - 5+</small>
                     <p>
                         The TWIRL experience will add a little sparkle and merriment to our ballet and tap combo class one week per month. $25 supply fee includes a book, ribbon, rhinestones, and end of year certificate.
+                    </p>
+                </div>
+            </div>
+            <div class="d-flex align-items-center" style="border: 1px solid #747474;">
+                <div class="col text-center">
+                    <img src="/images/dance-upon-a-star.png" alt="childrens class logo" class="img-fluid m-2">
+                    <small class="text-muted d-block">ages 4+</small>
+                    <p>
+                        Ballet class for dancers with special needs.
                     </p>
                 </div>
             </div>

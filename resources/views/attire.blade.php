@@ -6,6 +6,9 @@
 
     <div id="general-section" class="mt-5 container">
         <h1>Attire</h1>
+        <div class="d-flex justify-content-center">
+            <img src="/images/dress-code.jpg" alt="dancers in dress code" class="img-fluid">
+        </div>
         <p>
             Hair should be pulled away from dancer's face with clips, headbands, or ponytails for all classes. Bun required for ballet.
             <br><br>
@@ -17,7 +20,7 @@
             <br><br>
             <strong>Tap:</strong> Leotard, fitted camisole, or tank-top with jazz shorts, capris, or pants over tights. No baggy t-shirts. Black tap shoes (slip on preferred)
             <br><br>
-            <strong>Lyrical/Contemporary & Modern:</strong> Leotard, fitted camisole, or tank-top with leggings or jazz shorts over convertible or footless tights. No baggy t-shirts. Pirouettes or bare feet for modern.
+            <strong>Lyrical/Contemporary & Modern:</strong> Leotard, fitted camisole, or tank-top with leggings or jazz shorts over convertible or footless tights. No baggy t-shirts. Pirouettes or bloch dance socks, bare feet for modern.
             <br><br>
             <strong>Hip-Hop:</strong> Loose fitting clothing - no jeans or skirts. Tennis shoes, converse or dance sneakers that are not worn outside.
             <br><br>

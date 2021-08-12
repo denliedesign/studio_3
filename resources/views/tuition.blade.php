@@ -225,6 +225,7 @@
                         <span class="stand-out">Private Lesson Rates</span>
                         <br>30 minute - $45
                         <br>60 minute - $90
+                        <br>Choreography - $375 (2 hours)
                     </p>
                 </div>
             </div>

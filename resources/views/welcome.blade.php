@@ -48,7 +48,7 @@
                 <div class="row">
                     <div class="col-sm">
                         <div class="shadow p-5 mx-sm-3 my-3 rounded bg-white" style="max-width: 500px;">
-                            <span class="stand-out">Studio 3 Dance offers a diverse schedule of dance classes for children ages 24 months and up.</span>
+                            <span class="stand-out">Studio 3 Dance offers a diverse schedule of dance classes for children ages 18 months and up.</span>
                             Our classes are taught by skilled teachers who take pride in creating a learning experience that is positive and rewarding for dancers of all ages and ability levels. Our costumes and choreography are always age-appropriate.  But Studio 3 is More Than Just Great Dancing. Our dancers go beyond technique and poise to develop important life skills - learning to be respectful, confident and conscientious young people.  Competition and performance opportunities are available for those interested.
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                     <br><br>
                     Parents of older dancers with questions are welcome to come in as needed.
                     <br><br>
-                    Parents will not be allowed to stay in the studio to observe class for now to avoid large crowds gathering in the hallways. However, they can watch for a few minutes at drop off and pick up.
+                    Parents will not be allowed to stay in the studio to observe class for now to avoid large crowds gathering in the hallways. However, they can watch for a few minutes at drop off and pick up. <span style="color: blue;">Look for observation weeks by instructors starting in September. </span>
                     <br><br>
                     Older dancers with a <strong><em>short break</em></strong> between classes will be allowed to wait inside the studio.
                 </p>

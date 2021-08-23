@@ -92,6 +92,14 @@
                             <span class="purple-txt">August 9th</span> FIrst day of fall classes
                             <br>
                             <span class="purple-txt">August 14th</span> Snow Queen Auditions - 1:00pm
+                            <br>
+                            <span class="purple-txt">August 20th</span> Snow Queen rehearsals begin
+                            <br>
+                            <span class="purple-txt">September 6th</span>  CLOSED for Labor Day
+                            <br>
+                            <span class="purple-txt">October 11th</span> PISD is closed but Studio 3 is OPEN COLUMBUS DAY.
+                            <br>
+                            <span class="purple-txt">October 30th</span> Trunk or Treat - Studio 3
                         </div>
                     </div>
                 </div>

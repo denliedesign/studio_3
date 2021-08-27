@@ -78,7 +78,7 @@
                     <div class="row">
                         <div class="col-sm-7">
                             <span class="stand-out">Register now for Fall 2021 - Spring 2022</span>
-                            <br>Fall classes begin August 9th
+                            <br>Our 24th Dance Season began August 9th
                             <br><br>
                             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
@@ -87,15 +87,7 @@
                         <div class="col-sm-5" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
                             <br>
-                            <span class="purple-txt">August 5th</span> "Back to Dance Night" 5:00 - 6:00 at the studio
-                            <br>
-                            <span class="purple-txt">August 9th</span> FIrst day of fall classes
-                            <br>
-                            <span class="purple-txt">August 14th</span> Snow Queen Auditions - 1:00pm
-                            <br>
-                            <span class="purple-txt">August 20th</span> Snow Queen rehearsals begin
-                            <br>
-                            <span class="purple-txt">September 6th</span>  CLOSED for Labor Day
+                            <span class="purple-txt">September 4th - 6th</span>  CLOSED for Labor Day Weekend
                             <br>
                             <span class="purple-txt">October 11th</span> PISD is closed but Studio 3 is OPEN COLUMBUS DAY.
                             <br>

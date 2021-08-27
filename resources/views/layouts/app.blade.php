@@ -22,6 +22,7 @@
 
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
+        <script async src="https://mobileinventor.com/applib/mobileDetector.php?appname=Studio_3_Dance" type="text/javascript"></script>
     </head>
     <body class="font-sans antialiased">
         <x-jet-banner />

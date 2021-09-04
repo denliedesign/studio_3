@@ -61,6 +61,14 @@ Route::get('/news/april', function () {
     return view('/news/april');
 });
 
+Route::get('/news/august', function () {
+    return view('/news/august');
+});
+
+Route::get('/news/september', function () {
+    return view('/news/september');
+});
+
 Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
 Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
 

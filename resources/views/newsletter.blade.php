@@ -7,7 +7,17 @@
     <div id="general-section">
         <div class="container">
             <h1 class="mt-5">Newsletters</h1>
-            <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-4 m-0 p-0">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4 m-0 p-0">
+                <div class="col p-0 rounded shadow news-box">
+                    <a href="/news/october" class="de-link">
+                        <div>
+                            <p class="p-3 bg-blue text-center styled-font">October</p>
+                            <p class="px-3 pb-3 text-muted">
+                                {!! strip_tags(substr("October is here and it’s a busy month at Studio 3! Mark your calendars for…", 0, 150)) . '...' !!}
+                            </p>
+                        </div>
+                    </a>
+                </div>
                 <div class="col p-0 rounded shadow news-box">
                     <a href="/news/september" class="de-link">
                         <div>

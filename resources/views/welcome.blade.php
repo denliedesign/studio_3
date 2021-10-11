@@ -87,11 +87,19 @@
                         <div class="col-sm-5" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
                             <br>
-                            <span class="purple-txt">September 4th - 6th</span>  CLOSED for Labor Day Weekend
-                            <br>
                             <span class="purple-txt">October 11th</span> PISD is closed but Studio 3 is OPEN COLUMBUS DAY.
                             <br>
+                            <span class="purple-txt">October 29th-30th</span> Bring a Friend to Class and Wear your Favorite Costume (Dance, Halloween or Dress Up)
+                            <br>
                             <span class="purple-txt">October 30th</span> Trunk or Treat - Studio 3
+                            <br>
+                            <span class="purple-txt">November 13th at 7:00pm</span> Snow Queen Ballet at the Eisemann
+                            <br>
+                            <span class="purple-txt">November 14th at 2:00pm</span> Snow Queen Ballet at the Eisemann
+                            <br>
+                            <span class="purple-txt">November 22nd-27th</span> Closed for Thanksgiving
+                            <br>
+                            <span class="purple-txt">December 20th-January 3rd</span> Closed for Winter Holidays
                         </div>
                     </div>
                 </div>

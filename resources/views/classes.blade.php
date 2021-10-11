@@ -32,7 +32,7 @@
                 <div class="rotated-bg-red mt-5 mb-3 rounded">
                     <div class="text-center pt-4 stand-out text-white">Leveled Classes</div>
 {{--                    <p class="text-white text-center text-capitalize">coming soon</p>--}}
-                    <a href="/images/leveled-aug-11.pdf" target="_blank"><img src="/images/leveled-aug-11.jpg" alt="leveled classes" class="px-5 pb-5 rerotate img-fluid"></a>
+                    <a href="/images/leveled-oct-11-21.pdf" target="_blank"><img src="/images/leveled-oct-11-21.jpg" alt="leveled classes" class="px-5 pb-5 rerotate img-fluid"></a>
                 </div>
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">

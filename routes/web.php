@@ -73,6 +73,10 @@ Route::get('/news/october', function () {
     return view('/news/october');
 });
 
+Route::get('/news/november', function () {
+    return view('/news/november');
+});
+
 Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
 Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
 

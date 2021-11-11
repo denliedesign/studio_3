@@ -68,7 +68,7 @@
                     <br><br>
                     Parents of older dancers with questions are welcome to come in as needed.
                     <br><br>
-                    Parents will not be allowed to stay in the studio to observe class for now to avoid large crowds gathering in the hallways. However, they can watch for a few minutes at drop off and pick up. <span style="color: blue;">Look for observation weeks by instructors starting in September. </span>
+                    Parents will not be allowed to stay in the studio to observe class for now to avoid large crowds gathering in the hallways. However, they can watch for a few minutes at drop off and pick up.
                     <br><br>
                     Older dancers with a <strong><em>short break</em></strong> between classes will be allowed to wait inside the studio.
                 </p>
@@ -86,12 +86,6 @@
                         </div>
                         <div class="col-sm-5" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
-                            <br>
-                            <span class="purple-txt">October 11th</span> PISD is closed but Studio 3 is OPEN COLUMBUS DAY.
-                            <br>
-                            <span class="purple-txt">October 29th-30th</span> Bring a Friend to Class and Wear your Favorite Costume (Dance, Halloween or Dress Up)
-                            <br>
-                            <span class="purple-txt">October 30th</span> Trunk or Treat - Studio 3
                             <br>
                             <span class="purple-txt">November 13th at 7:00pm</span> Snow Queen Ballet at the Eisemann
                             <br>

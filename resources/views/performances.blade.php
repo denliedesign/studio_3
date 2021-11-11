@@ -11,7 +11,10 @@
         <div class="row my-5">
             <div class="col-sm">
                 <span class="stand-out">Spring Recital</span>
-                <p>
+                <div class="d-inline">
+                    <a href="/images/recital-2022.pdf" target="_blank" style="border: 1px solid black; text-decoration: none;" class="rounded shadow p-2 mx-2">Recital Info Handout</a>
+                </div>
+                <p class="mt-2">
                     For the past 24 years, Studio 3 Dance has provided dancers with an exciting performance experience through its end of the year Recital. The performance offers our dancers a chance to shine in front of family and friends and it is truly the highlight of the dance school year. The Recital offers our students a professionally directed performance that allows them the opportunity to present the results of their year’s hard work, dedication, and progress.
                     <br><br>
                     A big part of the dance training process includes learning through performance. The experience helps build self-esteem, self-assurance, and contributes to a sense of confidence. Although performance opportunities can help prepare some students for a possible career in dance, they also contribute to success in non-dance activities. That onstage experience can result in better in-school presentations and improved social skills. The rehearsal process helps develop retention skills, and by working with their classmates on a group performance, they learn the positive aspects of working as a team to create the best end result.  Recital commitment is the responsibility of both students and their parents.

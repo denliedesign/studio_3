@@ -42,6 +42,32 @@
 
         <img src="/images/studio-3-head.JPG" alt="ballet girls on stage in tutus" class="img-fluid">
 
+        <div class="container">
+            <div class="row my-5">
+                <div class="col-sm my-2">
+                    <img src="/images/snow-queen-main.jpg" alt="snow queen dancers on stage" class="img-fluid rounded shadow">
+                </div>
+                <div class="col-sm d-flex align-items-center justify-content-center">
+                    <div>
+                        <h1 class="text-center">Snow Queen Ballet</h1>
+                        <p class="text-center">
+                            November 13, 2021 <small class="text-muted">7:00pm</small>
+                            <br>
+                            November 14, 2021 <small class="text-muted">2:00pm</small>
+                            <br><br>
+                            {{--                    <a href="https://www.yumpu.com/en/document/read/65969263/program-snow-queen2021">View Our Program</a>--}}
+                            <a href="https://www.eisemanncenter.com/event/i/7869/d/studio-3-dance" target="_blank" style="border: 1px solid black; text-decoration: none;" class="rounded shadow p-2">Buy Tickets Now</a>
+                            <a href="https://www.yumpu.com/en/document/read/65969263/program-snow-queen2021" target="_blank" style="border: 1px solid black; text-decoration: none;" class="rounded shadow p-2">View Our Program</a>
+                            <br>
+                        </p>
+                        <div class="d-flex justify-content-center">
+                            <img src="/images/snow-queen-code.png" alt="qr code for snow queen" class="img-fluid" style="height: 200px; width: auto;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <section id="vision" class="container my-5">
             <div class="d-flex align-items-center justify-content-center">
                 <div class="gradient-turq rounded"></div>

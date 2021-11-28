@@ -102,7 +102,7 @@
             <div class="d-flex align-items-center justify-content-center mt-5">
                 <div class="text-left" style="font-size: 1.25em;">
                     <div class="row">
-                        <div class="col-sm-7">
+                        <div class="col-sm">
                             <span class="stand-out">Register now for Fall 2021 - Spring 2022</span>
                             <br>Our 24th Dance Season began August 9th
                             <br><br>
@@ -110,7 +110,22 @@
                                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
                             </a>
                         </div>
-                        <div class="col-sm-5" style="border-left: 1px solid #747474">
+                        <div class="col-sm" style="border-left: 1px solid #747474">
+                            <span class="stand-out">8 Week Winter Mini Mester</span>
+                            <br>
+                            <span class="purple-txt">Jan 8th-Feb 26</span> Sat 11-11:30 / <span style="font-family: 'Sansita Swashed', cursive;">Dance with Me</span> / <small class="text-muted">18mo-2<sup>1/2</sup></small>
+                            <br>
+                            <span class="purple-txt">Jan 8th-Feb 26th</span> Sat 11:15-11:45 / <span style="font-family: 'Sansita Swashed', cursive;">Teddy Bear Ballet</span> / <small class="text-muted">2<sup>1/2</sup>-3<sup>1/2</sup></small>
+                            <br>
+                            <span class="purple-txt">Jan 8th-Feb 26th</span> Sat 11:30-12 / <span style="font-family: 'Sansita Swashed', cursive;">Dance Upon A Star</span>
+                            <br>
+                            <span class="purple-txt">Jan 11th-March 1st</span> Tue 6-7 / <span style="font-family: 'Sansita Swashed', cursive;">Drill Team Prep for Spring Auditions</span>
+                            <br>
+                            <span class="purple-txt">Jan 12th-March 2nd</span> Wed 4:30-5 / <span style="font-family: 'Sansita Swashed', cursive;">Princess Ballet</span> / <small class="text-muted">4-6yr</small>
+                            <br>
+                            <span class="purple-txt">Jan 13th-March 3rd</span> Thu 6-6:45 / <span style="font-family: 'Sansita Swashed', cursive;">Ballet I</span> / <small class="text-muted">7-10yr</small>
+                        </div>
+                        <div class="col-sm" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
                             <br>
                             <span class="purple-txt">December 20th-January 3rd</span> Closed for Winter Holidays

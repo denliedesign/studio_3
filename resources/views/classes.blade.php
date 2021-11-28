@@ -13,8 +13,58 @@
 {{--            If you don't see the class you are looking for, please call the studio and let us assist you.--}}
 {{--        </span>--}}
         <p>
-            Studio 3 takes pride in creating a learning experience that is positive and rewarding for dancers of all ages & levels. We offer a diverse schedule of dance classes for children ages 18 months and up year round. Our main dance season runs from mid August through the end of May. To get the most out of your dance year, enrollment at the beginning of our season is best. <strong>Fall classes begin August 9th.</strong>
+            Studio 3 takes pride in creating a learning experience that is positive and rewarding for dancers of all ages & levels. We offer a diverse schedule of dance classes for children ages 18 months and up year round. Our main dance season runs from mid August through the end of May. To get the most out of your dance year, enrollment at the beginning of our season is best.
+{{--            <strong>Fall classes begin August 9th.</strong>--}}
         </p>
+
+        <section id="enrollment">
+            <div id="mask-update" class="p-3 m-3 rotated-bg-blue rounded d-flex justify-content-center">
+                <div class="text-center rerotate">
+                    <span class="stand-out">8 Week Winter Mini Mester</span>
+                    <table class="text-center">
+                        <tbody>
+                        <tr style="border-bottom: 1px solid #dee2e6;">
+                            <td class="p-2"><span class="purple-txt">Jan 8th-Feb 26</span></td>
+                            <td class="p-2">Sat 11-11:30</td>
+                            <td class="p-2"><span style="font-family: 'Sansita Swashed', cursive;">Dance with Me</span></td>
+                            <td class="p-2"><small class="text-muted">18mo-2<sup>1/2</sup></small></td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #dee2e6;">
+                            <td class="p-2"><span class="purple-txt">Jan 8th-Feb 26th</span></td>
+                            <td class="p-2">Sat 11:15-11:45</td>
+                            <td class="p-2"><span style="font-family: 'Sansita Swashed', cursive;">Teddy Bear Ballet</span></td>
+                            <td class="p-2"><small class="text-muted">2<sup>1/2</sup>-3<sup>1/2</sup></small></td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #dee2e6;">
+                            <td class="p-2"><span class="purple-txt">Jan 8th-Feb 26th</span></td>
+                            <td class="p-2">Sat 11:30-12</td>
+                            <td class="p-2"><span style="font-family: 'Sansita Swashed', cursive;">Dance Upon A Star</span></td>
+                            <td class="p-2"></td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #dee2e6;">
+                            <td class="p-2"><span class="purple-txt">Jan 11th-March 1st</span></td>
+                            <td class="p-2">Tue 6-7</td>
+                            <td class="p-2"><span style="font-family: 'Sansita Swashed', cursive;">Drill Team Prep for Spring Auditions</span></td>
+                            <td class="p-2"></td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #dee2e6;">
+                            <td class="p-2"><span class="purple-txt">Jan 12th-March 2nd</span></td>
+                            <td class="p-2">Wed 4:30-5</td>
+                            <td class="p-2"><span style="font-family: 'Sansita Swashed', cursive;">Princess Ballet</span></td>
+                            <td class="p-2"><small class="text-muted">4-6yr</small></td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #dee2e6;">
+                            <td class="p-2"><span class="purple-txt">Jan 13th-March 3rd</span></td>
+                            <td class="p-2">Thu 6-6:45</td>
+                            <td class="p-2"><span style="font-family: 'Sansita Swashed', cursive;">Ballet I</span></td>
+                            <td class="p-2"><small class="text-muted">7-10yr</small></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
         <div class="row m-0 p-0">
             <div class="col-sm">
                 <div class="rotated-bg-blue mt-5 mb-3 rounded">

@@ -30,6 +30,7 @@
 {{--                <li class="list-group-item"><a href="/summer">Summer</a></li>--}}
                 <li class="list-group-item"><a href="/policies">Policies</a></li>
                 <li class="list-group-item"><a href="/newsletter">Newsletter</a></li>
+                <li class="list-group-item"><a href="/snow-queen">Gallery</a></li>
                 <li class="list-group-item"><a href="/performances">Performances</a></li>
                 <li class="list-group-item"><a href="/competition">Teams</a></li>
                 <li class="list-group-item"><a href="/staff">Staff</a></li>

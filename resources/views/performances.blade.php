@@ -144,9 +144,9 @@
         <div class="row d-flex justify-content-center">
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">
-                    <source src="/images/snow-queen-2017.mp4" type="video/mp4">
+                    <source src="/images/snowqueen/snowqueen.mp4" type="video/mp4">
                 </video>
-                <p class="text-center">Snow Queen 2017</p>
+                <p class="text-center">Snow Queen 2021</p>
             </div>
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">

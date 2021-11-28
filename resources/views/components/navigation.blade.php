@@ -32,6 +32,9 @@
                         <a class="nav-link" href="/newsletter">Newsletter</a>
                     </li>
                     <li class="nav-item mx-1">
+                        <a class="nav-link" href="/snow-queen">Gallery</a>
+                    </li>
+                    <li class="nav-item mx-1">
                         <a class="nav-link" href="/performances">Performances</a>
                     </li>
                     <li class="nav-item mx-1">

@@ -5,6 +5,9 @@
 </div>
 
     <div id="teams" class="container mt-5">
+        <div class="d-flex justify-content-center">
+            <img src="/images/team-2022.jpg" alt="2022 team" class="img-fluid">
+        </div>
         <h1>Performance & Competition Teams</h1>
 
         <section id="vision" class="container my-5">
@@ -13,14 +16,14 @@
                 <div class="row">
                     <div class="col-sm-7">
                         <div class="shadow p-5 my-5 rounded bg-white" style="max-width: 700px;">
-                            <span class="stand-out">S3D Performance Teams 2021 – 2022</span>
+                            <span class="stand-out">S3D Performance Teams</span>
                             <br>
                             <span class="text-muted" style="font-size: 0.9em;">
                                 $100 Performance Team Fee + Tank Top required and Due Sept 1st
                                 <br>(S3D Backpack and Jackets are optional)
                             </span>
                             <br><br>
-                            If you love to perform, consider joining one of our performance teams.  It’s a great fit for focused dancers looking for an additional challenge and performance opportunities. There are 3 week prep classes in June for extra training and Dance Intensive in June for placement.
+                            If you love to perform, consider joining one of our performance teams.  It’s a great fit for focused dancers looking for an additional challenge and performance opportunities. Enroll in our Dance Intensive June 16th - 18th for team placement.
                             <br><br>
 {{--                            RECOMMENDED: Dance Intensive for exposure to all dance genres. Performance teams will have 2-4 performances during the year and one Regional competition in April or May in the Dallas/Fort Worth area, if ready. In recent years, our Performance teams have danced at the Gaylord ICE exhibit, Memory Care and Assisted Living Homes, Side Kicks Soccer Half-time show, Allen American Hockey Intermissions, Willow Bend Mall Holiday Bash and Willow Bend Mall Day of Dance.--}}
 
@@ -72,7 +75,7 @@
 {{--                </div>--}}
 {{--            </div>--}}
             <div>
-                <a href="/images/performance-company-team-structure.pdf" target="_blank"><img src="/images/performance-company-team-structure.jpg" alt="performance company team structure" class="img-fluid"></a>
+                <a href="/images/performance-company-team.pdf" target="_blank"><img src="/images/performance-company-team.jpg" alt="performance company team structure" class="img-fluid"></a>
             </div>
         </div>
 
@@ -82,16 +85,19 @@
                 <div class="row">
                     <div class="col-sm-7">
                         <div class="shadow p-5 my-5 rounded bg-white" style="max-width: 700px;">
-                            <span class="stand-out">Competitive Dance Teams</span>
+                            <span class="stand-out">S3D Elite Teams</span>
                             <br><span class="text-muted" style="font-size: 0.9em;">$150 yearly team fee for all competitive dancers</span>
                             <br><br>
                             <div class="badge bg-danger">Ages 8 & up</div>
                             <br>
                             <strong>BALLET/POINTE, TAP, JAZZ, LYRICAL/CONTEMPORARY, MUSICAL THEATER, MODERN, ACRO TEAMS</strong>
                             <br>
-                            REQUIRED: Dance Intensive June 28th - July 1st from 10:00am - 4:00pm.  Studio 3 staff will teach classes June 28th - 30th with placement on June 30th.  Thursday classes will be taught by guest instructor Lisa Woods and OKLA staff.
+                            REQUIRED: June 16th - 18th.
+                            <br>
+                            REQUIRED: OKLA One Day Workshop with Lisa Woods (1st week of August - TBD)
+{{--                            Dance Intensive June 28th - July 1st from 10:00am - 4:00pm.  Studio 3 staff will teach classes June 28th - 30th with placement on June 30th.  Thursday classes will be taught by guest instructor Lisa Woods and OKLA staff.--}}
                             <br><br>
-                            Competition teams will attend 3-4 Regional competitions February – May 2022 in the Dallas/Fort Worth area and 1 National Competition Summer 2022. All competitive dancers are required to attend one convention in the fall of 2021.
+                            Competition teams will attend 3-4 Regional competitions February – May 2023 in the Dallas/Fort Worth area and 1 National Competition Summer 2023. All Elite team dancers are required to attend one convention in the fall of 2022.
                             <br><br>
                             All competition dancers middle school-aged and younger must first participate in a Line before being placed in a small or large group dance.
                             <br><br>

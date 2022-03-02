@@ -99,11 +99,40 @@
                     Older dancers with a <strong><em>short break</em></strong> between classes will be allowed to wait inside the studio.
                 </p>
             </div>
+
+            <div id="mini-mesters">
+                <div class="row" style="font-size: 1.25em;">
+                    <div class="col-sm">
+                        <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
+                            <img src="/images/summer-22-e.jpg" alt="spring mini mesters" class="img-fluid shadow rounded">
+                        </div>
+                    </div>
+                    <div class="col-sm d-flex align-items-center">
+                    <div>
+                        <span class="stand-out">Spring Mini Mesters</span>
+                        <br>
+                        <span class="purple-txt">March 14-May 14</span> Sat 11-11:30 / <span style="font-family: 'Sansita Swashed', cursive;">Dance with Me</span> / <small class="text-muted">18mo-2<sup>1/2</sup></small>
+                        <br>
+                        <span class="purple-txt">March 14-May 14</span> Sat 11:15-11:45 / <span style="font-family: 'Sansita Swashed', cursive;">Teddy Bear Ballet</span> / <small class="text-muted">2<sup>1/2</sup>-3<sup>1/2</sup></small>
+                        <br>
+                        <span class="purple-txt">March 14-May 14</span> Sat 11:30-12 / <span style="font-family: 'Sansita Swashed', cursive;">Dance Upon A Star</span>
+                        <br>
+                        <span class="purple-txt">March 14-May 14</span> Tue 6-6:30 / <span style="font-family: 'Sansita Swashed', cursive;">Intro to Jazz Technique</span>
+                        <br>
+                        <span class="purple-txt">March 14-May 14</span> Wed 4:30-5 / <span style="font-family: 'Sansita Swashed', cursive;">Princess Ballet</span> / <small class="text-muted">4-6yr</small>
+                        <br>
+                        <span class="purple-txt">March 14-May 14</span> Thu 6-6:45 / <span style="font-family: 'Sansita Swashed', cursive;">Ballet I</span> / <small class="text-muted">7-10yr</small>
+
+                    </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="d-flex align-items-center justify-content-center mt-5">
                 <div class="text-left" style="font-size: 1.25em;">
                     <div class="row">
                         <div class="col-sm">
-                            <span class="stand-out">Register now for Fall 2021 - Spring 2022</span>
+                            <span class="stand-out text-capitalize">Register NOW for summer camps, classes, workshops and intensive</span>
                             <br>Our 24th Dance Season began August 9th
                             <br><br>
                             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
@@ -111,26 +140,11 @@
                             </a>
                         </div>
                         <div class="col-sm" style="border-left: 1px solid #747474">
-                            <span class="stand-out">8 Week Winter Mini Mester</span>
-                            <br>
-                            <span class="purple-txt">Jan 8th-Feb 26</span> Sat 11-11:30 / <span style="font-family: 'Sansita Swashed', cursive;">Dance with Me</span> / <small class="text-muted">18mo-2<sup>1/2</sup></small>
-                            <br>
-                            <span class="purple-txt">Jan 8th-Feb 26th</span> Sat 11:15-11:45 / <span style="font-family: 'Sansita Swashed', cursive;">Teddy Bear Ballet</span> / <small class="text-muted">2<sup>1/2</sup>-3<sup>1/2</sup></small>
-                            <br>
-                            <span class="purple-txt">Jan 8th-Feb 26th</span> Sat 11:30-12 / <span style="font-family: 'Sansita Swashed', cursive;">Dance Upon A Star</span>
-                            <br>
-                            <span class="purple-txt">Jan 11th-March 1st</span> Tue 6-7 / <span style="font-family: 'Sansita Swashed', cursive;">Drill Team Prep for Spring Auditions</span>
-                            <br>
-                            <span class="purple-txt">Jan 12th-March 2nd</span> Wed 4:30-5 / <span style="font-family: 'Sansita Swashed', cursive;">Princess Ballet</span> / <small class="text-muted">4-6yr</small>
-                            <br>
-                            <span class="purple-txt">Jan 13th-March 3rd</span> Thu 6-6:45 / <span style="font-family: 'Sansita Swashed', cursive;">Ballet I</span> / <small class="text-muted">7-10yr</small>
-                        </div>
-                        <div class="col-sm" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
                             <br>
-                            <span class="purple-txt">December 20th-January 3rd</span> Closed for Winter Holidays
-                            <br>
                             <span class="purple-txt">January 8th-March 3rd</span> 8 Week Winter Mester
+                            <br>
+                            <span class="purple-txt">March 1st</span> Summer Registration Begins
                             <br>
                             <span class="purple-txt">March 7th-12th</span> Closed for Spring Break
                             <br>

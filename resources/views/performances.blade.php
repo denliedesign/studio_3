@@ -1,5 +1,8 @@
 <x-app-layout>
 
+    @section('title', 'Performances | Studio 3 Dance | Plano, Texas')
+    @section('description', '')
+
 {{--    <video width="100%" height="auto" poster="/images/video-pre-load.JPG" controls>--}}
 {{--        <source src="/images/spring-recital.mp4" type="video/mp4">--}}
 {{--    </video>--}}

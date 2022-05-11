@@ -133,7 +133,7 @@
                     <div class="row">
                         <div class="col-sm">
                             <span class="stand-out text-capitalize">Register NOW for summer camps, classes, workshops and intensive</span>
-                            <br>Our 24th Dance Season began August 9th
+                            <br>Our 25th Dance Season begins August 8, 2022
                             <br><br>
                             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
@@ -142,15 +142,28 @@
                         <div class="col-sm" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
                             <br>
-                            <span class="purple-txt">January 8th-March 3rd</span> 8 Week Winter Mester
+                            <span class="purple-txt">May 2-7</span> Costume Distribution
                             <br>
-                            <span class="purple-txt">March 1st</span> Summer Registration Begins
+                            <span class="purple-txt">May 16-21</span> Dress Rehearsal in class at Studio 3 Dance
                             <br>
-                            <span class="purple-txt">March 7th-12th</span> Closed for Spring Break
+                            <span class="purple-txt">May 26</span> Last day of spring semester of class
                             <br>
-                            <span class="purple-txt">March 14th-May 14th</span> 8 Week Spring Mester
+                            <span class="purple-txt">May 31-June 1</span> Individual Photographs - 3:00 - 9:00pm
                             <br>
-                            <span class="purple-txt">April 16</span> Closed for Easter weekend
+                            <span class="purple-txt">June 2-5</span> Spring Recitals
+                            <br>
+                            <span class="purple-txt">June 7-23</span> June 3 week session
+                            <br>
+                            <span class="purple-txt">July 5-21</span> July 3 week session
+                        </div>
+                        <div class="col-sm" style="border-left: 1px solid #747474">
+                            <span class="stand-out">2022 Recitals Dates and Times with ticket links</span>
+                            <br>
+                            &middot; <a href="https://www.eisemanncenter.com/event/i/8390/d/studio-3-dance-red-show" target="_blank" style="line-height: 2.25;">June 2 - Red 7:00pm</a><br>
+                            &middot; <a href="https://www.eisemanncenter.com/event/i/8391/d/studio-3-dance-orange-show" target="_blank" style="line-height: 2.25;">June 3 - Orange 7:00pm</a><br>
+                            &middot; <a href="https://www.eisemanncenter.com/event/i/8393/d/studio-3-dance-yellow-show" target="_blank" style="line-height: 2.25;">June 4 - Yellow 11:00am</a><br>
+                            &middot; <a href="https://www.eisemanncenter.com/event/i/8394/d/studio-3-dance-blue-show" target="_blank" style="line-height: 2.25;">June 4 - Blue 2:30pm</a><br>
+                            &middot; <a href="https://www.eisemanncenter.com/event/i/8395/d/studio-3-dance-green-show" target="_blank" style="line-height: 2.25;">June 5 - Green 2:30pm</a><br>
                         </div>
                     </div>
                 </div>

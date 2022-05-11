@@ -1,5 +1,8 @@
 <x-app-layout>
 
+    @section('title', 'Classes | Studio 3 Dance | Plano, Texas')
+    @section('description', 'Positive learning experience with a diverse schedule of dance classes for children 18mo+')
+
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>

@@ -1,5 +1,8 @@
 <x-app-layout>
 
+    @section('title', 'Attire | Studio 3 Dance | Plano, Texas')
+    @section('description', 'Our easy-to-follow infographic gives you everything to know to be ready for your child\'s first dance class at S3D!')
+
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>

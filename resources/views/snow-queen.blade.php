@@ -1,5 +1,8 @@
 <x-app-layout>
 
+    @section('title', 'Snow Queen Gallery | Studio 3 Dance | Plano, Texas')
+    @section('description', 'Relive the magic and wonder of our Snow Queen Production with these images.')
+
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>

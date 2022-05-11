@@ -1,5 +1,8 @@
 <x-app-layout>
 
+    @section('title', 'Newsletter | Studio 3 Dance | Plano, Texas')
+    @section('description', 'See what is new at Studio 3 Dance with our monthly newsletter.')
+
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>

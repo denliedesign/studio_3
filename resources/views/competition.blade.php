@@ -1,5 +1,8 @@
 <x-app-layout>
 
+   @section('title', 'Performance & Competition Teams | Studio 3 Dance | Plano, Texas')
+   @section('description', 'If you love to perform, take on a challenge, and be a part of a team, then our Performance & Competition Teams are for you!')
+
 <div class="banner-wrap">
     <div class="banner"></div>
 </div>

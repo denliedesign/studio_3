@@ -100,33 +100,33 @@
                 </p>
             </div>
 
-            <div id="mini-mesters">
-                <div class="row" style="font-size: 1.25em;">
-                    <div class="col-sm">
-                        <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                            <img src="/images/summer-22-e.jpg" alt="spring mini mesters" class="img-fluid shadow rounded">
-                        </div>
-                    </div>
-                    <div class="col-sm d-flex align-items-center">
-                    <div>
-                        <span class="stand-out">Spring Mini Mesters</span>
-                        <br>
-                        <span class="purple-txt">March 14-May 14</span> Sat 11-11:30 / <span style="font-family: 'Sansita Swashed', cursive;">Dance with Me</span> / <small class="text-muted">18mo-2<sup>1/2</sup></small>
-                        <br>
-                        <span class="purple-txt">March 14-May 14</span> Sat 11:15-11:45 / <span style="font-family: 'Sansita Swashed', cursive;">Teddy Bear Ballet</span> / <small class="text-muted">2<sup>1/2</sup>-3<sup>1/2</sup></small>
-                        <br>
-                        <span class="purple-txt">March 14-May 14</span> Sat 11:30-12 / <span style="font-family: 'Sansita Swashed', cursive;">Dance Upon A Star</span>
-                        <br>
-                        <span class="purple-txt">March 14-May 14</span> Tue 6-6:30 / <span style="font-family: 'Sansita Swashed', cursive;">Intro to Jazz Technique</span>
-                        <br>
-                        <span class="purple-txt">March 14-May 14</span> Wed 4:30-5 / <span style="font-family: 'Sansita Swashed', cursive;">Princess Ballet</span> / <small class="text-muted">4-6yr</small>
-                        <br>
-                        <span class="purple-txt">March 14-May 14</span> Thu 6-6:45 / <span style="font-family: 'Sansita Swashed', cursive;">Ballet I</span> / <small class="text-muted">7-10yr</small>
+{{--            <div id="mini-mesters">--}}
+{{--                <div class="row" style="font-size: 1.25em;">--}}
+{{--                    <div class="col-sm">--}}
+{{--                        <div class="d-flex justify-content-center align-items-center" style="height: 100%;">--}}
+{{--                            <img src="/images/summer-22-e.jpg" alt="spring mini mesters" class="img-fluid shadow rounded">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-sm d-flex align-items-center">--}}
+{{--                    <div>--}}
+{{--                        <span class="stand-out">Spring Mini Mesters</span>--}}
+{{--                        <br>--}}
+{{--                        <span class="purple-txt">March 14-May 14</span> Sat 11-11:30 / <span style="font-family: 'Sansita Swashed', cursive;">Dance with Me</span> / <small class="text-muted">18mo-2<sup>1/2</sup></small>--}}
+{{--                        <br>--}}
+{{--                        <span class="purple-txt">March 14-May 14</span> Sat 11:15-11:45 / <span style="font-family: 'Sansita Swashed', cursive;">Teddy Bear Ballet</span> / <small class="text-muted">2<sup>1/2</sup>-3<sup>1/2</sup></small>--}}
+{{--                        <br>--}}
+{{--                        <span class="purple-txt">March 14-May 14</span> Sat 11:30-12 / <span style="font-family: 'Sansita Swashed', cursive;">Dance Upon A Star</span>--}}
+{{--                        <br>--}}
+{{--                        <span class="purple-txt">March 14-May 14</span> Tue 6-6:30 / <span style="font-family: 'Sansita Swashed', cursive;">Intro to Jazz Technique</span>--}}
+{{--                        <br>--}}
+{{--                        <span class="purple-txt">March 14-May 14</span> Wed 4:30-5 / <span style="font-family: 'Sansita Swashed', cursive;">Princess Ballet</span> / <small class="text-muted">4-6yr</small>--}}
+{{--                        <br>--}}
+{{--                        <span class="purple-txt">March 14-May 14</span> Thu 6-6:45 / <span style="font-family: 'Sansita Swashed', cursive;">Ballet I</span> / <small class="text-muted">7-10yr</small>--}}
 
-                    </div>
-                    </div>
-                </div>
-            </div>
+{{--                    </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
             <div class="d-flex align-items-center justify-content-center mt-5">
                 <div class="text-left" style="font-size: 1.25em;">

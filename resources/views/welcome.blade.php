@@ -42,7 +42,9 @@
 
         <img src="/images/studio-3-head.JPG" alt="ballet girls on stage in tutus" class="img-fluid">
 
-        <span class="text-center stand-out my-5">Checkout our summer page for summer classes, camps and intensive dates & times!</span>
+        <p class="text-center my-5 py-5 text-capitalize">
+            <span class="stand-out">Checkout our <a href="/summer">summer page</a> for summer classes, camps and intensive dates & times!</span>
+        </p>
 
 {{--        <div class="container">--}}
 {{--            <div class="row my-5">--}}
@@ -274,9 +276,9 @@
 {{--            </div>--}}
         </div>
 
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center mb-4">
             <a href="https://planomoms.com/best-of-collin-county-winners/" target="_blank">
-                <img src="https://planomoms.com/wp-content/uploads/2022/05/Best-of-Collin-County-Online.jpg" width=“600” height="200” alt=“Winner of Best of Collin County 2022">
+                <img src="https://planomoms.com/wp-content/uploads/2022/05/Best-of-Collin-County-Online.jpg" style="max-width: 600px; width: 100%; height: auto;" alt=“Winner of Best of Collin County 2022">
             </a>
         </div>
 

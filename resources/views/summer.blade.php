@@ -14,7 +14,7 @@
                 <a href="/images/summer-classes-22.pdf" target="_blank">
                     <img src="/images/summer-classes-22-1.jpg" alt="summer classes" class="img-fluid shadow rounded">
                 </a>
-                <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center mt-3">
                     <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                         <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
                     </a>
@@ -24,7 +24,7 @@
                 <a href="/images/summer-classes-22.pdf" target="_blank">
                     <img src="/images/summer-classes-22-2.jpg" alt="summer classes" class="img-fluid shadow rounded">
                 </a>
-                <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center mt-3">
                     <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
                         <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
                     </a>

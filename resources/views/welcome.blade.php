@@ -42,6 +42,8 @@
 
         <img src="/images/studio-3-head.JPG" alt="ballet girls on stage in tutus" class="img-fluid">
 
+        <span class="text-center stand-out my-5">Checkout our summer page for summer classes, camps and intensive dates & times!</span>
+
 {{--        <div class="container">--}}
 {{--            <div class="row my-5">--}}
 {{--                <div class="col-sm my-2">--}}
@@ -142,12 +144,12 @@
                         <div class="col-sm" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
                             <br>
-                            <span class="purple-txt">May 2-7</span> Costume Distribution
-                            <br>
-                            <span class="purple-txt">May 16-21</span> Dress Rehearsal in class at Studio 3 Dance
-                            <br>
-                            <span class="purple-txt">May 26</span> Last day of spring semester of class
-                            <br>
+{{--                            <span class="purple-txt">May 2-7</span> Costume Distribution--}}
+{{--                            <br>--}}
+{{--                            <span class="purple-txt">May 16-21</span> Dress Rehearsal in class at Studio 3 Dance--}}
+{{--                            <br>--}}
+{{--                            <span class="purple-txt">May 26</span> Last day of spring semester of class--}}
+{{--                            <br>--}}
                             <span class="purple-txt">May 31-June 1</span> Individual Photographs - 3:00 - 9:00pm
                             <br>
                             <span class="purple-txt">June 2-5</span> Spring Recitals
@@ -270,6 +272,12 @@
 {{--                </div>--}}
 
 {{--            </div>--}}
+        </div>
+
+        <div class="d-flex justify-content-center">
+            <a href="https://planomoms.com/best-of-collin-county-winners/" target="_blank">
+                <img src="https://planomoms.com/wp-content/uploads/2022/05/Best-of-Collin-County-Online.jpg" width=“600” height="200” alt=“Winner of Best of Collin County 2022">
+            </a>
         </div>
 
         <section id="acroarts" class="container mb-5 pb-5">

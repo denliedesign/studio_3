@@ -132,7 +132,9 @@
             </div>
         </div>
 
-        <iframe width="100%" height="638px" src="https://www.yumpu.com/en/embed/view/TtGsL1PIB3HnoUZr" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>
+        <iframe width="100%" height="638px" src="https://www.yumpu.com/en/embed/view/abWPEXSGtxydrUfQ" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>
+{{--        <br><a href="https://www.yumpu.com/en/document/view/66939822/s3d-recital-2022" title="S3D RECITAL 2022" target="_blank">S3D RECITAL 2022</a>--}}
+{{--        <iframe width="100%" height="638px" src="https://www.yumpu.com/en/embed/view/TtGsL1PIB3HnoUZr" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>--}}
 
         <span class="stand-out">Plano Christmas Parade</span>
         <div class="row d-flex justify-content-center mb-5 rotated-bg-red rounded">

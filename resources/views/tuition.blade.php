@@ -12,15 +12,15 @@
 
         <div class="d-flex justify-content-center">
             <a href="/images/tuition-22-23.pdf" target="_blank">
-                <button class="btn btn-lg btn-danger shadow mb-4">View Tuition For 2022-2023</button>
+                <button class="btn btn-lg btn-danger shadow mb-4">View Tuition PDF For 2022-2023</button>
             </a>
         </div>
 
-        <div class="row">
-            <div class="col-sm">
+        <div>
+            <div>
                 <img src="/images/tuition-22-23-a.jpg" alt="tuition" class="img-fluid">
             </div>
-            <div class="col-sm">
+            <div>
                 <img src="/images/tuition-22-23-b.jpg" alt="tuition" class="img-fluid">
             </div>
         </div>

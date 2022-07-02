@@ -90,19 +90,19 @@
         </section>
 
         <section id="enrollment" class="container mb-5 pb-5">
-            <div id="mask-update" class="p-3 m-3 rotated-bg-blue rounded">
-                <p class="rounded shadow rerotate p-3 m-3" style="background: white;">
-                    Effective May 25, 2021, it is now <strong>optional</strong> to wear masks while at Studio 3 Dance.  Families can now choose for themselves whether or not they and their children will wear a mask to dance class and summer programs.  Studio 3 Dance staff will have the same mask optional option.  We know that some will choose to wear masks and others will not. All are welcome.
-                    <br><br>
-                    Our lobby is open for drop off and pick up for dancers ages 8 and under.  ALL dancers and parents will enter through the main entrance door #1.  We ask that you do not arrive more than 2-3 minutes before class and that you pick your dancer up and leave promptly.
-                    <br><br>
-                    Parents of older dancers with questions are welcome to come in as needed.
-                    <br><br>
-                    Parents will not be allowed to stay in the studio to observe class for now to avoid large crowds gathering in the hallways. However, they can watch for a few minutes at drop off and pick up.
-                    <br><br>
-                    Older dancers with a <strong><em>short break</em></strong> between classes will be allowed to wait inside the studio.
-                </p>
-            </div>
+{{--            <div id="mask-update" class="p-3 m-3 rotated-bg-blue rounded">--}}
+{{--                <p class="rounded shadow rerotate p-3 m-3" style="background: white;">--}}
+{{--                    Effective May 25, 2021, it is now <strong>optional</strong> to wear masks while at Studio 3 Dance.  Families can now choose for themselves whether or not they and their children will wear a mask to dance class and summer programs.  Studio 3 Dance staff will have the same mask optional option.  We know that some will choose to wear masks and others will not. All are welcome.--}}
+{{--                    <br><br>--}}
+{{--                    Our lobby is open for drop off and pick up for dancers ages 8 and under.  ALL dancers and parents will enter through the main entrance door #1.  We ask that you do not arrive more than 2-3 minutes before class and that you pick your dancer up and leave promptly.--}}
+{{--                    <br><br>--}}
+{{--                    Parents of older dancers with questions are welcome to come in as needed.--}}
+{{--                    <br><br>--}}
+{{--                    Parents will not be allowed to stay in the studio to observe class for now to avoid large crowds gathering in the hallways. However, they can watch for a few minutes at drop off and pick up.--}}
+{{--                    <br><br>--}}
+{{--                    Older dancers with a <strong><em>short break</em></strong> between classes will be allowed to wait inside the studio.--}}
+{{--                </p>--}}
+{{--            </div>--}}
 
 {{--            <div id="mini-mesters">--}}
 {{--                <div class="row" style="font-size: 1.25em;">--}}
@@ -136,7 +136,7 @@
                 <div class="text-left" style="font-size: 1.25em;">
                     <div class="row">
                         <div class="col-sm">
-                            <span class="stand-out text-capitalize">Register NOW for summer camps, classes, workshops and intensive</span>
+                            <span class="stand-out text-capitalize">Register NOW for our Fall Session of Classes</span>
                             <br>Our 25th Dance Season begins August 8, 2022
                             <br><br>
                             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
@@ -152,23 +152,23 @@
 {{--                            <br>--}}
 {{--                            <span class="purple-txt">May 26</span> Last day of spring semester of class--}}
 {{--                            <br>--}}
-                            <span class="purple-txt">May 31-June 1</span> Individual Photographs - 3:00 - 9:00pm
-                            <br>
-                            <span class="purple-txt">June 2-5</span> Spring Recitals
-                            <br>
-                            <span class="purple-txt">June 7-23</span> June 3 week session
-                            <br>
+{{--                            <span class="purple-txt">May 31-June 1</span> Individual Photographs - 3:00 - 9:00pm--}}
+{{--                            <br>--}}
+{{--                            <span class="purple-txt">June 2-5</span> Spring Recitals--}}
+{{--                            <br>--}}
+{{--                            <span class="purple-txt">June 7-23</span> June 3 week session--}}
+{{--                            <br>--}}
                             <span class="purple-txt">July 5-21</span> July 3 week session
                         </div>
-                        <div class="col-sm" style="border-left: 1px solid #747474">
-                            <span class="stand-out">2022 Recitals Dates and Times with ticket links</span>
-                            <br>
-                            &middot; <a href="https://www.eisemanncenter.com/event/i/8390/d/studio-3-dance-red-show" target="_blank" style="line-height: 2.25;">June 2 - Red 7:00pm</a><br>
-                            &middot; <a href="https://www.eisemanncenter.com/event/i/8391/d/studio-3-dance-orange-show" target="_blank" style="line-height: 2.25;">June 3 - Orange 7:00pm</a><br>
-                            &middot; <a href="https://www.eisemanncenter.com/event/i/8393/d/studio-3-dance-yellow-show" target="_blank" style="line-height: 2.25;">June 4 - Yellow 11:00am</a><br>
-                            &middot; <a href="https://www.eisemanncenter.com/event/i/8394/d/studio-3-dance-blue-show" target="_blank" style="line-height: 2.25;">June 4 - Blue 2:30pm</a><br>
-                            &middot; <a href="https://www.eisemanncenter.com/event/i/8395/d/studio-3-dance-green-show" target="_blank" style="line-height: 2.25;">June 5 - Green 2:30pm</a><br>
-                        </div>
+{{--                        <div class="col-sm" style="border-left: 1px solid #747474">--}}
+{{--                            <span class="stand-out">2022 Recitals Dates and Times with ticket links</span>--}}
+{{--                            <br>--}}
+{{--                            &middot; <a href="https://www.eisemanncenter.com/event/i/8390/d/studio-3-dance-red-show" target="_blank" style="line-height: 2.25;">June 2 - Red 7:00pm</a><br>--}}
+{{--                            &middot; <a href="https://www.eisemanncenter.com/event/i/8391/d/studio-3-dance-orange-show" target="_blank" style="line-height: 2.25;">June 3 - Orange 7:00pm</a><br>--}}
+{{--                            &middot; <a href="https://www.eisemanncenter.com/event/i/8393/d/studio-3-dance-yellow-show" target="_blank" style="line-height: 2.25;">June 4 - Yellow 11:00am</a><br>--}}
+{{--                            &middot; <a href="https://www.eisemanncenter.com/event/i/8394/d/studio-3-dance-blue-show" target="_blank" style="line-height: 2.25;">June 4 - Blue 2:30pm</a><br>--}}
+{{--                            &middot; <a href="https://www.eisemanncenter.com/event/i/8395/d/studio-3-dance-green-show" target="_blank" style="line-height: 2.25;">June 5 - Green 2:30pm</a><br>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
             </div>

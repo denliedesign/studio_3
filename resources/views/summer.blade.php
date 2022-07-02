@@ -9,28 +9,29 @@
 
     <div id="general-section" class="container">
         <h1 class="mt-5">2022 S3D Summer Camps, Classes, Intensives, & Workshops</h1>
-        <div class="row mb-4">
-            <div class="col-sm mb-4">
-                <a href="/images/summer-classes-22.pdf" target="_blank">
-                    <img src="/images/summer-classes-22-1.jpg" alt="summer classes" class="img-fluid shadow rounded">
-                </a>
-                <div class="d-flex justify-content-center mt-3">
-                    <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
-                        <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm mb-4">
-                <a href="/images/summer-classes-22.pdf" target="_blank">
-                    <img src="/images/summer-classes-22-2.jpg" alt="summer classes" class="img-fluid shadow rounded">
-                </a>
-                <div class="d-flex justify-content-center mt-3">
-                    <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
-                        <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
-                    </a>
-                </div>
-            </div>
+{{--        <div class="row mb-4">--}}
+{{--            <div class="col-sm mb-4">--}}
+{{--                <a href="/images/summer-classes-22.pdf" target="_blank">--}}
+{{--                    <img src="/images/summer-classes-22-1.jpg" alt="summer classes" class="img-fluid shadow rounded">--}}
+{{--                </a>--}}
+{{--                <div class="d-flex justify-content-center mt-3">--}}
+{{--                    <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">--}}
+{{--                        <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm mb-4">--}}
+{{--                <a href="/images/summer-classes-22.pdf" target="_blank">--}}
+        <div class="d-flex justify-content-center my-4">
+            <img src="/images/summer-july-classes.jpg" alt="summer classes" class="img-fluid shadow rounded" style="max-width: 750px; width: 100%; height: auto;">
         </div>
+{{--                </a>--}}
+                <div class="d-flex justify-content-center">
+                    <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
+                        <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
+                    </a>
+                </div>
+{{--            </div>--}}
 {{--        <div class="my-5">--}}
 {{--            <span class="text-purple lead">1 DAY PRINCESS CAMPS - $38</span>--}}
 {{--            <br>Ages 3 through first grade--}}

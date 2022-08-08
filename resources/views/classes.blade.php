@@ -20,6 +20,25 @@
 {{--            <strong>Fall classes begin August 9th.</strong>--}}
         </p>
 
+        <div class="row">
+            <div class="col-sm">
+                <img src="/images/classes-childrens-22.jpg" alt="" class="img-fluid">
+                <div class="d-flex justify-content-center">
+                    <a href="/images/classes-childrens-22.pdf" target="_blank">
+                        <button class="btn btn-lg btn-danger shadow mb-4">View Children's Classes PDF</button>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm">
+                <img src="/images/classes-leveled-22.jpg" alt="" class="img-fluid">
+                <div class="d-flex justify-content-center">
+                    <a href="/images/classes-leveled-22.pdf" target="_blank">
+                        <button class="btn btn-lg btn-danger shadow mb-4">View Leveled Classes PDF</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+
 {{--        <section id="enrollment">--}}
 {{--            <div id="mask-update" class="p-3 m-3 rotated-bg-blue rounded d-flex justify-content-center">--}}
 {{--                <div class="text-center rerotate">--}}

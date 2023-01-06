@@ -99,8 +99,16 @@
             </div>
         </section>
 
+
+        <p class="text-center mt-5 pt-5 text-capitalize">
+            <span class="stand-out"><a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">Register now</a> for our Winter mester classes that start the week of January 9th.</span>
+        </p>
+        <div class="d-flex justify-content-center">
+            <img src="/images/wintermester.png" alt="winter mester classes" class="img-fluid">
+        </div>
         <p class="text-center my-5 py-5 text-capitalize">
-            <span class="stand-out">Checkout our <a href="/summer">summer page</a> for summer classes, camps and intensive dates & times!</span>
+{{--            <span class="stand-out">Checkout our <a href="/summer">summer page</a> for summer classes, camps and intensive dates & times!</span>--}}
+            <span class="stand-out">2023 Summer Classes, Camps and Workshop information is coming soon!</span>
         </p>
 
 {{--        <div class="container">--}}
@@ -203,19 +211,26 @@
                         <div class="col-sm" style="border-left: 1px solid #747474">
                             <span class="stand-out">Upcoming Dates</span>
                             <br>
-{{--                            <span class="purple-txt">May 2-7</span> Costume Distribution--}}
-{{--                            <br>--}}
-{{--                            <span class="purple-txt">May 16-21</span> Dress Rehearsal in class at Studio 3 Dance--}}
-{{--                            <br>--}}
-{{--                            <span class="purple-txt">May 26</span> Last day of spring semester of class--}}
-{{--                            <br>--}}
-{{--                            <span class="purple-txt">May 31-June 1</span> Individual Photographs - 3:00 - 9:00pm--}}
-{{--                            <br>--}}
-{{--                            <span class="purple-txt">June 2-5</span> Spring Recitals--}}
-{{--                            <br>--}}
-{{--                            <span class="purple-txt">June 7-23</span> June 3 week session--}}
-{{--                            <br>--}}
-                            <span class="purple-txt">July 5-21</span> July 3 week session
+                            <span class="purple-txt">January 3</span> - Classes Resume
+                            <br>
+                            <span class="purple-txt">January 9th</span> - Winter Mini Mester Classes begin
+                            <br>
+                            <span class="purple-txt">January 16</span> - S3D is OPEN on MLK Day
+                            <br>
+                            <span class="purple-txt">February 20</span> - S3D is OPEN for President's Day
+                            <br>
+                            <span class="purple-txt">March 6 - 11</span> - S3D is CLOSED for PISD Spring Break
+                            <br>
+                            <span class="purple-txt">March 20 - May 13</span> - Spring Mini Mester Classes begin
+                            <br>
+                            <span class="purple-txt">April 8</span> - S3D is closed for Easter Weekend
+                            <br>
+                            <span class="purple-txt">May 25</span> - Last Day of Spring Semester Classes
+                            <br>
+                            <span class="purple-txt">May 30 - 31</span> - Individual Recital Photos @ Studio 3
+                            <br>
+                            <span class="purple-txt">June 1 - 4</span> - Spring Recitals at The Eisemann in RIchardson
+
                         </div>
 {{--                        <div class="col-sm" style="border-left: 1px solid #747474">--}}
 {{--                            <span class="stand-out">2022 Recitals Dates and Times with ticket links</span>--}}

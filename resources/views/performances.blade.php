@@ -15,7 +15,7 @@
             <div class="col-sm">
                 <span class="stand-out">Spring Recital</span>
                 <div class="d-inline">
-                    <a href="/images/recital-2022.pdf" target="_blank" style="border: 1px solid black; text-decoration: none;" class="rounded shadow p-2 mx-2">Recital Info Handout</a>
+                    <a href="/images/2023-recital.pdf" target="_blank" style="border: 1px solid black; text-decoration: none;" class="rounded shadow p-2 mx-2">2023 Recital Info Handout</a>
                 </div>
                 <p class="mt-2">
                     For the past 24 years, Studio 3 Dance has provided dancers with an exciting performance experience through its end of the year Recital. The performance offers our dancers a chance to shine in front of family and friends and it is truly the highlight of the dance school year. The Recital offers our students a professionally directed performance that allows them the opportunity to present the results of their year’s hard work, dedication, and progress.
@@ -30,15 +30,15 @@
             </div>
         </div>
         <div class="row rounded rotated-bg-red p-0 m-0">
-            <div class="rerotate col-sm p-3 mx-sm-3 my-3 shadow rounded" style="background: white;">
-                <strong>Financial Commitment for Spring Recital 2022</strong>
-                <p>
-                    11/15/21 - 1/2 Costume Fee
-                    <br>12/15/21 - Costume Balance
-                    <br>1/15/22 - Spring Recital Fee $85 ($65 for additional children)
-                </p>
-                <img src="/images/recital-hip-hop.JPG" alt="recital hip hop" class="img-fluid">
-            </div>
+{{--            <div class="rerotate col-sm p-3 mx-sm-3 my-3 shadow rounded" style="background: white;">--}}
+{{--                <strong>Financial Commitment for Spring Recital 2022</strong>--}}
+{{--                <p>--}}
+{{--                    11/15/21 - 1/2 Costume Fee--}}
+{{--                    <br>12/15/21 - Costume Balance--}}
+{{--                    <br>1/15/22 - Spring Recital Fee $85 ($65 for additional children)--}}
+{{--                </p>--}}
+{{--                <img src="/images/recital-hip-hop.JPG" alt="recital hip hop" class="img-fluid">--}}
+{{--            </div>--}}
             <div class="rerotate col-sm p-3 mx-sm-3 my-3 shadow rounded" style="background: white;">
                 <strong>Recital Fee and Date</strong>
                 <p>
@@ -65,7 +65,9 @@
                     <br>Levels I-II -III Classes - $95.00 per costume
                     <br>Levels IV-VII and Pointe Classes - $105.00 per costume
                     <br><br>
-                    Costumes will not be ordered until Costumes fees are paid in full.  December 15, 2021 is the final day for payments to be made for our bulk costume order.   Parents or guardians accept full responsibility for all expenses, including surcharges and postage for costumes that are paid for and ordered after the December 15 deadline. The additional fee for late orders is $25.00 per costume. Studio 3 Dance does not accept responsibility if costumes are not received in time for the Recital due to late payments and add on orders placed after this deadline.
+                    Costumes will not be ordered until Costumes fees are paid in full.
+{{--                    December 15, 2021 is the final day for payments to be made for our bulk costume order.   --}}
+                    Parents or guardians accept full responsibility for all expenses, including surcharges and postage for costumes that are paid for and ordered after the December 15 deadline. The additional fee for late orders is $25.00 per costume. Studio 3 Dance does not accept responsibility if costumes are not received in time for the Recital due to late payments and add on orders placed after this deadline.
                     <br><br>
                     Costumes are always age-appropriate and of the highest quality possible.
                 </p>
@@ -90,9 +92,13 @@
             <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded" style="background: white;">
                 <strong>Distribution</strong>
                 <p>
-                    Costumes will be distributed the week of May 2, 2022. All accounts must have a zero balance to receive costumes.
+                    Costumes will be handed out the week of May 1
                     <br><br>
-                    <em>The deadline for tuition and other balances for the dance season is April 10, 2022.  April and May tuition are both due in April.</em>
+                    All accounts must have a zero balance to receive costumes.
+                    <br><br>
+{{--                    <em>The deadline for tuition and other balances for the dance season is April 10, 2022.</em>--}}
+{{--                        <em>April and May tuition are both due in April.</em>--}}
+                        <em>April tuition is due April 1 and May tuition is due in April 15</em>
                     <br><br>
                     Students should not wear their costumes, accessories, or tights prior to portrait day, dress rehearsal, or performance.
                 </p>
@@ -115,7 +121,8 @@
             <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded">
                 <strong>Withdrawal</strong>
                 <p>
-                    No refunds will be made if a parent or guardian withdraws a child from Studio 3 after costumes have been ordered.  Parents or guardians may pick up purchased costumes at Studio 3 after June 6, 2022.  Costumes not picked up will be donated to charity after June 30, 2022.
+                    No refunds will be made if a parent or guardian withdraws a child from Studio 3 after costumes have been ordered.
+{{--                    Parents or guardians may pick up purchased costumes at Studio 3 after June 6, 2022.  Costumes not picked up will be donated to charity after June 30, 2022.--}}
                 </p>
             </div>
             <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded">
@@ -127,7 +134,8 @@
             <div class="rerotate col-sm mx-sm-3 my-3 p-3 shadow rounded">
                 <strong>Tickets</strong>
                 <p>
-                    Performance tickets will be sold through the Eisemann ticket center in early May. Ticket prices will be available in early April 2022.
+                    Performance tickets will be sold through the Eisemann ticket center in early May.
+{{--                    Ticket prices will be available in early April 2022.--}}
                 </p>
             </div>
         </div>
@@ -143,7 +151,8 @@
             <div class="rerotate col-sm"><img src="/images/plano-christmas-parade-3.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
         </div>
         <span class="stand-out">Snow Queen</span>
-        <p>We present our winter ballet, Snow Queen every other year. Dates for our next ballet are November 13, 14, 2021. Auditions are August 14th at 1:00pm at the studio.
+        <p>We present our winter ballet, Snow Queen every other year.
+{{--            Dates for our next ballet are November 13, 14, 2021. Auditions are August 14th at 1:00pm at the studio.--}}
 {{--        <span class="text-capitalize">View The <a href="/images/snow-queen-rehearsal-schedule.pdf" target="_blank">Rehearsal schedule for the fall</a></span>--}}
         </p>
         <div class="row d-flex justify-content-center">

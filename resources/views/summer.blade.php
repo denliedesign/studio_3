@@ -8,7 +8,8 @@
     </div>
 
     <div id="general-section" class="container">
-        <h1 class="mt-5">2022 S3D Summer Camps, Classes, Intensives, & Workshops</h1>
+        <h1 class="mt-5">2023 S3D Summer Camps</h1>
+{{--        <h1 class="mt-5">2022 S3D Summer Camps, Classes, Intensives, & Workshops</h1>--}}
 {{--        <div class="row mb-4">--}}
 {{--            <div class="col-sm mb-4">--}}
 {{--                <a href="/images/summer-classes-22.pdf" target="_blank">--}}
@@ -23,7 +24,8 @@
 {{--            <div class="col-sm mb-4">--}}
 {{--                <a href="/images/summer-classes-22.pdf" target="_blank">--}}
         <div class="d-flex justify-content-center my-4">
-            <img src="/images/summer-july-classes.jpg" alt="summer classes" class="img-fluid shadow rounded" style="max-width: 750px; width: 100%; height: auto;">
+            <img src="/images/2023-summer-camps.png" alt="summer camps" class="img-fluid shadow rounded" style="max-width: 750px; width: 100%; height: auto;">
+{{--            <img src="/images/summer-july-classes.jpg" alt="summer classes" class="img-fluid shadow rounded" style="max-width: 750px; width: 100%; height: auto;">--}}
         </div>
 {{--                </a>--}}
                 <div class="d-flex justify-content-center">
@@ -106,60 +108,61 @@
 {{--        </div>--}}
 
 
-        <div>
-            <div class="row m-0 p-0">
-                <div class="col-sm">
-                    <img src="/images/summer-22-a.png" alt="summer sign up" class="img-fluid shadow rounded mb-4">
-                    <div class="d-flex justify-content-center">
-                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
-                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <img src="/images/summer-22-b.png" alt="summer sign up" class="img-fluid shadow rounded mb-4">
-                    <div class="d-flex justify-content-center">
-                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
-                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-4">
-                <div class="col-sm">
-                    <img src="/images/summer-22-c.png" alt="summer sessions 1"
-                         class="img-fluid shadow rounded mb-4">
-                    <div class="d-flex justify-content-center">
-                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
-                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <img src="/images/summer-22-d.png" alt="summer sessions 2"
-                         class="img-fluid shadow rounded mb-4">
-                    <div class="d-flex justify-content-center">
-                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
-                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-4">
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/2022-dance-intensive.JPG" alt="summer sessions 3"
-                             class="img-fluid shadow rounded mb-4" style="max-height: 50%;">
-                    </div>
-                    <div class="d-flex justify-content-center">
-                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
-                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
-                        </a>
-                    </div>
-                </div>
-{{--                <div class="col-sm"></div>--}}
-            </div>
-        </div>
-    </div>
+        <!-- 2022 BELOW -->
+
+{{--        <div>--}}
+{{--            <div class="row m-0 p-0">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/summer-22-a.png" alt="summer sign up" class="img-fluid shadow rounded mb-4">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">--}}
+{{--                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/summer-22-b.png" alt="summer sign up" class="img-fluid shadow rounded mb-4">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">--}}
+{{--                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="row mt-4">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/summer-22-c.png" alt="summer sessions 1"--}}
+{{--                         class="img-fluid shadow rounded mb-4">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">--}}
+{{--                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/summer-22-d.png" alt="summer sessions 2"--}}
+{{--                         class="img-fluid shadow rounded mb-4">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">--}}
+{{--                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="row mt-4">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/2022-dance-intensive.JPG" alt="summer sessions 3"--}}
+{{--                             class="img-fluid shadow rounded mb-4" style="max-height: 50%;">--}}
+{{--                    </div>--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">--}}
+{{--                            <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>--}}
+{{--                        </a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 </x-app-layout>

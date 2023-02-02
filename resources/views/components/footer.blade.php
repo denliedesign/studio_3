@@ -54,4 +54,4 @@
     </div>
 </div>
 
-<script defer src="https://connect.podium.com/widget.js#API_TOKEN=8be6a621-3f85-492f-b30a-db4cfcb91686" id="podium-widget" data-api-token="8be6a621-3f85-492f-b30a-db4cfcb91686"></script>
+{{--<script defer src="https://connect.podium.com/widget.js#API_TOKEN=8be6a621-3f85-492f-b30a-db4cfcb91686" id="podium-widget" data-api-token="8be6a621-3f85-492f-b30a-db4cfcb91686"></script>--}}

@@ -101,17 +101,17 @@
 
         <div class="container">
             <div class="row">
+{{--                <div class="col-sm">--}}
+{{--                    <p class="text-center mt-5 pt-5 text-capitalize">--}}
+{{--                        <span class="stand-out"><a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">Register now</a> for our Winter mester classes that start the week of January 9th.</span>--}}
+{{--                    </p>--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/wintermester.png" alt="winter mester classes" class="img-fluid">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="col-sm">
                     <p class="text-center mt-5 pt-5 text-capitalize">
-                        <span class="stand-out"><a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">Register now</a> for our Winter mester classes that start the week of January 9th.</span>
-                    </p>
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/wintermester.png" alt="winter mester classes" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <p class="text-center mt-5 pt-5 text-capitalize">
-                        <span class="stand-out"><a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">Sign up</a> for our Spring Mini Mester starting the week of March 20th</span>
+                        <span class="stand-out"><a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">Sign up</a> for our Spring Mini Mester</span>
                     </p>
                     <div class="d-flex justify-content-center">
                         <img src="/images/2023-springmester.png" alt="spring mester classes" class="img-fluid">
@@ -119,7 +119,7 @@
                 </div>
                 <p class="text-center my-5 py-5 text-capitalize">
                     {{--            <span class="stand-out">Checkout our <a href="/summer">summer page</a> for summer classes, camps and intensive dates & times!</span>--}}
-                    <span class="stand-out">Summer registration starts in March  - Summer Classes begin June 6th</span>
+                    <span class="stand-out">Register for <a href="/summer">Summer 2023</a> TODAY! - Summer Classes begin June 6th</span>
                 </p>
             </div>
         </div>
@@ -215,7 +215,7 @@
                     <div class="row">
                         <div class="col-sm">
                             <span class="stand-out text-capitalize">Fall 2023-24 registration starts May/June</span>
-                            <br>Fall Classes begin August 7th
+                            <br>Fall classes begin August 5th
 {{--                            <span class="stand-out text-capitalize">Register NOW for our Fall Session of Classes</span>--}}
 {{--                            <br>Our 25th Dance Season begins August 8, 2022--}}
 {{--                            <br><br>--}}
@@ -247,6 +247,8 @@
                             <span class="purple-txt">June 1 - 4</span> - Spring Recitals at The Eisemann in RIchardson
                             <br>
                             <span class="purple-txt">August 3</span> - Back to Dance Night
+                            <br>
+                            <span class="purple-txt">August 5</span> - Fall classes begin
 
                         </div>
 {{--                        <div class="col-sm" style="border-left: 1px solid #747474">--}}

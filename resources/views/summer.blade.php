@@ -23,9 +23,18 @@
 {{--            </div>--}}
 {{--            <div class="col-sm mb-4">--}}
 {{--                <a href="/images/summer-classes-22.pdf" target="_blank">--}}
-        <div class="d-flex justify-content-center my-4">
-            <img src="/images/2023-summer-camps.png" alt="summer camps" class="img-fluid shadow rounded" style="max-width: 750px; width: 100%; height: auto;">
-{{--            <img src="/images/summer-july-classes.jpg" alt="summer classes" class="img-fluid shadow rounded" style="max-width: 750px; width: 100%; height: auto;">--}}
+        <div class="row">
+            <div class="col-sm">
+                <div class="d-flex justify-content-center my-4">
+                    <img src="/images/2023-summer-camps.png" alt="summer camps" class="img-fluid shadow rounded">
+                    {{--            <img src="/images/summer-july-classes.jpg" alt="summer classes" class="img-fluid shadow rounded" style="max-width: 750px; width: 100%; height: auto;">--}}
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="d-flex justify-content-center my-4">
+                    <img src="/images/2023-summer-class-list.png" alt="summer classes" class="img-fluid shadow rounded">
+                </div>
+            </div>
         </div>
 {{--                </a>--}}
                 <div class="d-flex justify-content-center">
@@ -33,6 +42,19 @@
                         <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
                     </a>
                 </div>
+        <div class="row my-4">
+            <div class="col-sm">
+                <img src="/images/2023-snow-queen-workshop.png" alt="snow queen workshop" class="img-fluid shadow rounded">
+            </div>
+            <div class="col-sm">
+
+            </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
+                <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
+            </a>
+        </div>
 {{--            </div>--}}
 {{--        <div class="my-5">--}}
 {{--            <span class="text-purple lead">1 DAY PRINCESS CAMPS - $38</span>--}}

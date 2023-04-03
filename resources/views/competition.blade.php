@@ -96,23 +96,15 @@
                             <br><br>
                             <div class="badge bg-danger">Ages 8 & up</div>
                             <br>
-                            <strong>BALLET/POINTE, TAP, JAZZ, LYRICAL/CONTEMPORARY, MUSICAL THEATER, MODERN, ACRO TEAMS</strong>
+                            <strong>BALLET/POINTE, TAP, JAZZ, LYRICAL/CONTEMPORARY, MUSICAL THEATER, ACRO TEAMS </strong>
                             <br>
-                            REQUIRED: June 16th - 18th.
-                            <br>
-                            REQUIRED: OKLA One Day Workshop with Lisa Woods (1st week of August - TBD)
-{{--                            Dance Intensive June 28th - July 1st from 10:00am - 4:00pm.  Studio 3 staff will teach classes June 28th - 30th with placement on June 30th.  Thursday classes will be taught by guest instructor Lisa Woods and OKLA staff.--}}
+                            REQUIRED: June 9th -OKLA One Day Workshop with Lisa Woods  and June 10th - Company workshop & Auditions
                             <br><br>
-                            Competition teams will attend 3-4 Regional competitions February – May 2023 in the Dallas/Fort Worth area and 1 National Competition Summer 2023. All Elite team dancers are required to attend one convention in the fall of 2022.
+                            Competition teams will attend 3-4 Regional competitions February – May 2024 in the Dallas/Fort Worth area and 1 National Competition out of state Summer 2024. All Elite team dancers are required to attend one convention in the fall of 2023.
                             <br><br>
-                            All competition dancers middle school-aged and younger must first participate in a Line before being placed in a small or large group dance.
+                            All competition dancers middle school-aged and younger must first participate in our Musical Theatre large group/line before being placed in a small or large group dance.
                             <br><br>
-                            All competitive dancers are required to take Ballet, Technique, Musical Theater or Jazz in addition to the Line. Other small and or large groups will be formed based on ability and interest in Ballet/Pointe, Tap, Jazz, Lyrical/Contemporary, Musical Theatre, ACRO, and Modern.
-                            {{--                            <div class="badge bg-danger">Ages 6 & up</div>--}}
-{{--                            <br>--}}
-{{--                            <strong>HIP HOP TEAM</strong>--}}
-{{--                            <br>--}}
-{{--                            REQUIRED: Competition teams will attend 3 – 4 Regional competitions Feb – May, 2021 in the Dallas/Fort Worth area and 1 National Competition summer 2021.--}}
+                            All competitive dancers are required to take Ballet, Technique, Musical Theater or Jazz in addition to the Line. Other small and or large groups will be formed based on ability and interest in Ballet/Pointe, Tap, Jazz, Lyrical/Contemporary, Musical Theatre and ACRO.
                         </div>
                     </div>
                     <div class="col-sm-5 d-flex align-items-center justify-content-center p-0">

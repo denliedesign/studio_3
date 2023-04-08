@@ -81,7 +81,7 @@
 {{--                </div>--}}
 {{--            </div>--}}
             <div>
-                <a href="/images/performance-company-team.pdf" target="_blank"><img src="/images/performance-company-team.jpg" alt="performance company team structure" class="img-fluid"></a>
+                <a href="/images/performance-company-team-4-8-23.pdf" target="_blank"><img src="/images/performance-company-team-4-8-23.jpg" alt="performance company team structure" class="img-fluid"></a>
             </div>
         </div>
 

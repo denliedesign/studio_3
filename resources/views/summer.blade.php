@@ -44,11 +44,22 @@
                 </div>
         <div class="row my-4">
             <div class="col-sm">
-                <img src="/images/2023-snow-queen-workshop.png" alt="snow queen workshop" class="img-fluid shadow rounded">
+                <img src="/images/june-9-23.jpg" alt="june 9 summer workshop" class="img-fluid shadow rounded">
             </div>
             <div class="col-sm">
-
+                <img src="/images/drill-team-23.png" alt="drill team" class="img-fluid shadow rounded">
             </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
+                <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
+            </a>
+        </div>
+        <div class="row my-4">
+            <div class="col-sm">
+                <img src="/images/2023-snow-queen-workshop.png" alt="snow queen workshop" class="img-fluid shadow rounded">
+            </div>
+            <div class="col-sm"></div>
         </div>
         <div class="d-flex justify-content-center">
             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">

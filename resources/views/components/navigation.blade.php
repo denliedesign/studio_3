@@ -17,6 +17,9 @@
                         <a class="nav-link" href="/classes">Classes</a>
                     </li>
                     <li class="nav-item mx-1">
+                        <a class="nav-link" href="/calendar">Calendar</a>
+                    </li>
+                    <li class="nav-item mx-1">
                         <a class="nav-link" href="/tuition">Tuition</a>
                     </li>
                     <li class="nav-item mx-1">

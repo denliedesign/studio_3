@@ -53,6 +53,10 @@ Route::get('newsletter', function () {
     return view('newsletter');
 });
 
+Route::get('calendar', function () {
+    return view('calendar');
+});
+
 Route::get('/news/march', function () {
     return view('/news/march');
 });

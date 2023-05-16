@@ -3,6 +3,34 @@ body {
     box-sizing: border-box;
 }
 
+.header {
+    background: url("/images/studio-3-head.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 650px;
+    width: 100%;
+}
+
+#header-group {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#header-heading {
+    font-size: 5em;
+    font-weight: bold;
+    color: white;
+    text-shadow: black 2px 2px 4px;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+/*#header-heart {*/
+/*    color: #E11B22;*/
+/*}*/
+
 .banner-wrap {
     height: 225px;
 }

@@ -9,6 +9,9 @@
 
     <div id="general-section" class="container">
         <h1 class="mt-5">2023 S3D Summer Camps</h1>
+        <p class="text-center">
+            Summer Classes begin June 6th
+        </p>
 {{--        <h1 class="mt-5">2022 S3D Summer Camps, Classes, Intensives, & Workshops</h1>--}}
 {{--        <div class="row mb-4">--}}
 {{--            <div class="col-sm mb-4">--}}

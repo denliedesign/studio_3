@@ -25,6 +25,7 @@
             <ul class="list-group list-group-flush">
                 <li class="list-group-item"><a href="/">Home</a></li>
                 <li class="list-group-item"><a href="/classes">Classes</a></li>
+                <li class="list-group-item"><a href="/calendar">Calendar</a></li>
                 <li class="list-group-item"><a href="/tuition">Tuition</a></li>
                 <li class="list-group-item"><a href="/attire">Attire</a></li>
 {{--                <li class="list-group-item"><a href="/summer">Summer</a></li>--}}

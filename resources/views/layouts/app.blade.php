@@ -15,9 +15,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
-        <meta name="description" content="@yield('description', 'Dance classes taught by skilled teachers who take pride in creating a learning experience that is positive and rewarding for dancers of all ages and ability levels.')">
+        <meta name="description" content="@yield('description', 'Plano Dance classes taught by skilled teachers who take pride in creating a learning experience that is positive and rewarding for dancers of all ages and ability levels.')">
 
-        <title>@yield('title', 'Studio 3 Dance | Plano, Texas')</title>
+        <title>@yield('title', 'Studio 3 Dance | Dance Studio Plano TX')</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.gstatic.com">

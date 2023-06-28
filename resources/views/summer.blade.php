@@ -1,7 +1,7 @@
 <x-app-layout>
 
-    @section('title', 'Summer | Studio 3 Dance | Plano, Texas')
-    @section('description', 'Join Studio 3 Dance this Summer for fun dance camps, classes, intensives, and workshops.')
+    @section('title', 'Summer Dance Plano TX | Studio 3 Dance')
+    @section('description', 'Join Studio 3 Dance this Summer for fun Plano dance classes, camps, intensives, and workshops.')
 
     <div class="banner-wrap">
         <div class="banner"></div>
@@ -10,7 +10,7 @@
     <div id="general-section" class="container">
         <h1 class="mt-5">2023 S3D Summer Camps</h1>
         <p class="text-center">
-            Summer Classes begin June 6th
+            Summer Dance Classes in Plano begin June 6th
         </p>
 {{--        <h1 class="mt-5">2022 S3D Summer Camps, Classes, Intensives, & Workshops</h1>--}}
 {{--        <div class="row mb-4">--}}

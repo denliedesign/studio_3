@@ -3,6 +3,7 @@
         <div class="header" style="position: relative;">
             <div id="header-group">
                 <div id="header-heading">You belong here</div>
+                <p class="text-center text-white text-uppercase fw-bold" style="text-shadow: black 2px 2px 4px;">dance classes in plano texas for all ages</p>
                 <div class="d-flex justify-content-center">
                     <a class="btn btn-danger btn-lg text-center" href="/summer">Register For Summer Today!</a>
                 </div>
@@ -15,7 +16,7 @@
                 <div class="row">
                     <div class="col-sm">
                         <div class="shadow p-5 mx-sm-3 my-3 rounded bg-white" style="max-width: 500px;">
-                            <span class="stand-out">Studio 3 Dance offers a diverse schedule of dance classes for children ages 18 months and up.</span>
+                            <span class="stand-out">Studio 3 Dance offers a diverse schedule of dance classes in Plano for children ages 18 months and up.</span>
                             Our classes are taught by skilled teachers who take pride in creating a learning experience that is positive and rewarding for dancers of all ages and ability levels. Our costumes and choreography are always age-appropriate.  But Studio 3 is More Than Just Great Dancing. Our dancers go beyond technique and poise to develop important life skills - learning to be respectful, confident and conscientious young people.  Competition and performance opportunities are available for those interested.
                         </div>
                     </div>

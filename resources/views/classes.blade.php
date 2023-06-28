@@ -1,7 +1,7 @@
 <x-app-layout>
 
-    @section('title', 'Classes | Studio 3 Dance | Plano, Texas')
-    @section('description', 'Positive learning experience with a diverse schedule of dance classes for children 18mo+')
+    @section('title', 'Dance Classes in Plano Texas | Studio 3 Dance')
+    @section('description', 'Positive learning experience with a diverse schedule of dance classes in Plano for children 18mo+')
 
     <div class="banner-wrap">
         <div class="banner"></div>
@@ -16,7 +16,7 @@
 {{--            If you don't see the class you are looking for, please call the studio and let us assist you.--}}
 {{--        </span>--}}
         <p>
-            Studio 3 takes pride in creating a learning experience that is positive and rewarding for dancers of all ages & levels. We offer a diverse schedule of dance classes for children ages 18 months and up year round. Our main dance season runs from mid August through the end of May. To get the most out of your dance year, enrollment at the beginning of our season is best.
+            Studio 3 takes pride in creating a learning experience that is positive and rewarding for dancers of all ages & levels. We offer a diverse schedule of dance classes in Plano, TX for children ages 18 months and up year round. Our main dance season runs from mid August through the end of May. To get the most out of your dance year, enrollment at the beginning of our season is best.
 {{--            <strong>Fall classes begin August 9th.</strong>--}}
         </p>
 

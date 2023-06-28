@@ -89,6 +89,10 @@ Route::get('/snow-queen', function () {
     return view('/snow-queen');
 });
 
+Route::get('/dance-classes-in-plano-tx', function () {
+    return view('/dance-classes-in-plano-tx');
+});
+
 Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
 Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
 

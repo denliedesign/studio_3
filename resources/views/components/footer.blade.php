@@ -54,5 +54,10 @@
         </div>
     </div>
 </div>
+<div class="container text-center mb-1">
+    <a style="text-decoration: none;" href="/dance-classes-in-plano-tx"><small class="text-muted">Dance Classes In Plano TX</small></a>
+</div>
+
+
 
 {{--<script defer src="https://connect.podium.com/widget.js#API_TOKEN=8be6a621-3f85-492f-b30a-db4cfcb91686" id="podium-widget" data-api-token="8be6a621-3f85-492f-b30a-db4cfcb91686"></script>--}}

@@ -287,3 +287,10 @@ body {
 .text-purple {
     color: darkviolet;
 }
+
+.teacher-single img {
+    object-position: 50% 25%;
+    object-fit: cover;
+    height: 275px;
+    width: 250px;
+}

@@ -5,7 +5,7 @@
                 <div id="header-heading">You belong here</div>
                 <p class="text-center text-white text-uppercase fw-bold" style="text-shadow: black 2px 2px 4px;">dance classes in plano texas for all ages</p>
                 <div class="d-flex justify-content-center">
-                    <a class="btn btn-danger btn-lg text-center" href="/summer">Register For Summer Today!</a>
+                    <a class="btn btn-danger btn-lg text-center" href="/classes">Register For Fall</a>
                 </div>
             </div>
         </div>

@@ -20,23 +20,24 @@
 {{--            <strong>Fall classes begin August 9th.</strong>--}}
         </p>
 
-        <div class="row">
-            <div class="col-sm">
-                <img src="/images/classes-childrens-22.jpg" alt="" class="img-fluid">
-                <div class="d-flex justify-content-center">
-                    <a href="/images/classes-childrens-22.pdf" target="_blank">
-                        <button class="btn btn-lg btn-danger shadow mb-4">View Children's Classes PDF</button>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm">
-                <img src="/images/classes-leveled-22.jpg" alt="" class="img-fluid">
-                <div class="d-flex justify-content-center">
-                    <a href="/images/classes-leveled-22.pdf" target="_blank">
-                        <button class="btn btn-lg btn-danger shadow mb-4">View Leveled Classes PDF</button>
-                    </a>
-                </div>
-            </div>
+        <div class="d-flex justify-content-center">
+            <a href="/images/23-fall.pdf" target="_blank">
+                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>
+            </a>
+        </div>
+
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
+{{--            <img src="/images/23-fall-1.jpg" alt="class schedule" class="img-fluid">--}}
+            <img src="/images/23-fall-2.jpg" alt="class schedule" class="img-fluid">
+            <img src="/images/23-fall-3.jpg" alt="class schedule" class="img-fluid">
+            <img src="/images/23-fall-4.jpg" alt="class schedule" class="img-fluid">
+            <img src="/images/23-fall-5.jpg" alt="class schedule" class="img-fluid">
+        </div>
+
+        <div class="d-flex justify-content-center">
+            <a href="/images/23-fall.pdf" target="_blank">
+                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>
+            </a>
         </div>
 
 {{--        <section id="enrollment">--}}

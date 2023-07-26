@@ -18,7 +18,7 @@
                         <span class="fw-bold staff-name" style="font-size: 1.25em;">Brenda Wilder, Director</span><br>
                         Brenda began dancing at a young age in her hometown of McComb, Mississippi. She graduated from Southern Methodist University with a BFA in Dance, a minor in Physical Education and Secondary teaching certification. Upon graduation, Brenda developed a dance program at Sunset High School, choreographed musicals and coached the Drill Team and Cheerleading Squad.
                         <br><br>
-                        Brenda began teaching dance in the Dallas/Plano/Carrollton area in college and opened Studio 3 Dance in the fall of 1998. She is passionate about dance and her love for children. Her focus is on creating a healthy and welcoming environment for dancers to build confidence and grow into happy, healthy individuals.
+                        Brenda began teaching dance in the Dallas/Plano/Carrollton area in college and opened Studio 3 Dance in the fall of 1998. She is passionate about dance and her love for children. Her focus is on creating a positive and welcoming environment for young dancers and their families.
                     </p>
                 </div>
             </div>
@@ -128,7 +128,9 @@
                 <div class="col-sm-9 d-flex align-items-center">
                     <p class="mx-5 p-3">
                         <span class="fw-bold staff-name" style="font-size: 1.25em;">Adriana Aguilar Ruland</span><br>
-                        Adriana Aguilar began dancing at the age of 4 at Vivra Jazz Studio in El Salvador.  There she was a part of the studio's company and traveled to cities nearby to perform.  She moved to the United States at the age of 12 where she continued her dance training at Studio 3 Dance.  Adriana was part of Studio 3's competition teams.  She was also a member of the Jasper Jazz Drill Team, where she was a part of its Elite Company and Planoette Drill Team where she was a part of the white(hip-hop) and silver (jazz/ contemporary) elite lines.  She was also honored by her peers with the title of "Miss Drill Team".  After high school, Adriana attended the Texas State University and was a part of "Creation In Motion Touring Ensemble for Young Audiences" where she toured and performed.  Adriana is trained in various styles of dance but focuses in the styles of Hip Hop, Latin, and drill team.  Adriana is happy to be part of her home studio's staff and to be able to share her passion and drive for the dance industry.
+                        Adriana Aguilar began dancing at the age of 4 at Vivra Jazz Studio in El Salvador. There she was a part of the studio's company and traveled to cities nearby to perform. She moved to the United States at the age of 12 where she continued her dance training at Studio 3 Dance. Adriana was part of Studio 3's competition teams. She was also a member of the Jasper Jazz Drill Team, where she was a part of its Elite Company and Planoette Drill Team where she was a part of the Hip Hop and Jazz/ Contemporary) Elite Lines. She was also honored by her peers with the title of "Miss Drill Team". After high school, Adriana attended Texas State University and was a part of "Creation In Motion Touring Ensemble for Young Audiences".
+                        <br><br>
+                        Adriana is trained in various styles of dance but teaches mostly Hip Hop and Musical Theatre. Adriana is happy to be part of her home studio's staff since 2016. Adriana's time away from the studio is spent with her husband (Matt) and 2 daughters (Emmarose and Violet).
                     </p>
                 </div>
             </div>
@@ -165,14 +167,14 @@
         <div class="teacher-single my-5">
             <div class="row">
                 <div class="col-sm-3 d-flex justify-content-center">
-                    <img src="/images/danyelle.jpg" alt="dance teacher" class="img-fluid shadow">
+                    <img src="/images/23-danyelle.jpg" alt="dance teacher" class="img-fluid shadow">
                 </div>
                 <div class="col-sm-9 d-flex align-items-center">
                     <p class="mx-5 p-3">
                         <span class="fw-bold staff-name" style="font-size: 1.25em;">Danyelle Kerrigan</span><br>
-                        Originally from Omaha, Nebraska, Danyelle grew up in the competitive dance circuit where she has received numerous regional and national awards as both a dancer and choreographer.  With a degree in PR & Advertising from the University of Nebraska at Omaha, Danyelle spends most of her days providing outsourced marketing and social media management to dance-related organizations, including serving as the Director of Marketing for the National Dance Coaches Association. Danyelle also does freelance choreography, which has helped high school and collegiate teams to multiple Top 10 finishes at national competitions and numerous state championships for her alma mater, Skutt Catholic High School, for which Danyelle was also the coach while in college.
+                        Originally from Omaha, Nebraska, Danyelle grew up in the competitive dance circuit where she has received numerous regional and national awards as both a dancer and choreographer. With a degree in PR & Advertising from the University of Nebraska at Omaha, Danyelle spends most of her days providing outsourced marketing and social media management to dance-related organizations. Danyelle also does freelance choreography, which has helped high school and collegiate teams to multiple Top 10 finishes at national competitions and numerous state championships for her alma mater, Skutt Catholic High School, for which Danyelle was also the coach while in college.
                         <br><br>
-                        Danyelle has taught at Studio 3 since 2018, and when she’s not living and breathing dance, she spends her time with husband (Jim), son (Timothy), and dog (Nellie).
+                        Danyelle has taught at Studio 3 since 2018. She is currently certified in Alixa Flexibility Modules 1 & 2. When she’s not living and breathing dance, she spends her time with husband (Jim), son (Timothy), daughter (Stevie) and dog (Nellie).
                     </p>
                 </div>
             </div>

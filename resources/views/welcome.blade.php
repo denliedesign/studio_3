@@ -5,7 +5,8 @@
                 <div id="header-heading">You belong here</div>
                 <p class="text-center text-white text-uppercase fw-bold" style="text-shadow: black 2px 2px 4px;">dance classes in plano texas for all ages</p>
                 <div class="d-flex justify-content-center">
-                    <a class="btn btn-danger btn-lg text-center" href="/classes">Register For Fall</a>
+                    <a class="btn mx-3 btn-danger btn-lg text-center" href="/preschool-dance-classes-plano">Register Ages 1-7</a>
+                    <a class="btn mx-3 btn-danger btn-lg text-center" href="/classes">Register Ages 7+</a>
                 </div>
             </div>
         </div>
@@ -31,11 +32,11 @@
             <div class="container">
                 <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-5">
                     <div class="col px-2">
-                        <a href="/classes"><img src="/images/main-kinder-3.jpg" alt="preschool girl" class="img-fluid shadow"></a>
+                        <a href="/preschool-dance-classes-plano"><img src="/images/main-kinder-3.jpg" alt="preschool girl" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">Ages 2-5</h3>
                     </div>
                     <div class="col px-2">
-                        <a href="/classes"><img src="/images/main-elementary-3.jpg" alt="elementary school girl" class="img-fluid shadow"></a>
+                        <a href="/preschool-dance-classes-plano"><img src="/images/main-elementary-3.jpg" alt="elementary school girl" class="img-fluid shadow"></a>
                         <h3 class="text-center fw-bold">K-2nd Grade</h3>
                     </div>
                     <div class="col px-2">

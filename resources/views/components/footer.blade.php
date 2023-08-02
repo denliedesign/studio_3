@@ -24,7 +24,8 @@
         <div class="col-sm">
             <ul class="list-group list-group-flush">
                 <li class="list-group-item"><a href="/">Home</a></li>
-                <li class="list-group-item"><a href="/classes">Classes</a></li>
+                <li class="list-group-item"><a href="/preschool-dance-classes-plano">Preschool Program</a></li>
+                <li class="list-group-item"><a href="/classes">Leveled Classes</a></li>
                 <li class="list-group-item"><a href="/calendar">Calendar</a></li>
                 <li class="list-group-item"><a href="/tuition">Tuition</a></li>
                 <li class="list-group-item"><a href="/attire">Attire</a></li>

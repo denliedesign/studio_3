@@ -93,6 +93,10 @@ Route::get('/dance-classes-in-plano-tx', function () {
     return view('/dance-classes-in-plano-tx');
 });
 
+Route::get('/preschool-dance-classes-plano', function () {
+    return view('/preschool-dance-classes-plano');
+});
+
 Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
 Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
 

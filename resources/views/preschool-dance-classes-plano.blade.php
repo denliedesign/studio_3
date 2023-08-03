@@ -8,7 +8,7 @@
     </div>
 
     <div id="general-section" class="mt-5 container">
-        <h1>Preschool Dance Classes in Plano</h1>
+        <h1>Children's Dance Classes</h1>
         <p>
             Studio 3 takes pride in creating a learning experience that is positive and rewarding for dancers of all ages & levels. We offer a diverse schedule of dance classes in Plano, TX for children ages 18 months and up year round. Our main dance season runs from mid August through the end of May. To get the most out of your dance year, enrollment at the beginning of our season is best.
         </p>
@@ -31,15 +31,15 @@
         </div>
 
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 my-5">
-            <div class="d-flex align-items-center" style="border: 1px solid #747474;">
-                <div class="col text-center">
-                    <img src="/images/dance-with-me-logo.png" alt="childrens class logo" class="img-fluid m-2">
-                    <small class="text-muted d-block">ages 18 months - 2 1/2</small>
-                    <p>
-                        Creative movement class for tiny dancers and moms/caregivers. Singing & dancing with props for our youngest imaginations.
-                    </p>
-                </div>
-            </div>
+{{--            <div class="d-flex align-items-center" style="border: 1px solid #747474;">--}}
+{{--                <div class="col text-center">--}}
+{{--                    <img src="/images/dance-with-me-logo.png" alt="childrens class logo" class="img-fluid m-2">--}}
+{{--                    <small class="text-muted d-block">ages 18 months - 2 1/2</small>--}}
+{{--                    <p>--}}
+{{--                        Creative movement class for tiny dancers and moms/caregivers. Singing & dancing with props for our youngest imaginations.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="d-flex align-items-center" style="border: 1px solid #747474;">
                 <div class="col text-center">
                     <img src="/images/logo-ready-move.png" alt="childrens class logo" class="img-fluid m-2">

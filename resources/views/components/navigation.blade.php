@@ -13,27 +13,46 @@
 {{--                    <li class="nav-item mx-1">--}}
 {{--                        <a class="nav-link" href="/">Home</a>--}}
 {{--                    </li>--}}
-                    <li class="nav-item mx-1">
-                        <a class="nav-link" href="/preschool-dance-classes-plano">Preschool</a>
+                    <li class="nav-item dropdown mx-1">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Classes
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/preschool-dance-classes-plano">Children's Ages 1-7</a></li>
+                            <li><a class="dropdown-item" href="/classes">Leveled Ages 7+</a></li>
+                        </ul>
                     </li>
-                    <li class="nav-item mx-1">
-                        <a class="nav-link" href="/classes">Classes</a>
+                    <li class="nav-item dropdown mx-1">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Resources
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/tuition">Tuition</a></li>
+                            <li><a class="dropdown-item" href="/attire">Attire</a></li>
+                            <li><a class="dropdown-item" href="/policies">Policies</a></li>
+                        </ul>
                     </li>
+{{--                    <li class="nav-item mx-1">--}}
+{{--                        <a class="nav-link" href="/preschool-dance-classes-plano">Children's Classes</a>--}}
+{{--                    </li>--}}
+{{--                    <li class="nav-item mx-1">--}}
+{{--                        <a class="nav-link" href="/classes">Leveled Classes</a>--}}
+{{--                    </li>--}}
                     <li class="nav-item mx-1">
                         <a class="nav-link" href="/calendar">Calendar</a>
                     </li>
-                    <li class="nav-item mx-1">
-                        <a class="nav-link" href="/tuition">Tuition</a>
-                    </li>
-                    <li class="nav-item mx-1">
-                        <a class="nav-link" href="/attire">Attire</a>
-                    </li>
+{{--                    <li class="nav-item mx-1">--}}
+{{--                        <a class="nav-link" href="/tuition">Tuition</a>--}}
+{{--                    </li>--}}
+{{--                    <li class="nav-item mx-1">--}}
+{{--                        <a class="nav-link" href="/attire">Attire</a>--}}
+{{--                    </li>--}}
 {{--                    <li class="nav-item mx-1">--}}
 {{--                        <a class="nav-link" href="/summer">Summer</a>--}}
 {{--                    </li>--}}
-                    <li class="nav-item mx-1">
-                        <a class="nav-link" href="/policies">Policies</a>
-                    </li>
+{{--                    <li class="nav-item mx-1">--}}
+{{--                        <a class="nav-link" href="/policies">Policies</a>--}}
+{{--                    </li>--}}
                     <li class="nav-item mx-1">
                         <a class="nav-link" href="/newsletter">News</a>
                     </li>

@@ -104,11 +104,11 @@
                 <div class="col-sm-9 d-flex align-items-center">
                     <p class="mx-5 p-3">
                         <span class="fw-bold staff-name" style="font-size: 1.25em;">Katherine Woolston</span><br>
-                        Katherine began dancing at the age of two and has been teaching for 13 years. She has choreographed for Richardson High School's Eaglette and Theater Department.
+                        Katherine began dancing at the age of two and has been teaching since she was 17 years old. She has choreographed for Richardson High School's Eaglette Drill team and Theater Department.
                         <br><br>
                         Katherine was on the NCA All Star Performance team and was awarded the Superstar Award for Drill Team in High School. She performed in the Macy's Thanksgiving Parade in New York and in the Aloha Bowl in Hawaii.
                         <br><br>
-                        Katherine studied at Richland College where she was a student instructor for the Jazz Department. She also attended and studied dance at Stephen F. Austin University and The University Of North Texas.
+                        Katherine studied at Richland College where she was a student instructor for the Jazz Department. She also attended and studied dance at Stephen F. Austin University and The University Of North Texas. She has taken numerous master classes in NYC, dance conventions and teacher training workshops. Katherine joined the Studio 3 Dance staff in 2001.
                     </p>
                 </div>
             </div>
@@ -150,7 +150,7 @@
                 <div class="col-sm-9 d-flex align-items-center">
                     <p class="mx-5 p-3">
                         <span class="fw-bold staff-name" style="font-size: 1.25em;">Ashleigh Sandler</span><br>
-                        Born and raised in Upstate New York, Ashleigh started dancing when she was 3 years old and became a competition performer at age 9.  During her high school years she started assistant-teaching and transitioned to a primary teacher soon after graduating.  She attended two years of Teacher Training School through Dance Masters of America, is a certified acrobatic-dance teacher through Acrobatic Arts, and continues to learn new techniques and teaching methods at the annual Dance Teacher Summits in New York and California and the Texas Association Teachers of Dancing convention.
+                        Born and raised in Upstate New York, Ashleigh started dancing when she was 3 years old and became a competition performer at age 9.  During her high school years she started assistant-teaching and transitioned to a primary teacher soon after graduating.  She attended two years of Teacher Training School through Dance Masters of America, is a certified acrobatic-dance teacher through Acrobatic Arts, and continues to learn new techniques and teaching methods at the annual Dance Teacher Summits in New York and California and the Texas Association Teachers of Dancing convention. She is also a certified instructor with Rhythm Works Integrative Dance.
                         <br><br>
                         Ashleigh moved to Texas in 2015.  She lives in Arlington with her husband, Brian, and two daughters, Evaline and Brielle.  She is excited to keep growing her dance family here!
                     </p>
@@ -175,6 +175,26 @@
                         Originally from Omaha, Nebraska, Danyelle grew up in the competitive dance circuit where she has received numerous regional and national awards as both a dancer and choreographer. With a degree in PR & Advertising from the University of Nebraska at Omaha, Danyelle spends most of her days providing outsourced marketing and social media management to dance-related organizations. Danyelle also does freelance choreography, which has helped high school and collegiate teams to multiple Top 10 finishes at national competitions and numerous state championships for her alma mater, Skutt Catholic High School, for which Danyelle was also the coach while in college.
                         <br><br>
                         Danyelle has taught at Studio 3 since 2018. She is currently certified in Alixa Flexibility Modules 1 & 2. When she’s not living and breathing dance, she spends her time with husband (Jim), son (Timothy), daughter (Stevie) and dog (Nellie).
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-3"></div>
+                <div class="col-sm-9">
+                    <div class="turq-dash mx-5"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="teacher-single my-5">
+            <div class="row">
+                <div class="col-sm-3 d-flex justify-content-center">
+                    <img src="/images/staff-sam.jpg" alt="dance teacher" class="img-fluid shadow">
+                </div>
+                <div class="col-sm-9 d-flex align-items-center">
+                    <p class="mx-5 p-3">
+                        <span class="fw-bold staff-name" style="font-size: 1.25em;">Samantha Hebert</span><br>
+                        Samantha was born and raised in Plano, TX where she danced at Studio 3 from 2003 to 2020. During her high school years, Samantha served as Captain of the Shepton Stallionettes, as well as Junior Lieutenant and Captain of the Plano West Royales. After graduating from Plano West, Samantha spent the next two years dancing as a Kilgore College Rangerette. Samantha has continued working on her education at the University of Oklahoma and Texas Women’s University.  Samantha is so excited to be back at Studio 3 but now as a staff member!
                     </p>
                 </div>
             </div>

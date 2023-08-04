@@ -213,11 +213,11 @@
 {{--            </div>--}}
         </div>
 
-        <div class="d-flex justify-content-center mb-4">
-            <a href="https://planomoms.com/best-of-collin-county-winners/" target="_blank">
-                <img src="https://planomoms.com/wp-content/uploads/2022/05/Best-of-Collin-County-Online.jpg" style="max-width: 600px; width: 100%; height: auto;" alt=“Winner of Best of Collin County 2022">
-            </a>
-        </div>
+{{--        <div class="d-flex justify-content-center mb-4">--}}
+{{--            <a href="https://planomoms.com/best-of-collin-county-winners/" target="_blank">--}}
+{{--                <img src="https://planomoms.com/wp-content/uploads/2022/05/Best-of-Collin-County-Online.jpg" style="max-width: 600px; width: 100%; height: auto;" alt=“Winner of Best of Collin County 2022">--}}
+{{--            </a>--}}
+{{--        </div>--}}
 
         <section id="acroarts" class="container mb-5 pb-5">
             <div class="d-flex align-items-center justify-content-center">
@@ -234,5 +234,23 @@
                 </div>
             </div>
         </section>
+
+    <section id="acroarts" class="container mb-5 pb-5">
+        <div class="d-flex align-items-center justify-content-center">
+{{--            <div class="gradient-turq rounded"></div>--}}
+            <div class="row">
+                <div class="col-sm d-flex align-items-center">
+                    <img src="/images/logo-ready-set.png" alt="ballet" style="max-height: 350px; width: auto;" class="img-fluid rounded">
+                </div>
+                <div class="col-sm">
+                    <div class="shadow p-5 mx-sm-5 my-5 rounded bg-white" style="max-width: 500px;">
+                        Ready Set Dance is an innovative program designed specifically to introduce young children to the world of dance. In each class teachers explore aspects of the Ready Set Dance curriculum through playful approaches which are responsive to the curiosity and imagination of young learners.
+                        <br><br>
+                        Through regular and sustained participation in Ready Set Dance classes children develop positive dispositions to learning such as enthusiasm, independence, concentration, persistence, co-operation and the three C’s of confidence, coordination, and creativity. Ready Set Dance offers much to support the play and learning of young children.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     </x-app-layout>

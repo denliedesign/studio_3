@@ -57,6 +57,8 @@
 </div>
 <div class="container text-center mb-1">
     <a style="text-decoration: none;" href="/dance-classes-in-plano-tx"><small class="text-muted">Dance Classes In Plano TX</small></a>
+    &nbsp; &middot; &nbsp;
+    <a style="text-decoration: none;" href="/dance-studios-in-plano-tx"><small class="text-muted">Dance Studios In Plano TX</small></a>
 </div>
 
 

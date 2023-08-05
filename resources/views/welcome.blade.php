@@ -3,7 +3,7 @@
         <div class="header" style="position: relative;">
             <div id="header-group">
                 <div id="header-heading">You belong here</div>
-                <p class="text-center text-white text-uppercase fw-bold" style="text-shadow: black 2px 2px 4px;">dance classes in plano texas for all ages</p>
+                <p class="text-center text-white text-uppercase fw-bold" style="text-shadow: black 2px 2px 4px;">dance classes in plano for all ages</p>
                 <div class="d-flex justify-content-center">
                     <a class="btn mx-3 btn-danger btn-lg text-center" href="/preschool-dance-classes-plano">Register Ages 1-7</a>
                     <a class="btn mx-3 btn-danger btn-lg text-center" href="/classes">Register Ages 7+</a>

@@ -28,7 +28,7 @@
                                 Company team fee due August 1
                             </span>
                             <br><br>
-                            If you love to perform, consider joining one of our performance teams.  It’s a great fit for focused dancers looking for an additional challenge and performance opportunities. Dance Intensive Required for ALL company - June 9/10, 2023
+                            If you love to perform, consider joining one of our performance teams.  It’s a great fit for focused dancers looking for an additional challenge and performance opportunities. Dance Intensive Required for ALL company
 {{--                            Enroll in our Dance Intensive June 16th - 18th for team placement.--}}
                             <br><br>
 {{--                            RECOMMENDED: Dance Intensive for exposure to all dance genres. Performance teams will have 2-4 performances during the year and one Regional competition in April or May in the Dallas/Fort Worth area, if ready. In recent years, our Performance teams have danced at the Gaylord ICE exhibit, Memory Care and Assisted Living Homes, Side Kicks Soccer Half-time show, Allen American Hockey Intermissions, Willow Bend Mall Holiday Bash and Willow Bend Mall Day of Dance.--}}
@@ -98,7 +98,8 @@
                             <br>
                             <strong>BALLET/POINTE, TAP, JAZZ, LYRICAL/CONTEMPORARY, MUSICAL THEATER, ACRO TEAMS </strong>
                             <br>
-                            REQUIRED: June 9th -OKLA One Day Workshop with Lisa Woods  and June 10th - Company workshop & Auditions
+{{--                            REQUIRED: June 9th -OKLA One Day Workshop with Lisa Woods  and June 10th - Company workshop & Auditions--}}
+                            REQUIRED: OKLA One Day Workshop and Company workshop & Auditions
                             <br><br>
                             Competition teams will attend 3-4 Regional competitions February – May 2024 in the Dallas/Fort Worth area and 1 National Competition out of state Summer 2024. All Elite team dancers are required to attend one convention in the fall of 2023.
                             <br><br>

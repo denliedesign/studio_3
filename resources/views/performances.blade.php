@@ -159,6 +159,10 @@
             {{--            Dates for our next ballet are November 13, 14, 2021. Auditions are August 14th at 1:00pm at the studio.--}}
 {{--        <span class="text-capitalize">View The <a href="/images/snow-queen-rehearsal-schedule.pdf" target="_blank">Rehearsal schedule for the fall</a></span>--}}
         </p>
+        <div class="row my-3">
+            <div class="col-md"><img src="/images/23-snow-queen-rehearsal-1.jpg" alt="snow queen" class="img-fluid"></div>
+            <div class="col-md"><img src="/images/23-snow-queen-rehearsal-2.jpg" alt="snow queen" class="img-fluid"></div>
+        </div>
         <div class="row d-flex justify-content-center">
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">

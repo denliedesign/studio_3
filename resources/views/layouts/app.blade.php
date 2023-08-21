@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
-
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-3CD9TVGTDQ"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'G-3CD9TVGTDQ');
-        </script>
-
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta property="og:title" content="Dance Classes | Plano, TX">
+        <meta property="og:description" content="Plano Dance classes taught by skilled teachers who take pride in creating a learning experience that is positive and rewarding for dancers of all ages and ability levels.">
+        <meta property="og:image" content="https://studio3dance.com/images/studio-3-head.JPG">
+        <meta property="og:url" content="https://studio3dance.com">
+        <meta name="twitter:card" content="summary_large_image">
+
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <meta name="description" content="@yield('description', 'Plano Dance classes taught by skilled teachers who take pride in creating a learning experience that is positive and rewarding for dancers of all ages and ability levels.')">
 
@@ -35,8 +31,20 @@
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
         <script async src="https://mobileinventor.com/applib/mobileDetector.php?appname=Studio_3_Dance" type="text/javascript"></script>
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-3CD9TVGTDQ"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-3CD9TVGTDQ');
+        </script>
+
     </head>
     <body class="font-sans antialiased">
+    @include('_top')
         <x-jet-banner />
 
         <div class="min-h-screen bg-gray-100">

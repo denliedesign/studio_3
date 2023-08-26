@@ -9,7 +9,6 @@
         <meta property="og:image" content="https://studio3dance.com/images/studio-3-head.JPG">
         <meta property="og:url" content="https://studio3dance.com">
         <meta name="twitter:card" content="summary_large_image">
-
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <meta name="description" content="@yield('description', 'Plano Dance classes taught by skilled teachers who take pride in creating a learning experience that is positive and rewarding for dancers of all ages and ability levels.')">
 
@@ -26,7 +25,7 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
         <link rel="stylesheet" href="/css/style.css">
 
-        @livewireStyles
+{{--        @livewireStyles--}}
 
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
@@ -45,19 +44,22 @@
     </head>
     <body class="font-sans antialiased">
     @include('_top')
-        <x-jet-banner />
+    @include('_nav')
+    @yield('content')
+    @include('_footer')
+{{--        <x-jet-banner />--}}
 
-        <div class="min-h-screen bg-gray-100">
-            @livewire('navigation-menu')
+{{--        <div class="min-h-screen bg-gray-100">--}}
+{{--            @livewire('navigation-menu')--}}
 
-            <!-- Page Heading -->
-            @if (isset($header))
-                <header class="bg-white shadow">
-                    <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
-                        {{ $header }}
-                    </div>
-                </header>
-            @endif
+{{--            <!-- Page Heading -->--}}
+{{--            @if (isset($header))--}}
+{{--                <header class="bg-white shadow">--}}
+{{--                    <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">--}}
+{{--                        {{ $header }}--}}
+{{--                    </div>--}}
+{{--                </header>--}}
+{{--            @endif--}}
 
             <!-- Page Content -->
             @if(session()->has('message'))
@@ -65,19 +67,19 @@
                     <strong>Success</strong> {{ session()->get('message') }}
                 </div>
             @endif
-            <nav>
-                <x-navigation description="placeholder" />
-            </nav>
-            <main>
-                {{ $slot }}
-            </main>
-            <footer>
-                <x-footer />
-            </footer>
-            <div id="bottom"></div>
-        </div>
+{{--            <nav>--}}
+{{--                <x-navigation description="placeholder" />--}}
+{{--            </nav>--}}
+{{--            <main>--}}
+{{--                {{ $slot }}--}}
+{{--            </main>--}}
+{{--            <footer>--}}
+{{--                <x-footer />--}}
+{{--            </footer>--}}
+{{--            <div id="bottom"></div>--}}
+{{--        </div>--}}
 
-        @stack('modals')
+{{--        @stack('modals')--}}
 
         <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js" defer></script>
@@ -86,7 +88,7 @@
         <script src="/js/script.js" defer></script>
 
 
-        @livewireScripts
+{{--        @livewireScripts--}}
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
         <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
     </body>

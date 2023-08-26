@@ -1,5 +1,5 @@
-<x-app-layout>
-
+@extends('layouts.app')
+@section('content')
         <div class="header" style="position: relative;">
             <div id="header-group">
                 <div id="header-heading">You belong here</div>
@@ -253,4 +253,4 @@
         </div>
     </section>
 
-    </x-app-layout>
+    @endsection

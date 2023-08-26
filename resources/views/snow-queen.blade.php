@@ -1,8 +1,8 @@
-<x-app-layout>
+@extends('layouts.app')
 
     @section('title', 'Snow Queen Gallery | Studio 3 Dance | Plano, Texas')
     @section('description', 'Relive the magic and wonder of our Snow Queen Production with these images.')
-
+@section('content')
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>
@@ -58,4 +58,4 @@
         </section>
     </div>
 
-</x-app-layout>
+@endsection

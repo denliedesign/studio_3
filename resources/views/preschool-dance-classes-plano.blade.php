@@ -1,8 +1,8 @@
-<x-app-layout>
+@extends('layouts.app')
 
     @section('title', 'Preschool Dance Classes Plano TX | Studio 3 Dance Plano, TX')
     @section('description', 'Discover the joy of dance at Studio 3 Dance in Plano, Texas! We offer engaging and fun preschool dance classes and toddler dance classes to nurture your child\'s passion for movement. Join our supportive dance community and watch your little one shine on the dance floor. Enroll today!')
-
+@section('content')
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>
@@ -217,4 +217,4 @@
         </div>
     </div>
 
-</x-app-layout>
+@endsection

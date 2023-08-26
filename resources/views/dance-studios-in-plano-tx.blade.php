@@ -1,8 +1,8 @@
-<x-app-layout>
+@extends('layouts.app')
 
     @section('title', 'Dance Studios In Plano TX | Studio 3 Dance')
     @section('description', 'Discover the magic of dance at Studio 3 Dance, where creativity and joy come to life! Our children\'s dance studio in Plano offers top-notch dance classes, lessons, and programs to inspire young dancers in a nurturing and fun environment.')
-
+@section('content')
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>
@@ -70,4 +70,4 @@
         </div>
 
     </div>
-</x-app-layout>
+@endsection

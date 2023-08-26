@@ -1,5 +1,5 @@
-<x-app-layout>
-
+@extends('layouts.app')
+@section('content')
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>
@@ -43,4 +43,4 @@ We will have a Junior group for ages 8 - 11 and a Senior group for ages 12 - 18.
         </div>
     </div>
 
-</x-app-layout>
+@endsection

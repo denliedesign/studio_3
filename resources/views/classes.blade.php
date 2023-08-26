@@ -1,8 +1,8 @@
-<x-app-layout>
+@extends('layouts.app')
 
     @section('title', 'Dance Classes in Plano Texas | Studio 3 Dance')
     @section('description', 'Positive learning experience with a diverse schedule of dance classes in Plano for children 18mo+')
-
+@section('content')
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>
@@ -154,4 +154,4 @@
 {{--        </div>--}}
     </div>
 
-</x-app-layout>
+@endsection

@@ -1,8 +1,8 @@
-<x-app-layout>
+@extends('layouts.app')
 
     @section('title', 'Summer Dance Plano TX | Studio 3 Dance')
     @section('description', 'Join Studio 3 Dance this Summer for fun Plano dance classes, camps, intensives, and workshops.')
-
+@section('content')
     <div class="banner-wrap">
         <div class="banner"></div>
     </div>
@@ -69,6 +69,7 @@
                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
             </a>
         </div>
+    </div>
 {{--            </div>--}}
 {{--        <div class="my-5">--}}
 {{--            <span class="text-purple lead">1 DAY PRINCESS CAMPS - $38</span>--}}
@@ -201,4 +202,4 @@
 {{--        </div>--}}
 {{--    </div>--}}
 
-</x-app-layout>
+@endsection

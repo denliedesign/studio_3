@@ -1,8 +1,8 @@
-<x-app-layout>
+@extends('layouts.app')
 
     @section('title', 'Performances | Studio 3 Dance | Plano, Texas')
-    @section('description', '')
-
+{{--    @section('description', '')--}}
+@section('content')
 {{--    <video width="100%" height="auto" poster="/images/video-pre-load.JPG" controls>--}}
 {{--        <source src="/images/spring-recital.mp4" type="video/mp4">--}}
 {{--    </video>--}}
@@ -202,4 +202,4 @@
     </div>
 
 
-</x-app-layout>
+@endsection

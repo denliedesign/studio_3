@@ -7,17 +7,17 @@
                 <br>Copyright © 2021 Studio 3 Dance.
                 <br>All rights reserved.
             </p>
-            <p class="pb-0 mb-0 text-center" style="color: #747474; font-size: .7em;"><a href="https://studio3dance.app.link/SNx6SozXFib">Download Our App</a></p>
-            <div class="d-flex justify-content-center">
-                <div>
-                    <div class="my-2">
-                        <a href="https://apps.apple.com/app/id1580853013" target="_blank"><img alt="" height="40" src="https://go.mobileinventor.com/appStoreBadge" width="135"></a>
-                    </div>
-                    <div>
-                        <a href="https://play.google.com/store/apps/details?id=com.studio3dance.mi" target="_blank"><img alt="" height="45" src="https://go.mobileinventor.com/playStoreBadge" width="129"></a>
-                    </div>
-                </div>
-            </div>
+{{--            <p class="pb-0 mb-0 text-center" style="color: #747474; font-size: .7em;"><a href="https://studio3dance.app.link/SNx6SozXFib">Download Our App</a></p>--}}
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <div>--}}
+{{--                    <div class="my-2">--}}
+{{--                        <a href="https://apps.apple.com/app/id1580853013" target="_blank"><img alt="" height="40" src="https://go.mobileinventor.com/appStoreBadge" width="135"></a>--}}
+{{--                    </div>--}}
+{{--                    <div>--}}
+{{--                        <a href="https://play.google.com/store/apps/details?id=com.studio3dance.mi" target="_blank"><img alt="" height="45" src="https://go.mobileinventor.com/playStoreBadge" width="129"></a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="turq-dash-flip my-2 d-block d-md-none"></div>
         </div>
 

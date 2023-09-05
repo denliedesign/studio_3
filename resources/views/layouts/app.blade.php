@@ -29,7 +29,7 @@
 
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
-        <script async src="https://mobileinventor.com/applib/mobileDetector.php?appname=Studio_3_Dance" type="text/javascript"></script>
+{{--        <script async src="https://mobileinventor.com/applib/mobileDetector.php?appname=Studio_3_Dance" type="text/javascript"></script>--}}
 
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-3CD9TVGTDQ"></script>

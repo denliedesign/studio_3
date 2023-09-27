@@ -54,7 +54,7 @@
         <div class="row">
             <div class="col-sm d-flex align-items-center">
                 <div>
-                    <p class="text-center" style="font-size: 1.5em;"><strong>Building Character Through Dance Education in Plano</strong></p>
+                    <p class="text-center" style="font-size: 1.5em;"><strong>Building Character Through Dance in Plano</strong></p>
                     <p>
                         Studio 3 believes that dance education is not only about perfecting moves but also about instilling important values in our students in Plano. In our classes, children learn discipline, teamwork, self-expression, and confidence. We are committed to shaping well-rounded individuals who not only excel in dance but also carry these vital values into their lives. At our Plano dance studio, your child's passion for dance converges with personal growth.
                     </p>

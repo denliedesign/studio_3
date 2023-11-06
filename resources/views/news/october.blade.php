@@ -1,6 +1,6 @@
 @extends('layouts.app')
-@section('title', 'News September 2023 | Studio 3 Dance Plano TX')
-@section('description', 'We’ve had a great month back to dance and hope your classes are going well...')
+@section('title', 'News October 2023 | Studio 3 Dance Plano TX')
+@section('description', 'The month of October is an exciting time for Studio 3 Dance!')
 @section('content')
     <div class="banner-wrap">
         <div class="banner"></div>

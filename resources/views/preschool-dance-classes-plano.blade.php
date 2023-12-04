@@ -13,22 +13,34 @@
             Studio 3 takes pride in creating a learning experience that is positive and rewarding for dancers of all ages & levels. We offer a diverse schedule of dance classes in Plano, TX for children ages 18 months and up year round. Our main dance season runs from mid August through the end of May. To get the most out of your dance year, enrollment at the beginning of our season is best.
         </p>
 
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <a href="/images/23-fall-b.pdf" target="_blank">--}}
+{{--                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>--}}
+{{--            </a>--}}
+{{--        </div>--}}
+
         <div class="d-flex justify-content-center">
-            <a href="/images/23-fall-b.pdf" target="_blank">
-                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>
+            <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank" class="mx-3">
+                <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
             </a>
         </div>
 
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
-            <img src="/images/23-fall-2-b.jpg" alt="class schedule" class="img-fluid">
-            <img src="/images/23-fall-3-b.jpg" alt="class schedule" class="img-fluid">
+            <img src="/images/23-fall-preschool.png" alt="class schedule" class="img-fluid">
+            <img src="/images/23-fall-childrens.png" alt="class schedule" class="img-fluid">
         </div>
 
         <div class="d-flex justify-content-center">
-            <a href="/images/23-fall-b.pdf" target="_blank">
-                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>
+            <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank" class="mx-3">
+                <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
             </a>
         </div>
+
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <a href="/images/23-fall-b.pdf" target="_blank">--}}
+{{--                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>--}}
+{{--            </a>--}}
+{{--        </div>--}}
 
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 my-5">
 {{--            <div class="d-flex align-items-center" style="border: 1px solid #747474;">--}}

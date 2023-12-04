@@ -11,6 +11,12 @@
             </div>
         </div>
 
+        <div class="container">
+            <div class="d-flex justify-content-center">
+                <img src="/images/23-fall-special.png" alt="" class="img-fluid">
+            </div>
+        </div>
+
         <section id="vision" class="container my-5">
             <div class="d-flex align-items-center justify-content-center">
                 <div class="gradient-turq rounded"></div>

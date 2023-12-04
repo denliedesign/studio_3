@@ -21,9 +21,9 @@
         </p>
 
         <div class="d-flex justify-content-center">
-            <a href="/images/23-fall-b.pdf" target="_blank" class="mx-3">
-                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>
-            </a>
+{{--            <a href="/images/23-fall-b.pdf" target="_blank" class="mx-3">--}}
+{{--                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>--}}
+{{--            </a>--}}
             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank" class="mx-3">
                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
             </a>
@@ -33,14 +33,14 @@
 {{--            <img src="/images/23-fall-1.jpg" alt="class schedule" class="img-fluid">--}}
 {{--            <img src="/images/23-fall-2.jpg" alt="class schedule" class="img-fluid">--}}
 {{--            <img src="/images/23-fall-3.jpg" alt="class schedule" class="img-fluid">--}}
-            <img src="/images/23-fall-4-b.jpg" alt="class schedule" class="img-fluid">
-            <img src="/images/23-fall-5-b.jpg" alt="class schedule" class="img-fluid">
+            <img src="/images/23-fall-leveled.png" alt="class schedule" class="img-fluid">
+            <img src="/images/23-fall-teen.png" alt="class schedule" class="img-fluid">
         </div>
 
         <div class="d-flex justify-content-center">
-            <a href="/images/23-fall-b.pdf" target="_blank" class="mx-3">
-                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>
-            </a>
+{{--            <a href="/images/23-fall-b.pdf" target="_blank" class="mx-3">--}}
+{{--                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>--}}
+{{--            </a>--}}
             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank" class="mx-3">
                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
             </a>

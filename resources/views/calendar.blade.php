@@ -32,17 +32,31 @@
 {{--                    <br>--}}
 {{--                    <span class="purple-txt">June 1 - 4</span> - Spring Recitals at The Eisemann in RIchardson--}}
 {{--                    <br>--}}
-                    <br><span class="purple-txt">August 3</span> - Back to Dance Night
-                    <br><span class="purple-txt">August 5</span> - Fall classes begin
-                    <br><span class="purple-txt">September 1-4</span> - Closed for Labor Day Weekend
-                    <br><span class="purple-txt">October 9-13</span> - Closed for Fall Break (along with PISD)
-                    <br><span class="purple-txt">October 22</span> - Snow Queen Tea
-                    <br><span class="purple-txt">October 28</span> - Trunk or Treat
-                    <br><span class="purple-txt">October 31</span> - Closed for Halloween
-                    <br><span class="purple-txt">November 11-12</span> - Snow Queen Ballet
-                    <br><span class="purple-txt">November 20-25</span> - Closed for Thanksgiving week
-                    <br><span class="purple-txt">December 2</span> - Plano Christmas parade
-                    <br><span class="purple-txt">December 22 - January 7</span> - Closed for Winter Break
+{{--                    <br><span class="purple-txt">August 3</span> - Back to Dance Night--}}
+{{--                    <br><span class="purple-txt">August 5</span> - Fall classes begin--}}
+{{--                    <br><span class="purple-txt">September 1-4</span> - Closed for Labor Day Weekend--}}
+{{--                    <br><span class="purple-txt">October 9-13</span> - Closed for Fall Break (along with PISD)--}}
+{{--                    <br><span class="purple-txt">October 22</span> - Snow Queen Tea--}}
+{{--                    <br><span class="purple-txt">October 28</span> - Trunk or Treat--}}
+{{--                    <br><span class="purple-txt">October 31</span> - Closed for Halloween--}}
+{{--                    <br><span class="purple-txt">November 11-12</span> - Snow Queen Ballet--}}
+{{--                    <br><span class="purple-txt">November 20-25</span> - Closed for Thanksgiving week--}}
+{{--                    <br><span class="purple-txt">December 2</span> - Plano Christmas parade--}}
+{{--                    <br><span class="purple-txt">December 22 - January 7</span> - Closed for Winter Break--}}
+
+                    <br><span class="purple-txt">CLOSED Winter Break</span>  December  22 - January 7
+                    <br><span class="purple-txt">Classes Resume</span> January 8
+                    <br><span class="purple-txt">OPEN MLK Day</span> January 15
+                    <br><span class="purple-txt">OPEN President's Day</span>  February 19
+                    <br><span class="purple-txt">CLOSED Spring Break</span> March 11 - 17
+                    <br><span class="purple-txt">CLOSED  Easter weekend</span> March 30
+                                    <br><span class="purple-txt">LAST DAY OF CLASSES</span>  May 23
+                                    <br><span class="purple-txt">PORTRAIT DAYS at S3D</span>  May 29, 29
+                    <br><span class="purple-txt">RECITALS at the Eisemann</span> May 30, 31, June 1
+                    <br><span class="purple-txt">SUMMER CAMPS, CLASSES, WORKSHOPS</span> June 10 - 27
+                    <br><span class="purple-txt">CLOSED</span> June 28 - July 7
+                    <br><span class="purple-txt">SUMMER CAMPS, CLASSES, WORKSHOPS</span> July 8 - 25
+                    <br><span class="purple-txt">CLOSED</span> July 26 - August 3
 
                 </div>
             </div>

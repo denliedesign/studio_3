@@ -13,7 +13,8 @@
 
         <div class="container">
             <div class="d-flex justify-content-center">
-                <img src="/images/23-fall-special.png" alt="" class="img-fluid">
+{{--                <img src="/images/23-fall-special.png" alt="" class="img-fluid">--}}
+                <img src="/images/mini-mester.png" alt="" class="img-fluid">
             </div>
         </div>
 

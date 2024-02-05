@@ -87,6 +87,9 @@ Route::get('/news/december', function () {
 Route::get('/news/january', function () {
     return view('/news/january');
 });
+Route::get('/news/february', function () {
+    return view('/news/february');
+});
 
 Route::get('/snow-queen', function () {
     return view('/snow-queen');

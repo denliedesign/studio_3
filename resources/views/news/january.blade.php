@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'News December 2023 | Studio 3 Dance Plano TX')
+@section('title', 'News January 2024 | Studio 3 Dance Plano TX')
 @section('description', 'We hope you enjoy these last few weeks before Winter Break! Read on to find out what we have in store this season')
 @section('content')
     <div class="banner-wrap">

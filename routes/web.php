@@ -119,6 +119,10 @@ Route::get('/toddler-dance-classes-plano', function () {
     return view('/toddler-dance-classes-plano');
 });
 
+Route::get('/dance-classes-richardson', function () {
+    return view('/dance-classes-richardson');
+});
+
 Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
 Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
 

@@ -11,6 +11,7 @@
         <h1 class="text-center styled-font fw-bold" style="font-size: 3em;">2023-2024 Newsletters</h1>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
 {{--            <x-newsletter image="" month="" preview=""/>--}}
+            <x-newsletter image="news-apr-24.jpg" month="april" preview="The 2024 Spring Recitals are almost here! Read on to make sure you’re prepared for our next 2 months of classes."/>
             <x-newsletter image="news-mar-24.jpg" month="march" preview="It’s time to enroll for our next 5 week Mini - Session that starts the first week of April. We’d love to see our previous students as well as some new faces in these Spring Mini-Sessions!"/>
             <x-newsletter image="news-feb-24-a.jpg" month="february" preview="If you missed Monday classes due to the weather on MLK day, you are welcome to schedule a makeup during February BEFORE Spring Break."/>
             <x-newsletter image="news-jan-24-a.png" month="january" preview="Get those dance shoes back out! We’re excited to see everyone the week of Monday, January 8th!"/>

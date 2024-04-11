@@ -51,7 +51,7 @@
                     <br><span class="purple-txt">CLOSED Spring Break</span> March 11 - 17
                     <br><span class="purple-txt">CLOSED  Easter weekend</span> March 30
                                     <br><span class="purple-txt">LAST DAY OF CLASSES</span>  May 23
-                                    <br><span class="purple-txt">PORTRAIT DAYS at S3D</span>  May 29, 29
+                                    <br><span class="purple-txt">PORTRAIT DAYS at S3D</span>  May 28, 29
                     <br><span class="purple-txt">RECITALS at the Eisemann</span> May 30, 31, June 1
                     <br><span class="purple-txt">SUMMER CAMPS, CLASSES, WORKSHOPS</span> June 10 - 27
                     <br><span class="purple-txt">CLOSED</span> June 28 - July 7

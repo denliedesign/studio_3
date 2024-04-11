@@ -10,7 +10,7 @@
     <div id="teams" class="container mt-5">
         <div class="d-flex justify-content-center">
 {{--            <img src="/images/team-2022.jpg" alt="2022 team" class="img-fluid">--}}
-            <img src="/images/2023-studio-3.jpg" alt="2023 team" class="img-fluid">
+            <img src="/images/team-24.jpg" alt="2023 team" class="img-fluid">
         </div>
         <h1>Performance & Competition Teams</h1>
 

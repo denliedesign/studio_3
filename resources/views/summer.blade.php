@@ -13,12 +13,29 @@
 {{--            Summer Dance Classes in Plano begin June 6th--}}
         </p>
         <div class="row">
-            <div class="col-sm">
+            <div class="col-md">
+                <div class="d-flex justify-content-center my-4">
+                    <img src="/images/okla-24.jpg" alt="okla info" class="img-fluid shadow rounded">
+                </div>
+            </div>
+            <div class="col-md">
+                <div class="d-flex justify-content-center my-4">
+                    <img src="/images/summer-classes-24.jpg" alt="summer classes" class="img-fluid shadow rounded">
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank">
+                <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
+            </a>
+        </div>
+        <div class="row">
+            <div class="col-md">
                 <div class="d-flex justify-content-center my-4">
                     <img src="/images/2.png" alt="summer camp" class="img-fluid shadow rounded">
                 </div>
             </div>
-            <div class="col-sm">
+            <div class="col-md">
                 <div class="d-flex justify-content-center my-4">
                     <img src="/images/3.png" alt="summer camp" class="img-fluid shadow rounded">
                 </div>
@@ -31,10 +48,10 @@
                     </a>
                 </div>
         <div class="row my-4">
-            <div class="col-sm">
+            <div class="col-md">
                 <img src="/images/4.png" alt="summer camp" class="img-fluid shadow rounded">
             </div>
-            <div class="col-sm">
+            <div class="col-md">
                 <img src="/images/6.png" alt="summer camp" class="img-fluid shadow rounded">
             </div>
         </div>

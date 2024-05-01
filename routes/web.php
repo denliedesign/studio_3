@@ -123,6 +123,10 @@ Route::get('/dance-classes-richardson', function () {
     return view('/dance-classes-richardson');
 });
 
+Route::get('/tumble-classes-plano', function () {
+    return view('/tumble-classes-plano');
+});
+
 Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
 Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
 

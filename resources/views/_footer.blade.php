@@ -63,6 +63,7 @@
         &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/toddler-dance-classes-plano"><small class="text-white-50">Toddler Dance Classes Plano</small></a>
         &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/ballet-plano"><small class="text-white-50">Ballet Plano</small></a>
         &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/dance-classes-richardson"><small class="text-white-50">Dance Classes Richardson</small></a>
+        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/tumble-classes-plano"><small class="text-white-50">Tumble Classes Plano</small></a>
     </div>
 </div>
 

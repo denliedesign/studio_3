@@ -65,6 +65,10 @@ Route::get('/news/april', function () {
     return view('/news/april');
 });
 
+Route::get('/news/may', function () {
+    return view('/news/may');
+});
+
 Route::get('/news/august', function () {
     return view('/news/august');
 });

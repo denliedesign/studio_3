@@ -115,6 +115,10 @@ Route::get('/ballet-plano', function () {
     return view('/ballet-plano');
 });
 
+Route::get('/dance-allen', function () {
+    return view('/dance-allen');
+});
+
 Route::get('/preschool-dance-classes-plano', function () {
     return view('/preschool-dance-classes-plano');
 });

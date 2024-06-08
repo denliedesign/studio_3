@@ -57,6 +57,10 @@ Route::get('calendar', function () {
     return view('calendar');
 });
 
+Route::get('/news/june', function () {
+    return view('/news/june');
+});
+
 Route::get('/news/march', function () {
     return view('/news/march');
 });

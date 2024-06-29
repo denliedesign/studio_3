@@ -123,6 +123,10 @@ Route::get('/dance-allen', function () {
     return view('/dance-allen');
 });
 
+Route::get('/dance-studios-allen', function () {
+    return view('/dance-studios-allen');
+});
+
 Route::get('/preschool-dance-classes-plano', function () {
     return view('/preschool-dance-classes-plano');
 });

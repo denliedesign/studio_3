@@ -37,13 +37,17 @@
             <img src="/images/24-fall_page-0005.jpg" alt="class schedule" class="img-fluid">
         </div>
 
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center my-3">
 {{--            <a href="/images/23-fall-b.pdf" target="_blank" class="mx-3">--}}
 {{--                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>--}}
 {{--            </a>--}}
             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank" class="mx-3">
                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
             </a>
+        </div>
+
+        <div>
+            <img src="/images/24-pathways.jpg" alt="path" class="img-fluid">
         </div>
 
 {{--        <section id="enrollment">--}}

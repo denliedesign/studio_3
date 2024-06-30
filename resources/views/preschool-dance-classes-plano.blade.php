@@ -30,10 +30,14 @@
             <img src="/images/24-fall_page-0003.jpg" alt="class schedule" class="img-fluid">
         </div>
 
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center my-3">
             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank" class="mx-3">
                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>
             </a>
+        </div>
+
+        <div>
+            <img src="/images/24-pathways.jpg" alt="path" class="img-fluid">
         </div>
 
 {{--        <div class="d-flex justify-content-center">--}}
@@ -42,6 +46,9 @@
 {{--            </a>--}}
 {{--        </div>--}}
 
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <img src="/images/ready-set-logos.png" alt="ready set logos" class="img-fluid">--}}
+{{--        </div>--}}
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 my-5">
 {{--            <div class="d-flex align-items-center" style="border: 1px solid #747474;">--}}
 {{--                <div class="col text-center">--}}
@@ -72,6 +79,15 @@
 {{--            </div>--}}
             <div class="d-flex align-items-center" style="border: 1px solid #747474;">
                 <div class="col text-center">
+                    <img src="/images/ready-set-logos.png" alt="childrens class logo" class="img-fluid m-2">
+                    <small class="text-muted d-block">I for ages 2 1/2 - 4 & II for ages 5 - 6</small>
+                    <p>
+
+                    </p>
+                </div>
+            </div>
+            <div class="d-flex align-items-center" style="border: 1px solid #747474;">
+                <div class="col text-center">
                     <img src="/images/logo-ready-acro.png" alt="childrens class logo" class="img-fluid m-2">
                     <small class="text-muted d-block">I for ages 2 1/2 - 4 & II for ages 5 - 6</small>
                     <p>
@@ -89,15 +105,15 @@
                 </div>
             </div>
 
-            <div class="d-flex align-items-center" style="border: 1px solid #747474;">
-                <div class="col text-center">
-                    <img src="/images/child-4.png" alt="childrens class logo" class="img-fluid m-2">
-                    <small class="text-muted d-block">ages 3 - 5</small>
-                    <p>
-                        Designed for 3 - 5 year olds to enhance gross motor coordination and listening skills through music, props, and ballet.
-                    </p>
-                </div>
-            </div>
+{{--            <div class="d-flex align-items-center" style="border: 1px solid #747474;">--}}
+{{--                <div class="col text-center">--}}
+{{--                    <img src="/images/child-4.png" alt="childrens class logo" class="img-fluid m-2">--}}
+{{--                    <small class="text-muted d-block">ages 3 - 5</small>--}}
+{{--                    <p>--}}
+{{--                        Designed for 3 - 5 year olds to enhance gross motor coordination and listening skills through music, props, and ballet.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="d-flex align-items-center" style="border: 1px solid #747474;">
                 <div class="col text-center">
                     <img src="/images/child-5.png" alt="childrens class logo" class="img-fluid m-2">
@@ -107,15 +123,15 @@
                     </p>
                 </div>
             </div>
-            <div class="d-flex align-items-center" style="border: 1px solid #747474;">
-                <div class="col text-center">
-                    <img src="/images/dance-upon-a-star.png" alt="childrens class logo" class="img-fluid m-2">
-                    <small class="text-muted d-block">ages 5+</small>
-                    <p>
-                        Ballet class for dancers with special needs.
-                    </p>
-                </div>
-            </div>
+{{--            <div class="d-flex align-items-center" style="border: 1px solid #747474;">--}}
+{{--                <div class="col text-center">--}}
+{{--                    <img src="/images/dance-upon-a-star.png" alt="childrens class logo" class="img-fluid m-2">--}}
+{{--                    <small class="text-muted d-block">ages 5+</small>--}}
+{{--                    <p>--}}
+{{--                        Ballet class for dancers with special needs.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 {{--            <div class="d-flex align-items-center" style="border: 1px solid #747474;">--}}
 {{--                <div class="col text-center">--}}
 {{--                    <img src="/images/child-6.jpg" alt="childrens class logo" class="img-fluid m-2">--}}
@@ -220,8 +236,8 @@
 {{--            </div>--}}
         </div>
         <div class="d-flex justify-content-center">
-            <a href="/images/23-fall-b.pdf" target="_blank" class="mx-3">
-                <button class="btn btn-lg btn-danger shadow mb-4">View 2023-2024 Classes PDF</button>
+            <a href="/images/24-fall.pdf" target="_blank" class="mx-3">
+                <button class="btn btn-lg btn-danger shadow mb-4">View 2024-2025 Classes PDF</button>
             </a>
             <a href="https://app.thestudiodirector.com/studio3dance/portal.sd?page=Login" target="_blank" class="mx-3">
                 <button class="btn btn-lg btn-danger shadow mb-4">Register Now</button>

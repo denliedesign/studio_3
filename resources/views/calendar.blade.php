@@ -8,16 +8,19 @@
     </div>
 
     <section id="enrollment" class="container my-5" style="font-size: 1.25em;">
-        <div class="stand-out text-capitalize text-center">
-            Fall 2023-24 registration open now!
+        <div class="d-flex justify-content-center">
+            <img src="/images/24-calendar.jpg" alt="calendar overview" class="img-fluid">
         </div>
-        <p class="text-center">
-            Fall classes begin August 5th
-        </p>
-        <div class="d-flex align-items-center justify-content-center my-5">
-            <div class="text-left">
-                <div>
-                    <span class="stand-out">Upcoming Dates</span>
+{{--        <div class="stand-out text-capitalize text-center">--}}
+{{--            Fall 2023-24 registration open now!--}}
+{{--        </div>--}}
+{{--        <p class="text-center">--}}
+{{--            Fall classes begin August 5th--}}
+{{--        </p>--}}
+{{--        <div class="d-flex align-items-center justify-content-center my-5">--}}
+{{--            <div class="text-left">--}}
+{{--                <div>--}}
+{{--                    <span class="stand-out">Upcoming Dates</span>--}}
 {{--                    <span class="purple-txt">February 20</span> - S3D is OPEN for President's Day--}}
 {{--                    <br>--}}
 {{--                    <span class="purple-txt">March 6 - 11</span> - S3D is CLOSED for PISD Spring Break--}}
@@ -44,23 +47,26 @@
 {{--                    <br><span class="purple-txt">December 2</span> - Plano Christmas parade--}}
 {{--                    <br><span class="purple-txt">December 22 - January 7</span> - Closed for Winter Break--}}
 
-                    <br><span class="purple-txt">CLOSED Winter Break</span>  December  22 - January 7
-                    <br><span class="purple-txt">Classes Resume</span> January 8
-                    <br><span class="purple-txt">OPEN MLK Day</span> January 15
-                    <br><span class="purple-txt">OPEN President's Day</span>  February 19
-                    <br><span class="purple-txt">CLOSED Spring Break</span> March 11 - 17
-                    <br><span class="purple-txt">CLOSED  Easter weekend</span> March 30
-                                    <br><span class="purple-txt">LAST DAY OF CLASSES</span>  May 23
-                                    <br><span class="purple-txt">PORTRAIT DAYS at S3D</span>  May 28, 29
-                    <br><span class="purple-txt">RECITALS at the Eisemann</span> May 30, 31, June 1
-                    <br><span class="purple-txt">SUMMER CAMPS, CLASSES, WORKSHOPS</span> June 10 - 27
-                    <br><span class="purple-txt">CLOSED</span> June 28 - July 7
-                    <br><span class="purple-txt">SUMMER CAMPS, CLASSES, WORKSHOPS</span> July 8 - 25
-                    <br><span class="purple-txt">CLOSED</span> July 26 - August 3
 
-                </div>
-            </div>
-        </div>
+
+{{--                    --}}
+{{--                    <br><span class="purple-txt">CLOSED Winter Break</span>  December  22 - January 7--}}
+{{--                    <br><span class="purple-txt">Classes Resume</span> January 8--}}
+{{--                    <br><span class="purple-txt">OPEN MLK Day</span> January 15--}}
+{{--                    <br><span class="purple-txt">OPEN President's Day</span>  February 19--}}
+{{--                    <br><span class="purple-txt">CLOSED Spring Break</span> March 11 - 17--}}
+{{--                    <br><span class="purple-txt">CLOSED  Easter weekend</span> March 30--}}
+{{--                                    <br><span class="purple-txt">LAST DAY OF CLASSES</span>  May 23--}}
+{{--                                    <br><span class="purple-txt">PORTRAIT DAYS at S3D</span>  May 28, 29--}}
+{{--                    <br><span class="purple-txt">RECITALS at the Eisemann</span> May 30, 31, June 1--}}
+{{--                    <br><span class="purple-txt">SUMMER CAMPS, CLASSES, WORKSHOPS</span> June 10 - 27--}}
+{{--                    <br><span class="purple-txt">CLOSED</span> June 28 - July 7--}}
+{{--                    <br><span class="purple-txt">SUMMER CAMPS, CLASSES, WORKSHOPS</span> July 8 - 25--}}
+{{--                    <br><span class="purple-txt">CLOSED</span> July 26 - August 3--}}
+
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
     </section>
 
 @endsection

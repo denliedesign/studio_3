@@ -11,7 +11,7 @@
     <div id="general-section" class="mt-5 container">
         <h1>Attire</h1>
         <div class="d-flex justify-content-center">
-            <img src="/images/dress-code.jpg" alt="dancers in dress code" class="img-fluid">
+            <img src="/images/24-dress-code.jpg" alt="dancers in dress code" class="img-fluid">
         </div>
         <p>
             Hair should be pulled away from dancer's face with clips, headbands, or ponytails for all classes. Bun required for ballet.

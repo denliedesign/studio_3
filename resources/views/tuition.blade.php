@@ -11,17 +11,17 @@
         <h1 class="mt-5">Tuition</h1>
 
         <div class="d-flex justify-content-center">
-            <a href="/images/23-tuition.pdf" target="_blank">
-                <button class="btn btn-lg btn-danger shadow mb-4">View Tuition PDF For 2023-2024</button>
+            <a href="/images/24-tuition.pdf" target="_blank">
+                <button class="btn btn-lg btn-danger shadow mb-4">View Tuition PDF For 2024-2025</button>
             </a>
         </div>
 
         <div>
             <div class="rotated-bg-blue rounded my-5">
-                <img src="/images/23-tuition-1.jpg" alt="tuition" class="img-fluid rerotate p-5">
+                <img src="/images/24-tuition_page-0001.jpg" alt="tuition" class="img-fluid rerotate p-5">
             </div>
             <div class="rotated-bg-blue rounded my-5">
-                <img src="/images/23-tuition-2.jpg" alt="tuition" class="img-fluid rerotate p-5">
+                <img src="/images/24-tuition_page-0002.jpg" alt="tuition" class="img-fluid rerotate p-5">
             </div>
         </div>
 {{--        <p>--}}

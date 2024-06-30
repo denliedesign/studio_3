@@ -33,8 +33,8 @@
 {{--            <img src="/images/23-fall-1.jpg" alt="class schedule" class="img-fluid">--}}
 {{--            <img src="/images/23-fall-2.jpg" alt="class schedule" class="img-fluid">--}}
 {{--            <img src="/images/23-fall-3.jpg" alt="class schedule" class="img-fluid">--}}
-            <img src="/images/23-fall-leveled.png" alt="class schedule" class="img-fluid">
-            <img src="/images/23-fall-teen.png" alt="class schedule" class="img-fluid">
+            <img src="/images/24-fall_page-0004.jpg" alt="class schedule" class="img-fluid">
+            <img src="/images/24-fall_page-0005.jpg" alt="class schedule" class="img-fluid">
         </div>
 
         <div class="d-flex justify-content-center">

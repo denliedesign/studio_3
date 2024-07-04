@@ -11,7 +11,7 @@
         <h1 class="text-center styled-font fw-bold" style="font-size: 3em;">2023-2024 Newsletters</h1>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
 {{--            <x-newsletter image="" month="" preview=""/>--}}
-            <x-newsletter image="news-july-24.png" month="july" preview="We hope you’re enjoying your summer break! Here at Studio 3 Dance we’re already getting ready for classes to start in the Fall for our 27th Season of Dance."/>
+            <x-newsletter image="news-july-24.jpg" month="july" preview="We hope you’re enjoying your summer break! Here at Studio 3 Dance we’re already getting ready for classes to start in the Fall for our 27th Season of Dance."/>
             <x-newsletter image="news-june-24.png" month="june" preview="Thank you so much for a great year of dance.  We hope to see you soon for summer camps, workshops, or classes! It’s a great time to try something new!"/>
             <x-newsletter image="news-may-24.jpg" month="may" preview="The end of the school year and our Spring Recitals are almost here!!! Read on for all the end-of-year news you need to know!"/>
             <x-newsletter image="news-apr-24.jpg" month="april" preview="The 2024 Spring Recitals are almost here! Read on to make sure you’re prepared for our next 2 months of classes."/>

@@ -9,7 +9,7 @@
     <div id="general-section">
         <div class="container">
             <div class="px-md-5 d-flex justify-content-center">
-                <img src="/images/news-july-24.png" alt="july news" class="img-fluid">
+                <img src="/images/news-july-24.jpg" alt="july news" class="img-fluid">
             </div>
         </div>
     </div>

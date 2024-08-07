@@ -8,21 +8,10 @@
     </div>
 
     <div class="container my-5">
-        <h1 class="text-center styled-font fw-bold" style="font-size: 3em;">2023-2024 Newsletters</h1>
+        <h1 class="text-center styled-font fw-bold" style="font-size: 3em;">2024-2025 Newsletters</h1>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
 {{--            <x-newsletter image="" month="" preview=""/>--}}
-            <x-newsletter image="news-july-24.jpg" month="july" preview="We hope you’re enjoying your summer break! Here at Studio 3 Dance we’re already getting ready for classes to start in the Fall for our 27th Season of Dance."/>
-            <x-newsletter image="news-june-24.png" month="june" preview="Thank you so much for a great year of dance.  We hope to see you soon for summer camps, workshops, or classes! It’s a great time to try something new!"/>
-            <x-newsletter image="news-may-24.jpg" month="may" preview="The end of the school year and our Spring Recitals are almost here!!! Read on for all the end-of-year news you need to know!"/>
-            <x-newsletter image="news-apr-24.jpg" month="april" preview="The 2024 Spring Recitals are almost here! Read on to make sure you’re prepared for our next 2 months of classes."/>
-            <x-newsletter image="news-mar-24.jpg" month="march" preview="It’s time to enroll for our next 5 week Mini - Session that starts the first week of April. We’d love to see our previous students as well as some new faces in these Spring Mini-Sessions!"/>
-            <x-newsletter image="news-feb-24-a.jpg" month="february" preview="If you missed Monday classes due to the weather on MLK day, you are welcome to schedule a makeup during February BEFORE Spring Break."/>
-            <x-newsletter image="news-jan-24-a.png" month="january" preview="Get those dance shoes back out! We’re excited to see everyone the week of Monday, January 8th!"/>
-            <x-newsletter image="news-dec-23-a.png" month="december" preview="We hope you enjoy these last few weeks before Winter Break! Read on to find out what we have in store this season"/>
-            <x-newsletter image="news-nov-23.png" month="november" preview="This month Studio 3 Dance is getting ramped up for the holiday season! See for involvement opportunities and seasonal breaks."/>
-            <x-newsletter image="news-oct-23.png" month="october" preview="The month of October is an exciting time for Studio 3 Dance! Get ready to mark your calendars"/>
-            <x-newsletter image="news-sep-23.png" month="september" preview="We’ve had a great month back to dance and hope your classes are going well!  If you are looking to add a new class OR have any questions we can answer for you, please email or call the studio.  We’d love to help!"/>
-            <x-newsletter image="news-aug-23.png" month="august" preview="It’s Back to Dance at Studio 3!  We have missed you and look forward to seeing you at our Back to Dance Night at the studio on Thursday, August 3rd from 5:30 - 6:30.  Our staff will be set up with information tables about classes, performance teams, Snow Queen auditions, spin for prizes and more!"/>
+            <x-newsletter image="news-aug-24.jpg" month="august" preview="It’s Back to Dance at Studio 3!  We have missed you and look forward to seeing you at our Back to Dance Night at the studio on Thursday, August 1st from 5:30 - 6:30.  Our staff will be available to answer questions about classes, attire, spin for prizes and more!"/>
         </div>
     </div>
 

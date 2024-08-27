@@ -26,8 +26,8 @@
         </div>
 
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
-            <img src="/images/24-fall_page-0002.jpg" alt="class schedule" class="img-fluid">
-            <img src="/images/24-fall_page-0003.jpg" alt="class schedule" class="img-fluid">
+            <img src="/images/classes-preschool-24-25.jpg" alt="class schedule" class="img-fluid">
+            <img src="/images/classes-childrens-24-25.jpg" alt="class schedule" class="img-fluid">
         </div>
 
         <div class="d-flex justify-content-center my-3">

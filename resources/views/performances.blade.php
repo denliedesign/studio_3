@@ -146,6 +146,9 @@
 {{--        <iframe width="100%" height="638px" src="https://www.yumpu.com/en/embed/view/TtGsL1PIB3HnoUZr" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>--}}
 
         <span class="stand-out">Plano Christmas Parade</span>
+        <p>
+            March with Studio 3 in the 2024 Plano Christmas Parade on Saturday, December 14th at 2:00pm.  Costume and 2 rehearsals required  on Friday, Dec 6th and 13th from 5:30 - 6:30. Sign up on or before October 12th so costumes can be ordered. Fee TBD.
+        </p>
         <div class="row d-flex justify-content-center mb-5 rotated-bg-red rounded">
             <div class="rerotate col-sm"><img src="/images/plano-christmas-parade.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
             <div class="rerotate col-sm"><img src="/images/plano-christmas-parade-2.jpg" alt="plano christmas parade" class="img-fluid shadow rounded" style="max-height: 275.44px;"></div>
@@ -153,16 +156,17 @@
         </div>
         <span class="stand-out">Snow Queen</span>
         <p>
+            Snow Queen 2025 information coming spring of 2025.
 {{--            We present our winter ballet, Snow Queen every other year.--}}
-            Snow Queen 2023 will be held the weekend of November 11th and 12th at the Eisemann Bank of America Theatre in Richardson. We have openings for dancers ages 3 - 18. If you are interested in auditioning, join us August 5th or August 12th at 1:00pm.  Please call or email the studio for additional information.
-            Rehearsals begin Friday August 18th.
+{{--            Snow Queen 2023 will be held the weekend of November 11th and 12th at the Eisemann Bank of America Theatre in Richardson. We have openings for dancers ages 3 - 18. If you are interested in auditioning, join us August 5th or August 12th at 1:00pm.  Please call or email the studio for additional information.--}}
+{{--            Rehearsals begin Friday August 18th.--}}
             {{--            Dates for our next ballet are November 13, 14, 2021. Auditions are August 14th at 1:00pm at the studio.--}}
 {{--        <span class="text-capitalize">View The <a href="/images/snow-queen-rehearsal-schedule.pdf" target="_blank">Rehearsal schedule for the fall</a></span>--}}
         </p>
-        <div class="row my-3">
-            <div class="col-md"><img src="/images/23-snow-queen-rehearsal-1.jpg" alt="snow queen" class="img-fluid"></div>
-            <div class="col-md"><img src="/images/23-snow-queen-rehearsal-2.jpg" alt="snow queen" class="img-fluid"></div>
-        </div>
+{{--        <div class="row my-3">--}}
+{{--            <div class="col-md"><img src="/images/23-snow-queen-rehearsal-1.jpg" alt="snow queen" class="img-fluid"></div>--}}
+{{--            <div class="col-md"><img src="/images/23-snow-queen-rehearsal-2.jpg" alt="snow queen" class="img-fluid"></div>--}}
+{{--        </div>--}}
         <div class="row d-flex justify-content-center">
             <div class="col-sm">
                 <video width="100%" height="auto" controls class="rounded shadow">

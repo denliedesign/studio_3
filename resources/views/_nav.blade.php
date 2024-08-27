@@ -47,9 +47,9 @@
                     {{--                    <li class="nav-item mx-1">--}}
                     {{--                        <a class="nav-link" href="/attire">Attire</a>--}}
                     {{--                    </li>--}}
-                                        <li class="nav-item mx-1">
-                                            <a class="nav-link" href="/summer">Summer</a>
-                                        </li>
+{{--                                        <li class="nav-item mx-1">--}}
+{{--                                            <a class="nav-link" href="/summer">Summer</a>--}}
+{{--                                        </li>--}}
                     {{--                    <li class="nav-item mx-1">--}}
                     {{--                        <a class="nav-link" href="/policies">Policies</a>--}}
                     {{--                    </li>--}}

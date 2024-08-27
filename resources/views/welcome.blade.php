@@ -246,7 +246,9 @@
 {{--            <div class="gradient-turq rounded"></div>--}}
             <div class="row">
                 <div class="col-sm d-flex align-items-center">
+                    <a href="https://www.readyset.dance/" target="_blank">
                     <img src="/images/logo-ready-set.png" alt="ballet" style="max-height: 350px; width: auto;" class="img-fluid rounded">
+                    </a>
                 </div>
                 <div class="col-sm">
                     <div class="shadow p-5 mx-sm-5 my-5 rounded bg-white" style="max-width: 500px;">

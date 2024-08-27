@@ -9,7 +9,7 @@
 
     <section id="enrollment" class="container my-5" style="font-size: 1.25em;">
         <div class="d-flex justify-content-center">
-            <img src="/images/24-calendar.jpg" alt="calendar overview" class="img-fluid">
+            <img src="/images/calendar-24-25.jpg" alt="calendar overview" class="img-fluid">
         </div>
 {{--        <div class="stand-out text-capitalize text-center">--}}
 {{--            Fall 2023-24 registration open now!--}}

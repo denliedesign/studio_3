@@ -33,9 +33,9 @@ Route::get('policies', function () {
     return view('policies');
 });
 
-Route::get('summer', function () {
-    return view('summer');
-});
+//Route::get('summer', function () {
+//    return view('summer');
+//});
 
 Route::get('tuition', function () {
     return view('tuition');

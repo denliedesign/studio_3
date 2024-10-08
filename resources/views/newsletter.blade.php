@@ -11,6 +11,7 @@
         <h1 class="text-center styled-font fw-bold" style="font-size: 3em;">2024-2025 Newsletters</h1>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
 {{--            <x-newsletter image="" month="" preview=""/>--}}
+            <x-newsletter image="news-oct-24.jpg" month="october" preview="The month of October is an exciting time for Studio 3 Dance! Get ready to mark your calendars…"/>
             <x-newsletter image="news-sep-24.png" month="september" preview="We’ve had a great month back at dance and we hope your classes are going well!  If you are looking to add a new class OR have any questions we can answer for you, please email or call the studio.  We’d love to help!"/>
             <x-newsletter image="news-aug-24.jpg" month="august" preview="It’s Back to Dance at Studio 3!  We have missed you and look forward to seeing you at our Back to Dance Night at the studio on Thursday, August 1st from 5:30 - 6:30.  Our staff will be available to answer questions about classes, attire, spin for prizes and more!"/>
         </div>

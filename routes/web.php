@@ -131,6 +131,16 @@ Route::get('/dance-studios-allen', function () {
     return view('/dance-studios-allen');
 });
 
+Route::get('/dance-plano', function () {
+    return view('/dance-plano');
+});
+Route::get('/dance-richardson', function () {
+    return view('/dance-richardson');
+});
+Route::get('/allen-dance', function () {
+    return view('/allen-dance');
+});
+
 Route::get('/preschool-dance-classes-plano', function () {
     return view('/preschool-dance-classes-plano');
 });

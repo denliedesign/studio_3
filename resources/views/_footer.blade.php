@@ -57,15 +57,9 @@
 </div>
 <div class="bg-dark py-2 text-white-50">
     <div class="container text-center">
-        <a style="text-decoration: none;" href="/dance-classes-in-plano-tx"><small class="text-white-50">Dance Classes In Plano TX</small></a>
-        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/dance-studios-in-plano-tx"><small class="text-white-50">Dance Studios In Plano TX</small></a>
-        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/dance-lessons-plano"><small class="text-white-50">Dance Lessons Plano</small></a>
-        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/toddler-dance-classes-plano"><small class="text-white-50">Toddler Dance Classes Plano</small></a>
-        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/ballet-plano"><small class="text-white-50">Ballet Plano</small></a>
-        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/dance-classes-richardson"><small class="text-white-50">Dance Classes Richardson</small></a>
-        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/tumble-classes-plano"><small class="text-white-50">Tumble Classes Plano</small></a>
-        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/dance-allen"><small class="text-white-50">Dance Allen</small></a>
-        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/dance-studios-allen"><small class="text-white-50">Dance Studios Allen</small></a>
+        <a style="text-decoration: none;" href="/dance-plano"><small class="text-white-50">Dance Plano</small></a>
+        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/dance-richardson"><small class="text-white-50">Dance Richardson</small></a>
+        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/allen-dance"><small class="text-white-50">Allen Dance</small></a>
     </div>
 </div>
 

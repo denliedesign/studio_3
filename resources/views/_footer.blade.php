@@ -59,6 +59,7 @@
     <div class="container text-center">
         <a style="text-decoration: none;" href="/dance-plano"><small class="text-white-50">Dance Plano</small></a>
         &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/dance-richardson"><small class="text-white-50">Dance Richardson</small></a>
+        &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/dance-frisco"><small class="text-white-50">Dance Frisco</small></a>
         &nbsp; &middot; &nbsp;<a style="text-decoration: none;" href="/allen-dance"><small class="text-white-50">Allen Dance</small></a>
     </div>
 </div>

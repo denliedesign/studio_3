@@ -137,6 +137,9 @@ Route::get('/dance-plano', function () {
 Route::get('/dance-richardson', function () {
     return view('/dance-richardson');
 });
+Route::get('/dance-frisco', function () {
+    return view('/dance-frisco');
+});
 Route::get('/allen-dance', function () {
     return view('/allen-dance');
 });

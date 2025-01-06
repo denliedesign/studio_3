@@ -11,6 +11,8 @@
         <h1 class="text-center styled-font fw-bold" style="font-size: 3em;">2024-2025 Newsletters</h1>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
 {{--            <x-newsletter image="" month="" preview=""/>--}}
+            <x-newsletter image="news-jan-25.jpg" month="january" preview="Get those dance shoes back out! We’re excited to see everyone the week of Monday, January 6th!"/>
+            <x-newsletter image="news-dec-24.jpg" month="december" preview="We hope you enjoy these last few weeks before Winter Break! Read on to find out what we have in store the rest of this semester."/>
             <x-newsletter image="news-nov-24.jpg" month="november" preview="This month Studio 3 Dance is getting ramped up for the holiday season!"/>
             <x-newsletter image="news-oct-24.jpg" month="october" preview="The month of October is an exciting time for Studio 3 Dance! Get ready to mark your calendars…"/>
             <x-newsletter image="news-sep-24.png" month="september" preview="We’ve had a great month back at dance and we hope your classes are going well!  If you are looking to add a new class OR have any questions we can answer for you, please email or call the studio.  We’d love to help!"/>

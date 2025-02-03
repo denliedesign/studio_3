@@ -11,6 +11,10 @@
         <h1 class="text-center styled-font fw-bold" style="font-size: 3em;">2024-2025 Newsletters</h1>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
 {{--            <x-newsletter image="" month="" preview=""/>--}}
+            <x-newsletter image="news-feb-25.jpg" month="february" preview="MAKEUP CLASSES:  If you have missed a class and you would like to schedule
+a makeup, please do so with the front desk during February.
+Due to preparations for recital, makeups will not be scheduled after Spring Break.
+Your makeup can be scheduled in any age appropriate class."/>
             <x-newsletter image="news-jan-25.jpg" month="january" preview="Get those dance shoes back out! We’re excited to see everyone the week of Monday, January 6th!"/>
             <x-newsletter image="news-dec-24.jpg" month="december" preview="We hope you enjoy these last few weeks before Winter Break! Read on to find out what we have in store the rest of this semester."/>
             <x-newsletter image="news-nov-24.jpg" month="november" preview="This month Studio 3 Dance is getting ramped up for the holiday season!"/>
